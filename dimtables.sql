@@ -92,4 +92,27 @@ SET interval = ranked_rentals.ntile_value
 FROM ranked_rentals
 WHERE rental_fact.rental_id = ranked_rentals.rental_id;
 
--- task 2
+-- task 4
+ALTER TABLE rental_fact ADD COLUMN name varchar(255);
+WITH full_name AS (
+    SELECT customer.customer_id, customer.first_name || ' ' || customer.last_name AS name
+    FROM customer
+)
+UPDATE rental_fact
+SET name = full_name.name
+FROM full_name
+WHERE rental_fact.customer_id = full_name.customer_id;
+
+ALTER TABLE rental_fact ADD COLUMN actor_name varchar(255);
+/*WITH full_actor_name AS (
+    SELECT actor.actor_id, actor.first_name || ' ' || actor.last_name AS name
+    FROM actor
+)
+UPDATE rental_fact
+SET actor_name = full_actor_name.name
+FROM full_actor_name
+LEFT JOIN film_actor ON full_actor_name.actor_id = film_actor.actor_id
+LEFT JOIN film on film_actor.film_id = film.film_id
+LEFT JOIN inventory on film.film_id = inventory.film_id
+LEFT JOIN rental_fact on inventory.inventory_id = rental_fact.rental_id
+WHERE film_actor.actor_id = full_actor_name.actor_id;*/
