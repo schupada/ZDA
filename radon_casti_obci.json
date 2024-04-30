@@ -1,0 +1,11035 @@
+{
+   "displayFieldName": "kod_cast",
+   "fieldAliases": {
+    "kod_obec": "Kód obce",
+    "kod_cast": "Kód části obce",
+    "radon": "Radonový index geologického podloží (1 – nízký, 2 – střední,3 – vysoký)"
+   },
+   "geometryType": "esriGeometryPoint",
+   "spatialReference": {
+    "wkid": 102067,
+    "latestWkid": 5514
+   },
+   "fields": [
+    {
+     "name": "kod_obec",
+     "type": "esriFieldTypeString",
+     "alias": "Kód obce",
+     "length": 6
+    },
+    {
+     "name": "kod_cast",
+     "type": "esriFieldTypeString",
+     "alias": "Kód části obce",
+     "length": 6
+    },
+    {
+     "name": "radon",
+     "type": "esriFieldTypeSmallInteger",
+     "alias": "Radonový index geologického podloží (1 – nízký, 2 – střední,3 – vysoký)"
+    }
+   ],
+   "features": [
+    {
+     "attributes": {
+      "kod_obec": "545562",
+      "kod_cast": "403997",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -757100,
+      "y": -1195700
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530115",
+      "kod_cast": "192309",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -739275,
+      "y": -1083868
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530115",
+      "kod_cast": "401161",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -739800,
+      "y": -1085300
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530115",
+      "kod_cast": "401170",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -740100,
+      "y": -1083700
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530115",
+      "kod_cast": "190136",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -736253,
+      "y": -1083871
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530115",
+      "kod_cast": "401137",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -736400,
+      "y": -1085700
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530115",
+      "kod_cast": "401145",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -736800,
+      "y": -1086200
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531294",
+      "kod_cast": "196037",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -767029,
+      "y": -1049882
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533670",
+      "kod_cast": "054402",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -763144,
+      "y": -1049321
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531294",
+      "kod_cast": "081884",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -766654,
+      "y": -1046478
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531251",
+      "kod_cast": "050571",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -786475,
+      "y": -1070110
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529303",
+      "kod_cast": "002305",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -730133,
+      "y": -1079071
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531227",
+      "kod_cast": "049255",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -776743,
+      "y": -1052447
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531120",
+      "kod_cast": "017311",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -785437,
+      "y": -1058279
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531294",
+      "kod_cast": "055441",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -768362,
+      "y": -1046186
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531090",
+      "kod_cast": "014605",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -783873,
+      "y": -1057810
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530409",
+      "kod_cast": "401404",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -723000,
+      "y": -1076700
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529303",
+      "kod_cast": "400939",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -726500,
+      "y": -1078000
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545619",
+      "kod_cast": "091090",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -752603,
+      "y": -1202162
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530115",
+      "kod_cast": "190101",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -734762,
+      "y": -1083462
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530115",
+      "kod_cast": "192325",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -739760,
+      "y": -1084532
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530115",
+      "kod_cast": "190128",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -736381,
+      "y": -1084486
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545619",
+      "kod_cast": "083631",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -753007,
+      "y": -1195487
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530115",
+      "kod_cast": "401153",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -736300,
+      "y": -1085400
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533165",
+      "kod_cast": "402095",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -689145,
+      "y": -1057387
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533165",
+      "kod_cast": "402117",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -688265,
+      "y": -1057797
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533165",
+      "kod_cast": "402133",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -689687,
+      "y": -1057735
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533165",
+      "kod_cast": "068241",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -690272,
+      "y": -1057680
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532312",
+      "kod_cast": "042374",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -767962,
+      "y": -1040077
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "564150",
+      "kod_cast": "083135",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -754372,
+      "y": -1031851
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532681",
+      "kod_cast": "116980",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -751415,
+      "y": -1027886
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533092",
+      "kod_cast": "190454",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -752569,
+      "y": -1029159
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533092",
+      "kod_cast": "190462",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -753336,
+      "y": -1029262
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533157",
+      "kod_cast": "197556",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -760149,
+      "y": -1022695
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532525",
+      "kod_cast": "078719",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -765077,
+      "y": -1039483
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "513130",
+      "kod_cast": "028304",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -761621,
+      "y": -1037245
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533033",
+      "kod_cast": "179370",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -763124,
+      "y": -1036920
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533165",
+      "kod_cast": "068250",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -686245,
+      "y": -1059583
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599433",
+      "kod_cast": "159891",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -762394,
+      "y": -1043150
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545619",
+      "kod_cast": "091111",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -755718,
+      "y": -1197509
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536971",
+      "kod_cast": "195014",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -690349,
+      "y": -997724
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530115",
+      "kod_cast": "091979",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -738243,
+      "y": -1085607
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530115",
+      "kod_cast": "401188",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -739400,
+      "y": -1083200
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545619",
+      "kod_cast": "091103",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -755451,
+      "y": -1200158
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532126",
+      "kod_cast": "009539",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -765296,
+      "y": -1038234
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532711",
+      "kod_cast": "118354",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -760688,
+      "y": -1039521
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "526622",
+      "kod_cast": "094102",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -675987,
+      "y": -1064272
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532801",
+      "kod_cast": "146293",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -748964,
+      "y": -1017715
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533165",
+      "kod_cast": "402109",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -688600,
+      "y": -1057521
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532053",
+      "kod_cast": "065161",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -761758,
+      "y": -1032240
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532495",
+      "kod_cast": "068055",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -753860,
+      "y": -1029289
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532495",
+      "kod_cast": "068063",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -754444,
+      "y": -1029611
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "513075",
+      "kod_cast": "040223",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -757927,
+      "y": -1018991
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532916",
+      "kod_cast": "162787",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -761234,
+      "y": -1014923
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533114",
+      "kod_cast": "013820",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -761277,
+      "y": -1018213
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533157",
+      "kod_cast": "197521",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -758716,
+      "y": -1022113
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532819",
+      "kod_cast": "149535",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -766169,
+      "y": -1025689
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532011",
+      "kod_cast": "192422",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -776990,
+      "y": -1056144
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532495",
+      "kod_cast": "068047",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -755113,
+      "y": -1028805
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532860",
+      "kod_cast": "019321",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -774481,
+      "y": -1029429
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545619",
+      "kod_cast": "091120",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -752705,
+      "y": -1198955
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533157",
+      "kod_cast": "197548",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -757261,
+      "y": -1022884
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532339",
+      "kod_cast": "300039",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -755632,
+      "y": -1013819
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535095",
+      "kod_cast": "020648",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -752023,
+      "y": -1014783
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545619",
+      "kod_cast": "091162",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -749571,
+      "y": -1202059
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531693",
+      "kod_cast": "132942",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -780895,
+      "y": -1062533
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537705",
+      "kod_cast": "125989",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -707269,
+      "y": -1045472
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533386",
+      "kod_cast": "066648",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -708033,
+      "y": -1046836
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532207",
+      "kod_cast": "020630",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -755006,
+      "y": -1017322
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532118",
+      "kod_cast": "009288",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -759603,
+      "y": -1029245
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533602",
+      "kod_cast": "103357",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -763881,
+      "y": -1047748
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533050",
+      "kod_cast": "182273",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -764827,
+      "y": -1030008
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532088",
+      "kod_cast": "003191",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -763104,
+      "y": -1020219
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532291",
+      "kod_cast": "033057",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -764513,
+      "y": -1019978
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532339",
+      "kod_cast": "045578",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -757085,
+      "y": -1016385
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532479",
+      "kod_cast": "066796",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -758151,
+      "y": -1015977
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535109",
+      "kod_cast": "033073",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -765952,
+      "y": -1020054
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532819",
+      "kod_cast": "149501",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -764181,
+      "y": -1021537
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532819",
+      "kod_cast": "168815",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -765735,
+      "y": -1021549
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533041",
+      "kod_cast": "059161",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -756382,
+      "y": -1021310
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545775",
+      "kod_cast": "142786",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -764896,
+      "y": -1194196
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599417",
+      "kod_cast": "196045",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -767436,
+      "y": -1048302
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532720",
+      "kod_cast": "120545",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -762655,
+      "y": -1028302
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534072",
+      "kod_cast": "071072",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -781629,
+      "y": -1063455
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545775",
+      "kod_cast": "142824",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -764844,
+      "y": -1190915
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545775",
+      "kod_cast": "142751",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -768584,
+      "y": -1194043
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533157",
+      "kod_cast": "197513",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -759810,
+      "y": -1023864
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535125",
+      "kod_cast": "004197",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -775809,
+      "y": -1018749
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532371",
+      "kod_cast": "048887",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -760256,
+      "y": -1035137
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532631",
+      "kod_cast": "090522",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -766676,
+      "y": -1042637
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532975",
+      "kod_cast": "009296",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -759172,
+      "y": -1028280
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532975",
+      "kod_cast": "170534",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -758105,
+      "y": -1028159
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599425",
+      "kod_cast": "195910",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -759096,
+      "y": -1026940
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532720",
+      "kod_cast": "402061",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -763100,
+      "y": -1028700
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "513041",
+      "kod_cast": "080926",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -771806,
+      "y": -1038810
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532371",
+      "kod_cast": "048895",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -761223,
+      "y": -1035631
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532819",
+      "kod_cast": "028509",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -761896,
+      "y": -1021817
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533068",
+      "kod_cast": "088943",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -764871,
+      "y": -1011785
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533092",
+      "kod_cast": "190446",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -753410,
+      "y": -1030187
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531294",
+      "kod_cast": "055450",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -765284,
+      "y": -1044277
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532444",
+      "kod_cast": "061671",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -772313,
+      "y": -1030426
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532118",
+      "kod_cast": "402036",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -759900,
+      "y": -1029100
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "513369",
+      "kod_cast": "171379",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -713989,
+      "y": -1053637
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533971",
+      "kod_cast": "004120",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -670653,
+      "y": -1067004
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532142",
+      "kod_cast": "028681",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -770125,
+      "y": -1039498
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532291",
+      "kod_cast": "033065",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -764771,
+      "y": -1018814
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545821",
+      "kod_cast": "177814",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -760039,
+      "y": -1183710
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545821",
+      "kod_cast": "177831",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -759020,
+      "y": -1183630
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532819",
+      "kod_cast": "402079",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -764264,
+      "y": -1023953
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "512991",
+      "kod_cast": "032514",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -772904,
+      "y": -1026630
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532355",
+      "kod_cast": "047261",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -773038,
+      "y": -1027858
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532347",
+      "kod_cast": "045926",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -757984,
+      "y": -1037879
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532053",
+      "kod_cast": "402001",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -763253,
+      "y": -1034304
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532053",
+      "kod_cast": "402010",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -767092,
+      "y": -1033642
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533068",
+      "kod_cast": "185566",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -767671,
+      "y": -1012611
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533025",
+      "kod_cast": "178306",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -767369,
+      "y": -1037084
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532053",
+      "kod_cast": "402028",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -764166,
+      "y": -1030854
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532185",
+      "kod_cast": "018121",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -760259,
+      "y": -1030212
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "564087",
+      "kod_cast": "066800",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -759387,
+      "y": -1015407
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532908",
+      "kod_cast": "160806",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -767626,
+      "y": -1028996
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533114",
+      "kod_cast": "193330",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -763004,
+      "y": -1017724
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532461",
+      "kod_cast": "066443",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -771882,
+      "y": -1015433
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571423",
+      "kod_cast": "192988",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -774983,
+      "y": -1017856
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532819",
+      "kod_cast": "149519",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -761826,
+      "y": -1023498
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531791",
+      "kod_cast": "159964",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -777729,
+      "y": -1054758
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "513113",
+      "kod_cast": "090557",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -762739,
+      "y": -1037960
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532738",
+      "kod_cast": "121754",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -764097,
+      "y": -1037584
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545821",
+      "kod_cast": "177857",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -758878,
+      "y": -1182022
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532533",
+      "kod_cast": "079618",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -770589,
+      "y": -1026874
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533122",
+      "kod_cast": "194107",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -757523,
+      "y": -1024829
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "551457",
+      "kod_cast": "158313",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -767369,
+      "y": -1024223
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532983",
+      "kod_cast": "152994",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -770233,
+      "y": -1032881
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532355",
+      "kod_cast": "047252",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -771687,
+      "y": -1027626
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532207",
+      "kod_cast": "009571",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -756168,
+      "y": -1019099
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532207",
+      "kod_cast": "009580",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -755387,
+      "y": -1019548
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532100",
+      "kod_cast": "005592",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -754042,
+      "y": -1027725
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532401",
+      "kod_cast": "057631",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -762079,
+      "y": -1014259
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532916",
+      "kod_cast": "162779",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -761812,
+      "y": -1014441
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532053",
+      "kod_cast": "065170",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -759912,
+      "y": -1031680
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532088",
+      "kod_cast": "003204",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -761076,
+      "y": -1020074
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533114",
+      "kod_cast": "193313",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -764829,
+      "y": -1017387
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532355",
+      "kod_cast": "402044",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -771000,
+      "y": -1027700
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531324",
+      "kod_cast": "068632",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -787969,
+      "y": -1069678
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532274",
+      "kod_cast": "032719",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -769201,
+      "y": -1037571
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599441",
+      "kod_cast": "155799",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -766133,
+      "y": -1016845
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534072",
+      "kod_cast": "401986",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -781700,
+      "y": -1063900
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537411",
+      "kod_cast": "076309",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -688905,
+      "y": -1030714
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545821",
+      "kod_cast": "177849",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -760855,
+      "y": -1181554
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545821",
+      "kod_cast": "177822",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -759223,
+      "y": -1180398
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535630",
+      "kod_cast": "023957",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -707173,
+      "y": -1004576
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535869",
+      "kod_cast": "048054",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -705327,
+      "y": -1007212
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565580",
+      "kod_cast": "121975",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -710017,
+      "y": -1004090
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534722",
+      "kod_cast": "017175",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -726012,
+      "y": -1020273
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599662",
+      "kod_cast": "112747",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -691016,
+      "y": -1048304
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535672",
+      "kod_cast": "006921",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -699965,
+      "y": -1016145
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535672",
+      "kod_cast": "172260",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -699057,
+      "y": -1016636
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537900",
+      "kod_cast": "174297",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -687527,
+      "y": -1037330
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535923",
+      "kod_cast": "031879",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -695872,
+      "y": -993922
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571946",
+      "kod_cast": "009504",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -691675,
+      "y": -1002686
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534901",
+      "kod_cast": "014150",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -727919,
+      "y": -1003819
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565733",
+      "kod_cast": "048739",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -708919,
+      "y": -1018690
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534838",
+      "kod_cast": "052761",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -721158,
+      "y": -1013738
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570991",
+      "kod_cast": "018058",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698074,
+      "y": -1016416
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534901",
+      "kod_cast": "067997",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -727343,
+      "y": -1006687
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534901",
+      "kod_cast": "068004",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -726230,
+      "y": -1005706
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537756",
+      "kod_cast": "142697",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -686742,
+      "y": -1026833
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537756",
+      "kod_cast": "142671",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -686222,
+      "y": -1025633
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571938",
+      "kod_cast": "136662",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698720,
+      "y": -1001717
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538981",
+      "kod_cast": "179299",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -729240,
+      "y": -1067153
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545848",
+      "kod_cast": "087114",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -775386,
+      "y": -1199979
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534731",
+      "kod_cast": "017841",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -740121,
+      "y": -1011409
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534765",
+      "kod_cast": "028673",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -736478,
+      "y": -1011785
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534803",
+      "kod_cast": "045322",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -736053,
+      "y": -1014039
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535192",
+      "kod_cast": "152846",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -743333,
+      "y": -1015100
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565822",
+      "kod_cast": "402834",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -697600,
+      "y": -994700
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537993",
+      "kod_cast": "187551",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -714295,
+      "y": -1043224
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536610",
+      "kod_cast": "147168",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -697256,
+      "y": -1017601
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537004",
+      "kod_cast": "402907",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -697398,
+      "y": -1038008
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535303",
+      "kod_cast": "185256",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -743531,
+      "y": -1017118
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537756",
+      "kod_cast": "142689",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -686666,
+      "y": -1026073
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537292",
+      "kod_cast": "066915",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -676239,
+      "y": -1031087
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565652",
+      "kod_cast": "137081",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -690331,
+      "y": -1016534
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599638",
+      "kod_cast": "048640",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -692766,
+      "y": -1031305
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536997",
+      "kod_cast": "196789",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -697507,
+      "y": -1012694
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536326",
+      "kod_cast": "097560",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -695447,
+      "y": -999573
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537047",
+      "kod_cast": "015059",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -712314,
+      "y": -1041908
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535168",
+      "kod_cast": "145173",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -723541,
+      "y": -1014310
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535451",
+      "kod_cast": "402699",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -711325,
+      "y": -1024433
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535265",
+      "kod_cast": "179540",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -729618,
+      "y": -1015736
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535052",
+      "kod_cast": "100285",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -723946,
+      "y": -1002884
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545848",
+      "kod_cast": "188964",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -772685,
+      "y": -1201360
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571989",
+      "kod_cast": "028134",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -687884,
+      "y": -1005894
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535702",
+      "kod_cast": "042480",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -688148,
+      "y": -1008321
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535702",
+      "kod_cast": "042498",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -687035,
+      "y": -1007988
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536041",
+      "kod_cast": "152331",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -690076,
+      "y": -1005170
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536041",
+      "kod_cast": "152340",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -690694,
+      "y": -1006732
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536041",
+      "kod_cast": "152358",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -691147,
+      "y": -1006454
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536041",
+      "kod_cast": "152366",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -691995,
+      "y": -1006100
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531936",
+      "kod_cast": "181684",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -729687,
+      "y": -1002106
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537764",
+      "kod_cast": "145921",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702035,
+      "y": -1043025
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534765",
+      "kod_cast": "028657",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -736133,
+      "y": -1009613
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536181",
+      "kod_cast": "067911",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -722832,
+      "y": -1021237
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537977",
+      "kod_cast": "186104",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -696966,
+      "y": -1046374
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537586",
+      "kod_cast": "111988",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -683926,
+      "y": -1045673
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537331",
+      "kod_cast": "070629",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -703631,
+      "y": -1037375
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535451",
+      "kod_cast": "402702",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -710590,
+      "y": -1025004
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537349",
+      "kod_cast": "070866",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -690368,
+      "y": -1022987
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534820",
+      "kod_cast": "051845",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -737774,
+      "y": -1021066
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535427",
+      "kod_cast": "402621",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -700228,
+      "y": -1004412
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536041",
+      "kod_cast": "320871",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -690900,
+      "y": -1004727
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536041",
+      "kod_cast": "067067",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -691855,
+      "y": -1004625
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545848",
+      "kod_cast": "188972",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -772491,
+      "y": -1207101
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534765",
+      "kod_cast": "028665",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -738333,
+      "y": -1008780
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537900",
+      "kod_cast": "174289",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -687435,
+      "y": -1038514
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537021",
+      "kod_cast": "003174",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -672729,
+      "y": -1039018
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570940",
+      "kod_cast": "030198",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698693,
+      "y": -1009661
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571865",
+      "kod_cast": "061271",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -699913,
+      "y": -995513
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535133",
+      "kod_cast": "108821",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -735617,
+      "y": -1020602
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535133",
+      "kod_cast": "402486",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -736400,
+      "y": -1020400
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537331",
+      "kod_cast": "070637",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -703319,
+      "y": -1036156
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537021",
+      "kod_cast": "003158",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -674263,
+      "y": -1041535
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535052",
+      "kod_cast": "100277",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -722624,
+      "y": -1006403
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535702",
+      "kod_cast": "183733",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -687598,
+      "y": -1013649
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531898",
+      "kod_cast": "402541",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -728440,
+      "y": -1013852
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570753",
+      "kod_cast": "133124",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -689769,
+      "y": -1020608
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534757",
+      "kod_cast": "070858",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -691577,
+      "y": -1023698
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535451",
+      "kod_cast": "032140",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -709394,
+      "y": -1022764
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537331",
+      "kod_cast": "070645",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -705158,
+      "y": -1036721
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535052",
+      "kod_cast": "146641",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -725987,
+      "y": -1006861
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534838",
+      "kod_cast": "052744",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -720633,
+      "y": -1012003
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537489",
+      "kod_cast": "093289",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -678976,
+      "y": -1037987
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535044",
+      "kod_cast": "092801",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -719482,
+      "y": -1016452
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545848",
+      "kod_cast": "188981",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -771620,
+      "y": -1205073
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545848",
+      "kod_cast": "188948",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -770406,
+      "y": -1206799
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536971",
+      "kod_cast": "195049",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -689584,
+      "y": -998909
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531898",
+      "kod_cast": "081329",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -729517,
+      "y": -1012960
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537373",
+      "kod_cast": "071331",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -694827,
+      "y": -1041127
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537683",
+      "kod_cast": "402966",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693165,
+      "y": -1041882
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536024",
+      "kod_cast": "065510",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -699409,
+      "y": -999908
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570974",
+      "kod_cast": "068543",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698739,
+      "y": -1013603
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531774",
+      "kod_cast": "156159",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -719024,
+      "y": -1009831
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529575",
+      "kod_cast": "196304",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -733076,
+      "y": -1000862
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534838",
+      "kod_cast": "052736",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -720924,
+      "y": -1011028
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535516",
+      "kod_cast": "008273",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -694194,
+      "y": -1002751
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537683",
+      "kod_cast": "402958",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -692815,
+      "y": -1042522
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537683",
+      "kod_cast": "402931",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -691600,
+      "y": -1042864
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537683",
+      "kod_cast": "402974",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -692100,
+      "y": -1042100
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537683",
+      "kod_cast": "123552",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693478,
+      "y": -1041238
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535567",
+      "kod_cast": "014010",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -692857,
+      "y": -997939
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571997",
+      "kod_cast": "061328",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698480,
+      "y": -994787
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531731",
+      "kod_cast": "156167",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -718068,
+      "y": -1009609
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537560",
+      "kod_cast": "109754",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -687032,
+      "y": -1041777
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537331",
+      "kod_cast": "048356",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -703649,
+      "y": -1035161
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545848",
+      "kod_cast": "404039",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -770100,
+      "y": -1205500
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536857",
+      "kod_cast": "190900",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -717356,
+      "y": -1013086
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534731",
+      "kod_cast": "016471",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -741217,
+      "y": -1012569
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534897",
+      "kod_cast": "066770",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -733792,
+      "y": -1019402
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534897",
+      "kod_cast": "415626",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732700,
+      "y": -1019400
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534897",
+      "kod_cast": "415634",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732600,
+      "y": -1019000
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534897",
+      "kod_cast": "066745",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -733259,
+      "y": -1020424
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531561",
+      "kod_cast": "171263",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732879,
+      "y": -1021032
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536326",
+      "kod_cast": "414913",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -695102,
+      "y": -996625
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534790",
+      "kod_cast": "043753",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -739906,
+      "y": -1005583
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534650",
+      "kod_cast": "195791",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -674458,
+      "y": -1065198
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535923",
+      "kod_cast": "402737",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -697600,
+      "y": -992500
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529575",
+      "kod_cast": "196312",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732026,
+      "y": -998834
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535451",
+      "kod_cast": "064564",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -709680,
+      "y": -1024507
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535508",
+      "kod_cast": "007471",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -717356,
+      "y": -1009933
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536008",
+      "kod_cast": "031232",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -718294,
+      "y": -1004347
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536008",
+      "kod_cast": "168386",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -716438,
+      "y": -1006117
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571075",
+      "kod_cast": "066699",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -716067,
+      "y": -1007044
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570826",
+      "kod_cast": "044130",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -699079,
+      "y": -1008307
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535672",
+      "kod_cast": "027472",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -700384,
+      "y": -1017065
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536857",
+      "kod_cast": "179418",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -715566,
+      "y": -1013976
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545848",
+      "kod_cast": "188999",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -773108,
+      "y": -1204028
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535001",
+      "kod_cast": "081914",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -736783,
+      "y": -1005118
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535001",
+      "kod_cast": "081922",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -736157,
+      "y": -1007959
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529583",
+      "kod_cast": "196339",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -733660,
+      "y": -1004487
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531871",
+      "kod_cast": "059340",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -744766,
+      "y": -1013814
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536857",
+      "kod_cast": "090573",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -715262,
+      "y": -1013518
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538132",
+      "kod_cast": "019232",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -718985,
+      "y": -1039848
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538311",
+      "kod_cast": "066010",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -742629,
+      "y": -1030634
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538442",
+      "kod_cast": "082660",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -736109,
+      "y": -1032199
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531553",
+      "kod_cast": "069051",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -723519,
+      "y": -1024429
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537624",
+      "kod_cast": "113409",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -708015,
+      "y": -1037256
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "564974",
+      "kod_cast": "108022",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -719137,
+      "y": -1036421
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537501",
+      "kod_cast": "415111",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -708435,
+      "y": -1031797
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531511",
+      "kod_cast": "055352",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -745528,
+      "y": -1028044
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537501",
+      "kod_cast": "318493",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -705350,
+      "y": -1030699
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537454",
+      "kod_cast": "089559",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -710984,
+      "y": -1036129
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537861",
+      "kod_cast": "156329",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -706637,
+      "y": -1036033
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "547263",
+      "kod_cast": "111074",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -696900,
+      "y": -1155726
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "572021",
+      "kod_cast": "185663",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -718404,
+      "y": -1007586
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535923",
+      "kod_cast": "052086",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -696766,
+      "y": -994251
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537217",
+      "kod_cast": "052795",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -689518,
+      "y": -1044390
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "545848",
+      "kod_cast": "188956",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -770769,
+      "y": -1202488
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538132",
+      "kod_cast": "019216",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -715706,
+      "y": -1037576
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537781",
+      "kod_cast": "147214",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -709768,
+      "y": -1038851
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535311",
+      "kod_cast": "187445",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -745316,
+      "y": -1017618
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531511",
+      "kod_cast": "055379",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -745168,
+      "y": -1026821
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538132",
+      "kod_cast": "019224",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -715452,
+      "y": -1038353
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535389",
+      "kod_cast": "193356",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -743639,
+      "y": -1021512
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538132",
+      "kod_cast": "403041",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -718424,
+      "y": -1038130
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538574",
+      "kod_cast": "108987",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -740771,
+      "y": -1027801
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534951",
+      "kod_cast": "072753",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -749373,
+      "y": -1026653
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538477",
+      "kod_cast": "093441",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -734155,
+      "y": -1031790
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535087",
+      "kod_cast": "402451",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -733399,
+      "y": -1025016
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535036",
+      "kod_cast": "091430",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -731454,
+      "y": -1017063
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535303",
+      "kod_cast": "185248",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -745124,
+      "y": -1016794
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531731",
+      "kod_cast": "156175",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -720832,
+      "y": -1008340
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599514",
+      "kod_cast": "014770",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -715026,
+      "y": -1003760
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599514",
+      "kod_cast": "014788",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -716256,
+      "y": -1003322
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538469",
+      "kod_cast": "092223",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -743966,
+      "y": -1029251
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537624",
+      "kod_cast": "113417",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -705867,
+      "y": -1037312
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535079",
+      "kod_cast": "102806",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -747658,
+      "y": -1019928
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546097",
+      "kod_cast": "091758",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -693482,
+      "y": -1159591
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565920",
+      "kod_cast": "158798",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -714998,
+      "y": -1006651
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "598291",
+      "kod_cast": "105406",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732840,
+      "y": -1028197
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537411",
+      "kod_cast": "076295",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -689481,
+      "y": -1030230
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535087",
+      "kod_cast": "402460",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -736500,
+      "y": -1025900
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536491",
+      "kod_cast": "134279",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -714870,
+      "y": -1026426
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537411",
+      "kod_cast": "076287",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -690902,
+      "y": -1028241
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535583",
+      "kod_cast": "028231",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -696936,
+      "y": -1014799
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535559",
+      "kod_cast": "012688",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -707516,
+      "y": -1020467
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536377",
+      "kod_cast": "402826",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -696100,
+      "y": -1015500
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535214",
+      "kod_cast": "058301",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -726619,
+      "y": -1012942
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535214",
+      "kod_cast": "157538",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -728146,
+      "y": -1011710
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535087",
+      "kod_cast": "069647",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -738120,
+      "y": -1024905
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536326",
+      "kod_cast": "008281",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -695532,
+      "y": -1001993
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537411",
+      "kod_cast": "106844",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -687366,
+      "y": -1028898
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537756",
+      "kod_cast": "079774",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -686599,
+      "y": -1028309
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537055",
+      "kod_cast": "015415",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693392,
+      "y": -1037108
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599620",
+      "kod_cast": "051179",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693705,
+      "y": -1035876
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535672",
+      "kod_cast": "040908",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698885,
+      "y": -1014832
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571946",
+      "kod_cast": "009512",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -691063,
+      "y": -1003221
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546097",
+      "kod_cast": "137723",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -695302,
+      "y": -1161706
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536008",
+      "kod_cast": "064548",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -713153,
+      "y": -1007930
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536008",
+      "kod_cast": "158801",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -713674,
+      "y": -1004988
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535419",
+      "kod_cast": "096644",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -705145,
+      "y": -1011508
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546097",
+      "kod_cast": "404136",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -695479,
+      "y": -1162695
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537128",
+      "kod_cast": "034231",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -686734,
+      "y": -1032177
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537128",
+      "kod_cast": "160687",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -686376,
+      "y": -1030753
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536270",
+      "kod_cast": "318574",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -704463,
+      "y": -1023029
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535419",
+      "kod_cast": "402575",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -704700,
+      "y": -1009200
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570818",
+      "kod_cast": "024571",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -705380,
+      "y": -1010089
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536181",
+      "kod_cast": "075094",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -720277,
+      "y": -1019001
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537110",
+      "kod_cast": "033901",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -700305,
+      "y": -1034761
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537373",
+      "kod_cast": "071340",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -695571,
+      "y": -1040104
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534676",
+      "kod_cast": "402401",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -735095,
+      "y": -1014542
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571938",
+      "kod_cast": "136654",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -699507,
+      "y": -1001979
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535052",
+      "kod_cast": "100293",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -723487,
+      "y": -1003460
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535052",
+      "kod_cast": "300098",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -722779,
+      "y": -1005154
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535052",
+      "kod_cast": "146650",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -724292,
+      "y": -1006154
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529575",
+      "kod_cast": "402508",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732100,
+      "y": -1000200
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537357",
+      "kod_cast": "071145",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -711690,
+      "y": -1044936
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531499",
+      "kod_cast": "017183",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -727151,
+      "y": -1016754
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565750",
+      "kod_cast": "042641",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -700647,
+      "y": -998726
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537331",
+      "kod_cast": "048364",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -704939,
+      "y": -1033803
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537225",
+      "kod_cast": "053082",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -679541,
+      "y": -1031070
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537225",
+      "kod_cast": "104922",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -681399,
+      "y": -1030469
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546097",
+      "kod_cast": "023108",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -692833,
+      "y": -1163894
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537586",
+      "kod_cast": "112003",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -683772,
+      "y": -1044636
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537985",
+      "kod_cast": "187054",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -697838,
+      "y": -1034023
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599671",
+      "kod_cast": "023795",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -701171,
+      "y": -1033780
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535834",
+      "kod_cast": "042668",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -700432,
+      "y": -997559
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535818",
+      "kod_cast": "042129",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -708494,
+      "y": -1020744
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535427",
+      "kod_cast": "300101",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698471,
+      "y": -1007960
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536458",
+      "kod_cast": "121592",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698847,
+      "y": -1012250
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536458",
+      "kod_cast": "402800",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698722,
+      "y": -1010794
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565822",
+      "kod_cast": "061301",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -696581,
+      "y": -996195
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536211",
+      "kod_cast": "081469",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693614,
+      "y": -1014917
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536377",
+      "kod_cast": "105279",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -695097,
+      "y": -1015301
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535036",
+      "kod_cast": "091421",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -730551,
+      "y": -1016679
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537942",
+      "kod_cast": "181013",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -689244,
+      "y": -1033037
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535061",
+      "kod_cast": "101869",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -726273,
+      "y": -1011274
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535974",
+      "kod_cast": "061280",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698796,
+      "y": -996543
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534838",
+      "kod_cast": "052752",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -723154,
+      "y": -1009486
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533564",
+      "kod_cast": "110141",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -709837,
+      "y": -1059121
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535672",
+      "kod_cast": "172782",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698751,
+      "y": -1017258
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535516",
+      "kod_cast": "008303",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -692537,
+      "y": -1000761
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546097",
+      "kod_cast": "092312",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -699727,
+      "y": -1163636
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "503410",
+      "kod_cast": "197289",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -689124,
+      "y": -1026969
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "503410",
+      "kod_cast": "197271",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -689466,
+      "y": -1027530
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534471",
+      "kod_cast": "189812",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -681554,
+      "y": -1034094
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546097",
+      "kod_cast": "092304",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -697213,
+      "y": -1164004
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536971",
+      "kod_cast": "195022",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -690333,
+      "y": -1000101
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536172",
+      "kod_cast": "402753",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -707343,
+      "y": -1015808
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535427",
+      "kod_cast": "180491",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698525,
+      "y": -1005486
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "551481",
+      "kod_cast": "003123",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -676089,
+      "y": -1042080
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537489",
+      "kod_cast": "093297",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -675704,
+      "y": -1037439
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599697",
+      "kod_cast": "191680",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -704040,
+      "y": -1032695
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570982",
+      "kod_cast": "171841",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -716114,
+      "y": -1027774
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570982",
+      "kod_cast": "171859",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -715775,
+      "y": -1028561
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537128",
+      "kod_cast": "034240",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -685167,
+      "y": -1032889
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535923",
+      "kod_cast": "141429",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698338,
+      "y": -992537
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "513709",
+      "kod_cast": "025798",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -594139,
+      "y": -1114175
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531731",
+      "kod_cast": "156183",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -719509,
+      "y": -1009068
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531570",
+      "kod_cast": "027715",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -727342,
+      "y": -1001128
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531570",
+      "kod_cast": "402516",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -724600,
+      "y": -1002900
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534901",
+      "kod_cast": "014168",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -728389,
+      "y": -1005648
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535052",
+      "kod_cast": "402435",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -722500,
+      "y": -1002700
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535052",
+      "kod_cast": "100307",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -724617,
+      "y": -1003442
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531707",
+      "kod_cast": "402443",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -722500,
+      "y": -1003600
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531707",
+      "kod_cast": "104795",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -720670,
+      "y": -1002693
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546097",
+      "kod_cast": "023116",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -691902,
+      "y": -1166744
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537802",
+      "kod_cast": "150690",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -676594,
+      "y": -1035745
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535672",
+      "kod_cast": "161632",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702420,
+      "y": -1017017
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "566047",
+      "kod_cast": "402877",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -721875,
+      "y": -1020018
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546097",
+      "kod_cast": "091766",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -693045,
+      "y": -1161507
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537403",
+      "kod_cast": "075531",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -692342,
+      "y": -1039342
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537632",
+      "kod_cast": "118265",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -689415,
+      "y": -1041336
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531651",
+      "kod_cast": "063029",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -725116,
+      "y": -1007569
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535923",
+      "kod_cast": "402729",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -697300,
+      "y": -992400
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537161",
+      "kod_cast": "046621",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -681624,
+      "y": -1043169
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537306",
+      "kod_cast": "068012",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -683888,
+      "y": -1043176
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537560",
+      "kod_cast": "109762",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -685743,
+      "y": -1041511
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537799",
+      "kod_cast": "147443",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -685672,
+      "y": -1039714
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537951",
+      "kod_cast": "184098",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -685157,
+      "y": -1042945
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599654",
+      "kod_cast": "107280",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -691845,
+      "y": -1033554
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535672",
+      "kod_cast": "051373",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702496,
+      "y": -1015328
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565628",
+      "kod_cast": "182290",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -701029,
+      "y": -1016478
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537853",
+      "kod_cast": "156051",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702553,
+      "y": -1032009
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537411",
+      "kod_cast": "152617",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -691829,
+      "y": -1027750
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534919",
+      "kod_cast": "104019",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -689854,
+      "y": -1035944
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536270",
+      "kod_cast": "089117",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702082,
+      "y": -1020499
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535583",
+      "kod_cast": "014460",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -696813,
+      "y": -1013394
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535745",
+      "kod_cast": "031003",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -690206,
+      "y": -1015591
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536971",
+      "kod_cast": "195057",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -688368,
+      "y": -1000547
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536431",
+      "kod_cast": "119598",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -691840,
+      "y": -1014538
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599590",
+      "kod_cast": "124087",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -683827,
+      "y": -1039137
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599611",
+      "kod_cast": "185884",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -684093,
+      "y": -1040286
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546097",
+      "kod_cast": "023132",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -695269,
+      "y": -1165743
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535702",
+      "kod_cast": "001503",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -690535,
+      "y": -1010395
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536407",
+      "kod_cast": "108804",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -690631,
+      "y": -1008143
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537489",
+      "kod_cast": "093301",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -679398,
+      "y": -1035978
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599573",
+      "kod_cast": "147648",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -694275,
+      "y": -993605
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536431",
+      "kod_cast": "119601",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -691684,
+      "y": -1013272
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536121",
+      "kod_cast": "069981",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -700385,
+      "y": -1021097
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537250",
+      "kod_cast": "059935",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -694985,
+      "y": -1029537
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537225",
+      "kod_cast": "053066",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -682694,
+      "y": -1028587
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534897",
+      "kod_cast": "066788",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732086,
+      "y": -1019491
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535516",
+      "kod_cast": "402851",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -692800,
+      "y": -1002200
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535516",
+      "kod_cast": "008311",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693895,
+      "y": -1001639
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571946",
+      "kod_cast": "300136",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -690261,
+      "y": -1002359
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536326",
+      "kod_cast": "124192",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -695764,
+      "y": -997712
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537101",
+      "kod_cast": "028045",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -682068,
+      "y": -1045977
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537756",
+      "kod_cast": "142662",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -687186,
+      "y": -1027954
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535044",
+      "kod_cast": "188051",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -720738,
+      "y": -1016520
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535044",
+      "kod_cast": "188069",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -721520,
+      "y": -1016929
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536326",
+      "kod_cast": "402788",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -696271,
+      "y": -996783
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599522",
+      "kod_cast": "049662",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -696447,
+      "y": -1010149
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531707",
+      "kod_cast": "104809",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -719414,
+      "y": -1002862
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535443",
+      "kod_cast": "003441",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -717411,
+      "y": -1001987
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535052",
+      "kod_cast": "148601",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -720196,
+      "y": -1005859
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546101",
+      "kod_cast": "105520",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -715231,
+      "y": -1160491
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535087",
+      "kod_cast": "103659",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -735476,
+      "y": -1025039
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534650",
+      "kod_cast": "195740",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -672489,
+      "y": -1066564
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539244",
+      "kod_cast": "045837",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -754432,
+      "y": -1042062
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539325",
+      "kod_cast": "058602",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -736504,
+      "y": -1059205
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539597",
+      "kod_cast": "136417",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -737795,
+      "y": -1059303
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571351",
+      "kod_cast": "173231",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -747777,
+      "y": -1034030
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538728",
+      "kod_cast": "145513",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -726385,
+      "y": -1054985
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571334",
+      "kod_cast": "083810",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -753191,
+      "y": -1033214
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539414",
+      "kod_cast": "081833",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -745261,
+      "y": -1030149
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539597",
+      "kod_cast": "136425",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -738595,
+      "y": -1060569
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539775",
+      "kod_cast": "171751",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -748265,
+      "y": -1030607
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539244",
+      "kod_cast": "045829",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -755716,
+      "y": -1043210
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539686",
+      "kod_cast": "155349",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -749247,
+      "y": -1035935
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539228",
+      "kod_cast": "041459",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -750137,
+      "y": -1029016
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571326",
+      "kod_cast": "083801",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -751594,
+      "y": -1033033
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571342",
+      "kod_cast": "161594",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -752530,
+      "y": -1031158
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546101",
+      "kod_cast": "147036",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -713924,
+      "y": -1163389
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537225",
+      "kod_cast": "053074",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -679720,
+      "y": -1029891
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "566624",
+      "kod_cast": "014575",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -787228,
+      "y": -1006456
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537225",
+      "kod_cast": "053091",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -677949,
+      "y": -1030721
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546101",
+      "kod_cast": "147028",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -712309,
+      "y": -1164449
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546101",
+      "kod_cast": "023884",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -709865,
+      "y": -1164474
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539031",
+      "kod_cast": "187399",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -725993,
+      "y": -1059760
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531618",
+      "kod_cast": "108065",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -757433,
+      "y": -1048728
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531146",
+      "kod_cast": "031534",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -759144,
+      "y": -1046989
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532991",
+      "kod_cast": "173240",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -760152,
+      "y": -1045553
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539350",
+      "kod_cast": "060747",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -754466,
+      "y": -1047540
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532789",
+      "kod_cast": "136638",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -761442,
+      "y": -1044313
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "540188",
+      "kod_cast": "032484",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -761576,
+      "y": -1079527
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541389",
+      "kod_cast": "160041",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -764359,
+      "y": -1077318
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539295",
+      "kod_cast": "054011",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -754784,
+      "y": -1046003
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532215",
+      "kod_cast": "021202",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -761183,
+      "y": -1042447
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539686",
+      "kod_cast": "155331",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -748093,
+      "y": -1035437
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538833",
+      "kod_cast": "320901",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -735270,
+      "y": -1061373
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538728",
+      "kod_cast": "145521",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -728958,
+      "y": -1057138
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539171",
+      "kod_cast": "027481",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -756839,
+      "y": -1038189
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539805",
+      "kod_cast": "174416",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -746614,
+      "y": -1035454
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539147",
+      "kod_cast": "403148",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -753925,
+      "y": -1033695
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539317",
+      "kod_cast": "058262",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -757444,
+      "y": -1040997
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539309",
+      "kod_cast": "055468",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -756995,
+      "y": -1044045
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "598429",
+      "kod_cast": "168149",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -777683,
+      "y": -1080083
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546101",
+      "kod_cast": "023868",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -711115,
+      "y": -1162440
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531821",
+      "kod_cast": "164828",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -756735,
+      "y": -1049278
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531723",
+      "kod_cast": "143316",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -756867,
+      "y": -1046949
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "564788",
+      "kod_cast": "108120",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -712153,
+      "y": -1060503
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538825",
+      "kod_cast": "157082",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -721883,
+      "y": -1061059
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538833",
+      "kod_cast": "159433",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -735633,
+      "y": -1062161
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541940",
+      "kod_cast": "075060",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -786041,
+      "y": -1023474
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542113",
+      "kod_cast": "086339",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -775543,
+      "y": -1027260
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "598577",
+      "kod_cast": "135046",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -782672,
+      "y": -1022862
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541982",
+      "kod_cast": "076406",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -780569,
+      "y": -1040937
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542512",
+      "kod_cast": "171174",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -780771,
+      "y": -1026689
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565407",
+      "kod_cast": "151025",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -783718,
+      "y": -1019298
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542504",
+      "kod_cast": "170151",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -788124,
+      "y": -1022321
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599182",
+      "kod_cast": "405442",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -865539,
+      "y": -1094049
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "553671",
+      "kod_cast": "044911",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -855907,
+      "y": -1091644
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535443",
+      "kod_cast": "014176",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -711824,
+      "y": -1003332
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535419",
+      "kod_cast": "402605",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702360,
+      "y": -1012011
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539236",
+      "kod_cast": "044776",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -747979,
+      "y": -1037329
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599221",
+      "kod_cast": "027693",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -731630,
+      "y": -1060624
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539767",
+      "kod_cast": "403202",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -751930,
+      "y": -1036363
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546101",
+      "kod_cast": "023876",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -708931,
+      "y": -1162598
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535711",
+      "kod_cast": "029394",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -704530,
+      "y": -996667
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535419",
+      "kod_cast": "096610",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -705064,
+      "y": -1012270
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535419",
+      "kod_cast": "402583",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -704432,
+      "y": -1009710
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535427",
+      "kod_cast": "194018",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702543,
+      "y": -1004920
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535486",
+      "kod_cast": "004839",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -703987,
+      "y": -1004652
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535931",
+      "kod_cast": "049174",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -714750,
+      "y": -1020344
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535486",
+      "kod_cast": "004855",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702374,
+      "y": -1003715
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571881",
+      "kod_cast": "061336",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -699507,
+      "y": -992161
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535419",
+      "kod_cast": "402559",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -703949,
+      "y": -1011885
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571938",
+      "kod_cast": "402842",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -700400,
+      "y": -1002200
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571865",
+      "kod_cast": "061344",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -700209,
+      "y": -992838
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535419",
+      "kod_cast": "096580",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -705630,
+      "y": -1013903
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535419",
+      "kod_cast": "096458",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -701595,
+      "y": -1013600
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535419",
+      "kod_cast": "096440",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -703108,
+      "y": -1013083
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535672",
+      "kod_cast": "082791",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -703775,
+      "y": -1018493
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529613",
+      "kod_cast": "061506",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -704011,
+      "y": -1007159
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535419",
+      "kod_cast": "402567",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -704305,
+      "y": -1008548
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535419",
+      "kod_cast": "402591",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -703475,
+      "y": -1010138
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535427",
+      "kod_cast": "402656",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702200,
+      "y": -1001200
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535427",
+      "kod_cast": "194000",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702064,
+      "y": -1005751
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570818",
+      "kod_cast": "415812",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -704343,
+      "y": -1011584
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546101",
+      "kod_cast": "147010",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -712780,
+      "y": -1161134
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546305",
+      "kod_cast": "038458",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -694812,
+      "y": -1156792
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535486",
+      "kod_cast": "004847",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702985,
+      "y": -1006627
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535923",
+      "kod_cast": "141411",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698556,
+      "y": -991727
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571806",
+      "kod_cast": "105830",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -701170,
+      "y": -1003350
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535419",
+      "kod_cast": "096571",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -704650,
+      "y": -1014676
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536709",
+      "kod_cast": "156302",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -705802,
+      "y": -1018355
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535443",
+      "kod_cast": "402672",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -709614,
+      "y": -1001057
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535427",
+      "kod_cast": "054801",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -701336,
+      "y": -1006955
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570826",
+      "kod_cast": "402885",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -701668,
+      "y": -1009138
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536440",
+      "kod_cast": "120961",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -706775,
+      "y": -1016439
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "576271",
+      "kod_cast": "030783",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -611114,
+      "y": -1037894
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536440",
+      "kod_cast": "402869",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -706500,
+      "y": -1015700
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535427",
+      "kod_cast": "300110",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702553,
+      "y": -1002558
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571938",
+      "kod_cast": "136646",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -700949,
+      "y": -1000995
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536334",
+      "kod_cast": "102946",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -703233,
+      "y": -1019224
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529605",
+      "kod_cast": "140848",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -703698,
+      "y": -996370
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570788",
+      "kod_cast": "008982",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -702878,
+      "y": -1007538
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535443",
+      "kod_cast": "402681",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -713222,
+      "y": -999213
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536351",
+      "kod_cast": "103551",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -703500,
+      "y": -1015650
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535427",
+      "kod_cast": "090026",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -701421,
+      "y": -1003824
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535427",
+      "kod_cast": "402664",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -703600,
+      "y": -1002600
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546381",
+      "kod_cast": "043940",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -712668,
+      "y": -1138454
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546381",
+      "kod_cast": "043915",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -713230,
+      "y": -1140136
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531189",
+      "kod_cast": "401935",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -783559,
+      "y": -1065509
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531600",
+      "kod_cast": "107409",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -778378,
+      "y": -1049987
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531375",
+      "kod_cast": "076864",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -783691,
+      "y": -1053384
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531596",
+      "kod_cast": "104680",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -773874,
+      "y": -1048478
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533149",
+      "kod_cast": "196941",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -772058,
+      "y": -1037512
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532002",
+      "kod_cast": "190772",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -786455,
+      "y": -1064334
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541991",
+      "kod_cast": "079049",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -775583,
+      "y": -1034215
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531715",
+      "kod_cast": "143065",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -781132,
+      "y": -1066725
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531324",
+      "kod_cast": "068641",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -787328,
+      "y": -1068275
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537802",
+      "kod_cast": "150703",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -673633,
+      "y": -1036532
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532860",
+      "kod_cast": "155551",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -774686,
+      "y": -1031337
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532860",
+      "kod_cast": "155560",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -774318,
+      "y": -1031970
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531634",
+      "kod_cast": "112844",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -786964,
+      "y": -1066851
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531596",
+      "kod_cast": "197661",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -776980,
+      "y": -1046454
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531669",
+      "kod_cast": "116718",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -775857,
+      "y": -1050380
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535702",
+      "kod_cast": "042501",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -686786,
+      "y": -1007114
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531081",
+      "kod_cast": "012874",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -785243,
+      "y": -1051881
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531154",
+      "kod_cast": "032603",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -787545,
+      "y": -1061878
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531138",
+      "kod_cast": "170747",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -788634,
+      "y": -1062509
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546593",
+      "kod_cast": "105597",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -691039,
+      "y": -966434
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546593",
+      "kod_cast": "310956",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -691652,
+      "y": -965573
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531685",
+      "kod_cast": "124036",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -783111,
+      "y": -1067861
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535338",
+      "kod_cast": "187976",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -729647,
+      "y": -1008319
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542415",
+      "kod_cast": "097926",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -795959,
+      "y": -1045822
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "598496",
+      "kod_cast": "162604",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -801225,
+      "y": -1044251
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542181",
+      "kod_cast": "107271",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -784627,
+      "y": -1037015
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565644",
+      "kod_cast": "092398",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -717452,
+      "y": -1023673
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542288",
+      "kod_cast": "136964",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -786345,
+      "y": -1040421
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "598496",
+      "kod_cast": "162612",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -801015,
+      "y": -1042902
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542415",
+      "kod_cast": "149110",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -793397,
+      "y": -1043628
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542385",
+      "kod_cast": "148792",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -791317,
+      "y": -1049895
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541834",
+      "kod_cast": "195073",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -812201,
+      "y": -1036977
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541761",
+      "kod_cast": "048925",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -789575,
+      "y": -1048403
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542041",
+      "kod_cast": "089371",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -788361,
+      "y": -1032464
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541761",
+      "kod_cast": "106887",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -791449,
+      "y": -1044913
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541761",
+      "kod_cast": "174025",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -792861,
+      "y": -1046300
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542415",
+      "kod_cast": "149250",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -794275,
+      "y": -1045501
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541991",
+      "kod_cast": "079065",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -775470,
+      "y": -1033052
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532223",
+      "kod_cast": "028193",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -768778,
+      "y": -1035832
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531472",
+      "kod_cast": "086479",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -779728,
+      "y": -1064213
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546593",
+      "kod_cast": "105589",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -688707,
+      "y": -965082
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542415",
+      "kod_cast": "160814",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -795724,
+      "y": -1044596
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565369",
+      "kod_cast": "072362",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -799397,
+      "y": -1042634
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565369",
+      "kod_cast": "072371",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -797643,
+      "y": -1042194
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542164",
+      "kod_cast": "106747",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -778674,
+      "y": -1030621
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "598585",
+      "kod_cast": "104370",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -786451,
+      "y": -1045175
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "544248",
+      "kod_cast": "148954",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -790463,
+      "y": -1043430
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542415",
+      "kod_cast": "141917",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -796682,
+      "y": -1042867
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542563",
+      "kod_cast": "178250",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -784331,
+      "y": -1043080
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "544248",
+      "kod_cast": "051454",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -788081,
+      "y": -1038667
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542563",
+      "kod_cast": "062316",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -785698,
+      "y": -1041222
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542415",
+      "kod_cast": "149241",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -793483,
+      "y": -1044301
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542415",
+      "kod_cast": "097918",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -795308,
+      "y": -1048327
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542199",
+      "kod_cast": "110205",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -793533,
+      "y": -1031173
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541966",
+      "kod_cast": "075256",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -790256,
+      "y": -1026444
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541982",
+      "kod_cast": "076384",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -781864,
+      "y": -1045088
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542121",
+      "kod_cast": "100412",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -789554,
+      "y": -1021697
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541818",
+      "kod_cast": "054038",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -794159,
+      "y": -1027154
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542008",
+      "kod_cast": "079219",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -788609,
+      "y": -1040163
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542598",
+      "kod_cast": "187496",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -790492,
+      "y": -1040883
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546631",
+      "kod_cast": "004651",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -675002,
+      "y": -963752
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541761",
+      "kod_cast": "048917",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -792336,
+      "y": -1049015
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565202",
+      "kod_cast": "047597",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -790048,
+      "y": -1045783
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "554294",
+      "kod_cast": "153575",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -847653,
+      "y": -1087642
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "553841",
+      "kod_cast": "078336",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -846795,
+      "y": -1083641
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "554294",
+      "kod_cast": "198714",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -847328,
+      "y": -1088013
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "553654",
+      "kod_cast": "041556",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -844712,
+      "y": -1083583
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "566080",
+      "kod_cast": "015946",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -850542,
+      "y": -1083635
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "554383",
+      "kod_cast": "119954",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -862298,
+      "y": -1097832
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571881",
+      "kod_cast": "061298",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -699608,
+      "y": -989763
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536261",
+      "kod_cast": "087262",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -694100,
+      "y": -996653
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599573",
+      "kod_cast": "402761",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693300,
+      "y": -993700
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599557",
+      "kod_cast": "069671",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -694004,
+      "y": -995165
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570770",
+      "kod_cast": "087238",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -692476,
+      "y": -996560
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536261",
+      "kod_cast": "087271",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693867,
+      "y": -996309
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536326",
+      "kod_cast": "124184",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693946,
+      "y": -997041
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535923",
+      "kod_cast": "031861",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -695543,
+      "y": -991690
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542164",
+      "kod_cast": "106763",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -778910,
+      "y": -1031551
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542351",
+      "kod_cast": "145386",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -784677,
+      "y": -1026133
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "598526",
+      "kod_cast": "142557",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -782990,
+      "y": -1044156
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546798",
+      "kod_cast": "108049",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -713553,
+      "y": -1166011
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536326",
+      "kod_cast": "402770",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -697483,
+      "y": -999733
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571865",
+      "kod_cast": "061310",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -700088,
+      "y": -994688
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536971",
+      "kod_cast": "195006",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -690154,
+      "y": -996567
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531570",
+      "kod_cast": "402524",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -725900,
+      "y": -998400
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529575",
+      "kod_cast": "181676",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -729920,
+      "y": -999190
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529575",
+      "kod_cast": "181668",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -731249,
+      "y": -1000281
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531570",
+      "kod_cast": "027731",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -727167,
+      "y": -999905
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571156",
+      "kod_cast": "103284",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -714545,
+      "y": -1016422
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536326",
+      "kod_cast": "026760",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -694016,
+      "y": -1000255
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536326",
+      "kod_cast": "014044",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693103,
+      "y": -999304
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535567",
+      "kod_cast": "014028",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693738,
+      "y": -998987
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571989",
+      "kod_cast": "028142",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -688190,
+      "y": -1005127
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536971",
+      "kod_cast": "195031",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -687674,
+      "y": -1000577
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536041",
+      "kod_cast": "009521",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -688665,
+      "y": -1003137
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534706",
+      "kod_cast": "054241",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -674368,
+      "y": -1029663
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570923",
+      "kod_cast": "134678",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -689146,
+      "y": -1007493
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534706",
+      "kod_cast": "112861",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -673875,
+      "y": -1030682
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537292",
+      "kod_cast": "112879",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -673284,
+      "y": -1031910
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534471",
+      "kod_cast": "189821",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -678886,
+      "y": -1033463
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536326",
+      "kod_cast": "180505",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698129,
+      "y": -1003043
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536326",
+      "kod_cast": "008290",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -696067,
+      "y": -1002943
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536326",
+      "kod_cast": "124168",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -697704,
+      "y": -998508
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546798",
+      "kod_cast": "104981",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -709608,
+      "y": -1166436
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546798",
+      "kod_cast": "154580",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -701739,
+      "y": -1169358
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536041",
+      "kod_cast": "067059",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693317,
+      "y": -1004539
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536041",
+      "kod_cast": "402745",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -692900,
+      "y": -1005000
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535338",
+      "kod_cast": "187950",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -731548,
+      "y": -1008724
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535427",
+      "kod_cast": "402648",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -697500,
+      "y": -1005600
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536041",
+      "kod_cast": "069353",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -695320,
+      "y": -1006476
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535656",
+      "kod_cast": "026387",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693186,
+      "y": -1012303
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536041",
+      "kod_cast": "069361",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -696649,
+      "y": -1007240
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536041",
+      "kod_cast": "067041",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -694798,
+      "y": -1004875
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570893",
+      "kod_cast": "108782",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -692860,
+      "y": -1008985
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570893",
+      "kod_cast": "108791",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -692122,
+      "y": -1009327
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535478",
+      "kod_cast": "003824",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -712173,
+      "y": -1015745
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535931",
+      "kod_cast": "053236",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -712193,
+      "y": -1019092
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "566039",
+      "kod_cast": "061450",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -708082,
+      "y": -1016049
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565539",
+      "kod_cast": "152676",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -712691,
+      "y": -1015027
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536181",
+      "kod_cast": "158089",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -719772,
+      "y": -1019556
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535451",
+      "kod_cast": "402711",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -711907,
+      "y": -1024616
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536181",
+      "kod_cast": "075051",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -716046,
+      "y": -1018917
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537802",
+      "kod_cast": "150681",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -674420,
+      "y": -1035514
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571172",
+      "kod_cast": "067466",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693894,
+      "y": -1017647
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535427",
+      "kod_cast": "180483",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -696980,
+      "y": -1004774
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546798",
+      "kod_cast": "000078",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -707883,
+      "y": -1166794
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535605",
+      "kod_cast": "083895",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -709456,
+      "y": -1006923
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571971",
+      "kod_cast": "073661",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -712612,
+      "y": -1009401
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536164",
+      "kod_cast": "073679",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -711580,
+      "y": -1009384
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571148",
+      "kod_cast": "141119",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -709684,
+      "y": -1012705
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571148",
+      "kod_cast": "141127",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -709129,
+      "y": -1011745
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "570842",
+      "kod_cast": "182320",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -706545,
+      "y": -1013422
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536717",
+      "kod_cast": "156876",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -709870,
+      "y": -1013215
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529591",
+      "kod_cast": "146668",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -713138,
+      "y": -1023084
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536181",
+      "kod_cast": "075043",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -718232,
+      "y": -1019063
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535605",
+      "kod_cast": "016152",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -707846,
+      "y": -1007400
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535729",
+      "kod_cast": "030155",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -717468,
+      "y": -1021606
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "598241",
+      "kod_cast": "119555",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -710385,
+      "y": -1011031
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535729",
+      "kod_cast": "030163",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -717746,
+      "y": -1022210
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599531",
+      "kod_cast": "044113",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -719505,
+      "y": -1021867
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536172",
+      "kod_cast": "074811",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -707701,
+      "y": -1013528
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536067",
+      "kod_cast": "067733",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -714579,
+      "y": -1025553
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536857",
+      "kod_cast": "179396",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -714009,
+      "y": -1015138
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535508",
+      "kod_cast": "007463",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -716043,
+      "y": -1010735
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546798",
+      "kod_cast": "105007",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -711010,
+      "y": -1165306
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535338",
+      "kod_cast": "187968",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -731066,
+      "y": -1008891
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536211",
+      "kod_cast": "081477",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693023,
+      "y": -1017314
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531987",
+      "kod_cast": "196347",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732028,
+      "y": -1006416
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535338",
+      "kod_cast": "187925",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -728872,
+      "y": -1008251
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535168",
+      "kod_cast": "197351",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -723265,
+      "y": -1012906
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536768",
+      "kod_cast": "159352",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -694869,
+      "y": -1011397
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536768",
+      "kod_cast": "159344",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693847,
+      "y": -1010440
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565636",
+      "kod_cast": "140414",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -689332,
+      "y": -1010535
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535702",
+      "kod_cast": "028738",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -687713,
+      "y": -1010971
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565661",
+      "kod_cast": "145815",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -689560,
+      "y": -1014103
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535702",
+      "kod_cast": "001511",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -690572,
+      "y": -1010920
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535745",
+      "kod_cast": "145823",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -689645,
+      "y": -1012695
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571121",
+      "kod_cast": "402893",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -711208,
+      "y": -1011721
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571067",
+      "kod_cast": "031372",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -713142,
+      "y": -1012495
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571121",
+      "kod_cast": "104591",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -711469,
+      "y": -1011783
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571121",
+      "kod_cast": "104604",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -710853,
+      "y": -1012723
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531774",
+      "kod_cast": "156141",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -718460,
+      "y": -1011297
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534803",
+      "kod_cast": "045349",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -737102,
+      "y": -1017191
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536041",
+      "kod_cast": "108774",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693161,
+      "y": -1007343
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535338",
+      "kod_cast": "187941",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -730394,
+      "y": -1007617
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534901",
+      "kod_cast": "067989",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -728061,
+      "y": -1007345
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546798",
+      "kod_cast": "104973",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -709563,
+      "y": -1167275
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535028",
+      "kod_cast": "089290",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -740747,
+      "y": -1017034
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535354",
+      "kod_cast": "190632",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -738327,
+      "y": -1018892
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535354",
+      "kod_cast": "402494",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -738300,
+      "y": -1018700
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535354",
+      "kod_cast": "190624",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -739118,
+      "y": -1018280
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535265",
+      "kod_cast": "179566",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732272,
+      "y": -1015513
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534803",
+      "kod_cast": "045357",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -737970,
+      "y": -1016924
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535265",
+      "kod_cast": "179558",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732661,
+      "y": -1016102
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534897",
+      "kod_cast": "066761",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732789,
+      "y": -1018864
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534897",
+      "kod_cast": "066753",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732998,
+      "y": -1017889
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533114",
+      "kod_cast": "193321",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -764429,
+      "y": -1016339
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "564192",
+      "kod_cast": "117391",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -765623,
+      "y": -1014607
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532401",
+      "kod_cast": "057649",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -762958,
+      "y": -1013899
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533068",
+      "kod_cast": "088935",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -764764,
+      "y": -1013548
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532321",
+      "kod_cast": "045110",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -772098,
+      "y": -1018212
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571512",
+      "kod_cast": "078034",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -768582,
+      "y": -1019844
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532762",
+      "kod_cast": "126861",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -774207,
+      "y": -1021227
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535150",
+      "kod_cast": "045128",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -772823,
+      "y": -1017737
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534714",
+      "kod_cast": "016489",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -740277,
+      "y": -1014229
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534803",
+      "kod_cast": "045331",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -735881,
+      "y": -1015072
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535028",
+      "kod_cast": "089281",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -739575,
+      "y": -1016596
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546798",
+      "kod_cast": "104990",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -711565,
+      "y": -1166855
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546798",
+      "kod_cast": "049603",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -706684,
+      "y": -1164082
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534951",
+      "kod_cast": "402427",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -747926,
+      "y": -1023910
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532673",
+      "kod_cast": "111031",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -753360,
+      "y": -1025027
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535117",
+      "kod_cast": "106593",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -746682,
+      "y": -1019691
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534951",
+      "kod_cast": "192791",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -751484,
+      "y": -1025799
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538329",
+      "kod_cast": "066206",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -740140,
+      "y": -1030519
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538574",
+      "kod_cast": "108995",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -741337,
+      "y": -1026830
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535079",
+      "kod_cast": "102776",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -747934,
+      "y": -1020183
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535117",
+      "kod_cast": "106607",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -746345,
+      "y": -1017709
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535117",
+      "kod_cast": "106585",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -747080,
+      "y": -1018440
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537501",
+      "kod_cast": "095192",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -707658,
+      "y": -1032196
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535257",
+      "kod_cast": "103993",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -740217,
+      "y": -1025185
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538094",
+      "kod_cast": "403008",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -724175,
+      "y": -1034364
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535257",
+      "kod_cast": "175871",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -742298,
+      "y": -1023354
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539201",
+      "kod_cast": "028321",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -745840,
+      "y": -1027485
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538647",
+      "kod_cast": "126209",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -743045,
+      "y": -1026642
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532461",
+      "kod_cast": "066427",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -770284,
+      "y": -1015953
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534978",
+      "kod_cast": "079693",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -747906,
+      "y": -1013845
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535311",
+      "kod_cast": "187453",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -745280,
+      "y": -1019840
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546798",
+      "kod_cast": "049620",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -704212,
+      "y": -1163631
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546798",
+      "kod_cast": "049638",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -705899,
+      "y": -1162738
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534846",
+      "kod_cast": "055361",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -746160,
+      "y": -1026239
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538108",
+      "kod_cast": "009784",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -729171,
+      "y": -1033242
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538264",
+      "kod_cast": "058491",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -728329,
+      "y": -1037669
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537501",
+      "kod_cast": "002062",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -711177,
+      "y": -1031220
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537837",
+      "kod_cast": "153796",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -714619,
+      "y": -1029640
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538256",
+      "kod_cast": "049689",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -745759,
+      "y": -1033060
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536130",
+      "kod_cast": "070513",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -720609,
+      "y": -1026949
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535257",
+      "kod_cast": "104001",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -740032,
+      "y": -1023771
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535079",
+      "kod_cast": "102768",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -748084,
+      "y": -1020616
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538507",
+      "kod_cast": "098060",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -715514,
+      "y": -1040599
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535117",
+      "kod_cast": "105392",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -747371,
+      "y": -1017081
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538515",
+      "kod_cast": "100111",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -731882,
+      "y": -1031532
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538914",
+      "kod_cast": "167851",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -720704,
+      "y": -1036829
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538051",
+      "kod_cast": "001121",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -737062,
+      "y": -1030591
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538108",
+      "kod_cast": "403032",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -729300,
+      "y": -1033800
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571792",
+      "kod_cast": "072001",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -744089,
+      "y": -1026068
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537454",
+      "kod_cast": "402923",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -711964,
+      "y": -1034381
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538191",
+      "kod_cast": "032930",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -726942,
+      "y": -1036162
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538558",
+      "kod_cast": "105414",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732725,
+      "y": -1029602
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "549452",
+      "kod_cast": "139777",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -755429,
+      "y": -1105552
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539015",
+      "kod_cast": "184365",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -742657,
+      "y": -1029635
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538779",
+      "kod_cast": "150754",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -731567,
+      "y": -1032766
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "598283",
+      "kod_cast": "146676",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -738714,
+      "y": -1032431
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538965",
+      "kod_cast": "177741",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732994,
+      "y": -1035276
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538655",
+      "kod_cast": "134201",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -736797,
+      "y": -1028354
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539015",
+      "kod_cast": "184357",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -742102,
+      "y": -1030229
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538621",
+      "kod_cast": "124141",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -729003,
+      "y": -1036853
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538701",
+      "kod_cast": "138240",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -728581,
+      "y": -1038712
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571954",
+      "kod_cast": "158895",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -721496,
+      "y": -1026233
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538671",
+      "kod_cast": "135305",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -730869,
+      "y": -1037040
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539082",
+      "kod_cast": "193348",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -734749,
+      "y": -1029718
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538973",
+      "kod_cast": "177962",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -738052,
+      "y": -1026136
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538639",
+      "kod_cast": "125211",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -728919,
+      "y": -1032212
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535290",
+      "kod_cast": "015741",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -741316,
+      "y": -1017722
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535290",
+      "kod_cast": "184501",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -743754,
+      "y": -1017815
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535290",
+      "kod_cast": "184519",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -742992,
+      "y": -1018505
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538604",
+      "kod_cast": "117552",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -739562,
+      "y": -1029280
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538965",
+      "kod_cast": "177750",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732100,
+      "y": -1034851
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538990",
+      "kod_cast": "181129",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -743920,
+      "y": -1031258
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546798",
+      "kod_cast": "104965",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -707847,
+      "y": -1168816
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546844",
+      "kod_cast": "106984",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -731108,
+      "y": -1156409
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532177",
+      "kod_cast": "016608",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -767759,
+      "y": -1022595
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571601",
+      "kod_cast": "083470",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -769169,
+      "y": -1022676
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532177",
+      "kod_cast": "016616",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -768326,
+      "y": -1023174
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571555",
+      "kod_cast": "084913",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -775104,
+      "y": -1020142
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571431",
+      "kod_cast": "185981",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -769476,
+      "y": -1014487
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532771",
+      "kod_cast": "134554",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -767556,
+      "y": -1026275
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532517",
+      "kod_cast": "078379",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -769805,
+      "y": -1020062
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "564125",
+      "kod_cast": "121819",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -770959,
+      "y": -1020220
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532461",
+      "kod_cast": "066435",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -769475,
+      "y": -1016660
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571521",
+      "kod_cast": "078042",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -767927,
+      "y": -1019668
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565423",
+      "kod_cast": "001228",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -780640,
+      "y": -1023433
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565440",
+      "kod_cast": "062278",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -781924,
+      "y": -1023889
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565466",
+      "kod_cast": "095249",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -779758,
+      "y": -1021479
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536989",
+      "kod_cast": "196461",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -695124,
+      "y": -1017205
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536202",
+      "kod_cast": "079626",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -692131,
+      "y": -1019635
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535290",
+      "kod_cast": "184527",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -742895,
+      "y": -1019573
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534773",
+      "kod_cast": "033081",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -741664,
+      "y": -1022267
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "599492",
+      "kod_cast": "174017",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -739866,
+      "y": -1021426
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546844",
+      "kod_cast": "106992",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -727863,
+      "y": -1160382
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541699",
+      "kod_cast": "023973",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -808166,
+      "y": -1040986
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541699",
+      "kod_cast": "192341",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -802507,
+      "y": -1038570
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565130",
+      "kod_cast": "187470",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -800996,
+      "y": -1040056
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535222",
+      "kod_cast": "167355",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -730444,
+      "y": -1025766
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542211",
+      "kod_cast": "117595",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -793549,
+      "y": -1041569
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542601",
+      "kod_cast": "191248",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -800050,
+      "y": -1038281
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "544248",
+      "kod_cast": "118320",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -791840,
+      "y": -1039573
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565334",
+      "kod_cast": "050199",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -794602,
+      "y": -1039671
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "598518",
+      "kod_cast": "195081",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -811400,
+      "y": -1036385
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541729",
+      "kod_cast": "045101",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -799571,
+      "y": -1026479
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542369",
+      "kod_cast": "147419",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -793755,
+      "y": -1038083
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542377",
+      "kod_cast": "147516",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -797435,
+      "y": -1032831
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542377",
+      "kod_cast": "147524",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -797007,
+      "y": -1034068
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542130",
+      "kod_cast": "103829",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -793266,
+      "y": -1025471
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565504",
+      "kod_cast": "145319",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -802123,
+      "y": -1035445
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565725",
+      "kod_cast": "180815",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -688380,
+      "y": -1015618
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565041",
+      "kod_cast": "014877",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -803524,
+      "y": -1043368
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541699",
+      "kod_cast": "023965",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -804050,
+      "y": -1040916
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546933",
+      "kod_cast": "015393",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -652071,
+      "y": -1147459
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546992",
+      "kod_cast": "043621",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -697789,
+      "y": -1146263
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542075",
+      "kod_cast": "095125",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -794364,
+      "y": -1023717
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541656",
+      "kod_cast": "403695",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -791278,
+      "y": -1034292
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541656",
+      "kod_cast": "403709",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -791940,
+      "y": -1033835
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565181",
+      "kod_cast": "025453",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -801765,
+      "y": -1023675
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "544248",
+      "kod_cast": "172456",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -792295,
+      "y": -1042407
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565351",
+      "kod_cast": "072338",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -798441,
+      "y": -1040693
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529711",
+      "kod_cast": "031968",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -809905,
+      "y": -1034172
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "598496",
+      "kod_cast": "162591",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -802021,
+      "y": -1042299
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565377",
+      "kod_cast": "090981",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -796892,
+      "y": -1039747
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542075",
+      "kod_cast": "095133",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -795368,
+      "y": -1023150
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565270",
+      "kod_cast": "056871",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -796161,
+      "y": -1021575
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "544248",
+      "kod_cast": "051446",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -789017,
+      "y": -1038666
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565334",
+      "kod_cast": "050202",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -795986,
+      "y": -1038650
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541834",
+      "kod_cast": "053112",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -807100,
+      "y": -1029855
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541818",
+      "kod_cast": "054020",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -795262,
+      "y": -1028900
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565326",
+      "kod_cast": "164569",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -803144,
+      "y": -1031845
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542270",
+      "kod_cast": "136557",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -801251,
+      "y": -1032289
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542474",
+      "kod_cast": "161951",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -798773,
+      "y": -1034992
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "546992",
+      "kod_cast": "125725",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -700976,
+      "y": -1146587
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "547069",
+      "kod_cast": "139378",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -723929,
+      "y": -1181119
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565385",
+      "kod_cast": "071897",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -783028,
+      "y": -1018461
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565512",
+      "kod_cast": "176052",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -801769,
+      "y": -1037239
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565181",
+      "kod_cast": "025445",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -801632,
+      "y": -1025123
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542458",
+      "kod_cast": "161195",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -798129,
+      "y": -1025263
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542253",
+      "kod_cast": "135828",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -796576,
+      "y": -1037780
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541834",
+      "kod_cast": "053121",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -808778,
+      "y": -1029889
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541834",
+      "kod_cast": "058696",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -810062,
+      "y": -1032247
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542377",
+      "kod_cast": "045861",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -796192,
+      "y": -1035643
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542229",
+      "kod_cast": "119920",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -798541,
+      "y": -1037317
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529711",
+      "kod_cast": "031984",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -810789,
+      "y": -1034611
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541834",
+      "kod_cast": "058700",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -806841,
+      "y": -1032861
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "598518",
+      "kod_cast": "195065",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -810262,
+      "y": -1036445
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533009",
+      "kod_cast": "173509",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -750231,
+      "y": -1019890
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533041",
+      "kod_cast": "179922",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -752151,
+      "y": -1022743
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532207",
+      "kod_cast": "020656",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -752616,
+      "y": -1017207
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565504",
+      "kod_cast": "403725",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -800255,
+      "y": -1036272
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542458",
+      "kod_cast": "161187",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -797828,
+      "y": -1023620
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542032",
+      "kod_cast": "088005",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -794024,
+      "y": -1036898
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "547069",
+      "kod_cast": "198617",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -720176,
+      "y": -1178924
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "549568",
+      "kod_cast": "080772",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -775374,
+      "y": -1102528
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535320",
+      "kod_cast": "187488",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -727736,
+      "y": -1023247
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535320",
+      "kod_cast": "136379",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -728462,
+      "y": -1022453
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531863",
+      "kod_cast": "117102",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -726443,
+      "y": -1025914
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535141",
+      "kod_cast": "117111",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -726690,
+      "y": -1026623
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535222",
+      "kod_cast": "167347",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -729765,
+      "y": -1025035
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535222",
+      "kod_cast": "167363",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -730661,
+      "y": -1024205
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534749",
+      "kod_cast": "018775",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -725747,
+      "y": -1022154
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536661",
+      "kod_cast": "152161",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -716671,
+      "y": -1031420
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "557030",
+      "kod_cast": "148369",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -718047,
+      "y": -1032792
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535036",
+      "kod_cast": "091448",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -730063,
+      "y": -1018189
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535087",
+      "kod_cast": "103667",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732429,
+      "y": -1025951
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "557030",
+      "kod_cast": "148377",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -717906,
+      "y": -1031568
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535087",
+      "kod_cast": "103675",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -732348,
+      "y": -1025148
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537349",
+      "kod_cast": "070874",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -688370,
+      "y": -1023530
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534935",
+      "kod_cast": "070173",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -729088,
+      "y": -1029275
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "557030",
+      "kod_cast": "148385",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -717432,
+      "y": -1030260
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "534935",
+      "kod_cast": "061034",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -730787,
+      "y": -1028107
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532398",
+      "kod_cast": "054437",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -750323,
+      "y": -1018626
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533041",
+      "kod_cast": "179965",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -752934,
+      "y": -1019817
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542237",
+      "kod_cast": "124958",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -784980,
+      "y": -1021306
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "547166",
+      "kod_cast": "150363",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -691840,
+      "y": -1171955
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "547166",
+      "kod_cast": "150355",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -689889,
+      "y": -1170309
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532819",
+      "kod_cast": "086908",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -768294,
+      "y": -1021216
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532762",
+      "kod_cast": "048968",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -775867,
+      "y": -1021816
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542431",
+      "kod_cast": "152897",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -778735,
+      "y": -1022533
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "598577",
+      "kod_cast": "135054",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -781843,
+      "y": -1022918
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536938",
+      "kod_cast": "187101",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702654,
+      "y": -1029619
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537268",
+      "kod_cast": "061433",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -700486,
+      "y": -1029670
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537268",
+      "kod_cast": "061425",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -699759,
+      "y": -1029669
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536270",
+      "kod_cast": "089109",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702862,
+      "y": -1021943
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536938",
+      "kod_cast": "402818",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702800,
+      "y": -1029200
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565563",
+      "kod_cast": "084247",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -705302,
+      "y": -1027279
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535621",
+      "kod_cast": "018198",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702892,
+      "y": -1027266
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537446",
+      "kod_cast": "086932",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -697480,
+      "y": -1026859
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537446",
+      "kod_cast": "086941",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -698078,
+      "y": -1028189
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537349",
+      "kod_cast": "070831",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -688989,
+      "y": -1024264
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536652",
+      "kod_cast": "009628",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -701858,
+      "y": -1024686
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "563293",
+      "kod_cast": "119580",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -816013,
+      "y": -1005886
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537756",
+      "kod_cast": "079782",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -685729,
+      "y": -1028476
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537756",
+      "kod_cast": "402982",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -685796,
+      "y": -1023714
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "513075",
+      "kod_cast": "040207",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -758327,
+      "y": -1020291
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536652",
+      "kod_cast": "173592",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702466,
+      "y": -1023517
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "547166",
+      "kod_cast": "150347",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -694461,
+      "y": -1172888
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "547166",
+      "kod_cast": "150339",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -695151,
+      "y": -1170999
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535621",
+      "kod_cast": "157091",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -703209,
+      "y": -1026233
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537446",
+      "kod_cast": "086967",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -695118,
+      "y": -1027300
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536652",
+      "kod_cast": "140058",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -700399,
+      "y": -1022774
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537446",
+      "kod_cast": "086959",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -695340,
+      "y": -1026345
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565571",
+      "kod_cast": "184004",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -702615,
+      "y": -1026130
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537411",
+      "kod_cast": "092517",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -692402,
+      "y": -1029315
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "535966",
+      "kod_cast": "055867",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -697331,
+      "y": -1022538
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533041",
+      "kod_cast": "179957",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -752336,
+      "y": -1021278
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571784",
+      "kod_cast": "402532",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -734248,
+      "y": -1023226
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541770",
+      "kod_cast": "048941",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -788783,
+      "y": -1025182
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542121",
+      "kod_cast": "100421",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -791501,
+      "y": -1024080
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532797",
+      "kod_cast": "145785",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -770273,
+      "y": -1024665
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532657",
+      "kod_cast": "090956",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -772032,
+      "y": -1023870
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532410",
+      "kod_cast": "058106",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -772321,
+      "y": -1022521
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532657",
+      "kod_cast": "402052",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -771800,
+      "y": -1024500
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "577707",
+      "kod_cast": "190063",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -675556,
+      "y": -992625
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "536652",
+      "kod_cast": "173584",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -701887,
+      "y": -1023642
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "571849",
+      "kod_cast": "054798",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -697618,
+      "y": -1024214
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565571",
+      "kod_cast": "184012",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -701863,
+      "y": -1027864
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "547166",
+      "kod_cast": "150371",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -692533,
+      "y": -1168502
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "547166",
+      "kod_cast": "404225",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -691384,
+      "y": -1168431
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565199",
+      "kod_cast": "068098",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -806201,
+      "y": -1026066
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "565181",
+      "kod_cast": "025437",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -802837,
+      "y": -1024992
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "537462",
+      "kod_cast": "092347",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -693439,
+      "y": -1026384
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532819",
+      "kod_cast": "149527",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -763927,
+      "y": -1026170
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532835",
+      "kod_cast": "150843",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -768214,
+      "y": -1028111
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532819",
+      "kod_cast": "307165",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -765266,
+      "y": -1025002
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532363",
+      "kod_cast": "048038",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -765774,
+      "y": -1027244
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "542105",
+      "kod_cast": "100234",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -777987,
+      "y": -1024824
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532487",
+      "kod_cast": "067181",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -761010,
+      "y": -1026425
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532754",
+      "kod_cast": "123986",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -759231,
+      "y": -1025726
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "538345",
+      "kod_cast": "067857",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -734361,
+      "y": -1027260
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "539228",
+      "kod_cast": "041467",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -749965,
+      "y": -1029813
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530212",
+      "kod_cast": "101010",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -713593,
+      "y": -1100172
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530166",
+      "kod_cast": "119814",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -729394,
+      "y": -1103576
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530107",
+      "kod_cast": "087360",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -718014,
+      "y": -1098672
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541893",
+      "kod_cast": "068136",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -801804,
+      "y": -1028912
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541737",
+      "kod_cast": "045497",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -804716,
+      "y": -1026461
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "541737",
+      "kod_cast": "045489",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -802413,
+      "y": -1026817
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "547166",
+      "kod_cast": "153451",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -696374,
+      "y": -1167897
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "547212",
+      "kod_cast": "177415",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -700765,
+      "y": -1172831
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530476",
+      "kod_cast": "076601",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -716770,
+      "y": -1098052
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530212",
+      "kod_cast": "149942",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -715918,
+      "y": -1105026
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530301",
+      "kod_cast": "104256",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -731510,
+      "y": -1099069
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530212",
+      "kod_cast": "101001",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -715224,
+      "y": -1100780
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "533947",
+      "kod_cast": "197483",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -673237,
+      "y": -1047141
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530212",
+      "kod_cast": "132985",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -717539,
+      "y": -1101555
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530166",
+      "kod_cast": "094871",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -732008,
+      "y": -1103034
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530212",
+      "kod_cast": "149951",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -714575,
+      "y": -1104679
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529532",
+      "kod_cast": "021164",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -735423,
+      "y": -1101725
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530476",
+      "kod_cast": "133027",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -712065,
+      "y": -1100154
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530301",
+      "kod_cast": "060950",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -730014,
+      "y": -1101145
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529486",
+      "kod_cast": "101443",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -710672,
+      "y": -1100406
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530158",
+      "kod_cast": "093858",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -736298,
+      "y": -1106126
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "529486",
+      "kod_cast": "020168",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -703026,
+      "y": -1100780
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "576263",
+      "kod_cast": "027227",
+      "radon": 1
+     },
+     "geometry": {
+      "x": -610321,
+      "y": -1038393
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530093",
+      "kod_cast": "086495",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -699572,
+      "y": -1097223
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532134",
+      "kod_cast": "059137",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -736954,
+      "y": -1100641
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530158",
+      "kod_cast": "093840",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -733289,
+      "y": -1106080
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "547212",
+      "kod_cast": "177407",
+      "radon": 3
+     },
+     "geometry": {
+      "x": -702167,
+      "y": -1172785
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530301",
+      "kod_cast": "401285",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -729300,
+      "y": -1101300
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "530476",
+      "kod_cast": "076589",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -715453,
+      "y": -1097704
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531049",
+      "kod_cast": "401773",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -722500,
+      "y": -1099900
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "531049",
+      "kod_cast": "401765",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -721900,
+      "y": -1096300
+     }
+    },
+    {
+     "attributes": {
+      "kod_obec": "532380",
+      "kod_cast": "005525",
+      "radon": 2
+     },
+     "geometry": {
+      "x": -695666,
+      "y": -1101755
+     }
+    }
+   ],
+   "exceededTransferLimit": true
+  }

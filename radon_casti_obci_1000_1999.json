@@ -1,0 +1,8035 @@
+{
+   "displayFieldName": "kod_cast",
+   "fieldAliases": {
+    "objectid": "objectid",
+    "kod_obec": "Kód obce",
+    "kod_cast": "Kód části obce",
+    "radon": "Radonový index geologického podloží (1 – nízký, 2 – střední,3 – vysoký)"
+   },
+   "fields": [
+    {
+     "name": "objectid",
+     "type": "esriFieldTypeOID",
+     "alias": "objectid"
+    },
+    {
+     "name": "kod_obec",
+     "type": "esriFieldTypeString",
+     "alias": "Kód obce",
+     "length": 6
+    },
+    {
+     "name": "kod_cast",
+     "type": "esriFieldTypeString",
+     "alias": "Kód části obce",
+     "length": 6
+    },
+    {
+     "name": "radon",
+     "type": "esriFieldTypeSmallInteger",
+     "alias": "Radonový index geologického podloží (1 – nízký, 2 – střední,3 – vysoký)"
+    }
+   ],
+   "features": [
+    {
+     "attributes": {
+      "objectid": 1225,
+      "kod_obec": "576263",
+      "kod_cast": "027227",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1000,
+      "kod_obec": "532134",
+      "kod_cast": "401803",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1001,
+      "kod_obec": "531049",
+      "kod_cast": "083445",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1002,
+      "kod_obec": "530107",
+      "kod_cast": "087378",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1007,
+      "kod_obec": "530107",
+      "kod_cast": "087386",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1008,
+      "kod_obec": "530166",
+      "kod_cast": "094846",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1009,
+      "kod_obec": "530166",
+      "kod_cast": "119822",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1010,
+      "kod_obec": "529486",
+      "kod_cast": "101451",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1011,
+      "kod_obec": "530212",
+      "kod_cast": "043257",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1012,
+      "kod_obec": "530212",
+      "kod_cast": "401200",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1013,
+      "kod_obec": "530212",
+      "kod_cast": "149969",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1014,
+      "kod_obec": "531049",
+      "kod_cast": "083453",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1015,
+      "kod_obec": "530107",
+      "kod_cast": "401129",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1016,
+      "kod_obec": "530212",
+      "kod_cast": "024643",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1017,
+      "kod_obec": "530212",
+      "kod_cast": "100994",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1018,
+      "kod_obec": "530352",
+      "kod_cast": "116271",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1019,
+      "kod_obec": "529940",
+      "kod_cast": "071846",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1020,
+      "kod_obec": "530409",
+      "kod_cast": "119717",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1021,
+      "kod_obec": "529796",
+      "kod_cast": "052060",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1022,
+      "kod_obec": "530921",
+      "kod_cast": "401692",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1023,
+      "kod_obec": "530409",
+      "kod_cast": "119709",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1004,
+      "kod_obec": "530301",
+      "kod_cast": "401277",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1005,
+      "kod_obec": "530301",
+      "kod_cast": "401242",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1006,
+      "kod_obec": "530301",
+      "kod_cast": "401293",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1028,
+      "kod_obec": "532592",
+      "kod_cast": "167142",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1029,
+      "kod_obec": "529940",
+      "kod_cast": "071854",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1030,
+      "kod_obec": "530352",
+      "kod_cast": "401391",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1031,
+      "kod_obec": "530921",
+      "kod_cast": "401714",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1032,
+      "kod_obec": "530921",
+      "kod_cast": "185345",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1033,
+      "kod_obec": "534498",
+      "kod_cast": "173193",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1034,
+      "kod_obec": "533211",
+      "kod_cast": "014931",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1035,
+      "kod_obec": "533165",
+      "kod_cast": "138754",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1036,
+      "kod_obec": "513423",
+      "kod_cast": "139700",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1037,
+      "kod_obec": "533581",
+      "kod_cast": "161284",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1038,
+      "kod_obec": "533696",
+      "kod_cast": "149195",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1039,
+      "kod_obec": "533173",
+      "kod_cast": "000931",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1040,
+      "kod_obec": "533246",
+      "kod_cast": "017558",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1041,
+      "kod_obec": "533831",
+      "kod_cast": "178039",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1042,
+      "kod_obec": "534552",
+      "kod_cast": "183211",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1043,
+      "kod_obec": "537748",
+      "kod_cast": "139742",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1044,
+      "kod_obec": "533599",
+      "kod_cast": "125172",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1025,
+      "kod_obec": "530778",
+      "kod_cast": "167011",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1026,
+      "kod_obec": "530115",
+      "kod_cast": "190110",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1027,
+      "kod_obec": "530310",
+      "kod_cast": "401315",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1049,
+      "kod_obec": "537888",
+      "kod_cast": "165174",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1051,
+      "kod_obec": "533173",
+      "kod_cast": "000914",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1052,
+      "kod_obec": "533513",
+      "kod_cast": "091171",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1053,
+      "kod_obec": "534510",
+      "kod_cast": "415847",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1054,
+      "kod_obec": "534510",
+      "kod_cast": "175854",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1055,
+      "kod_obec": "531197",
+      "kod_cast": "106054",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1056,
+      "kod_obec": "533289",
+      "kod_cast": "027804",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1057,
+      "kod_obec": "533351",
+      "kod_cast": "053996",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1058,
+      "kod_obec": "533424",
+      "kod_cast": "071226",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1059,
+      "kod_obec": "537641",
+      "kod_cast": "118826",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1060,
+      "kod_obec": "534102",
+      "kod_cast": "402290",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1061,
+      "kod_obec": "533866",
+      "kod_cast": "182826",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1062,
+      "kod_obec": "533211",
+      "kod_cast": "014940",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1063,
+      "kod_obec": "534102",
+      "kod_cast": "053481",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1064,
+      "kod_obec": "533246",
+      "kod_cast": "017540",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1065,
+      "kod_obec": "569488",
+      "kod_cast": "409596",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1066,
+      "kod_obec": "533891",
+      "kod_cast": "185876",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1046,
+      "kod_obec": "513164",
+      "kod_cast": "194956",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1047,
+      "kod_obec": "533866",
+      "kod_cast": "182800",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1048,
+      "kod_obec": "533521",
+      "kod_cast": "101826",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1071,
+      "kod_obec": "533297",
+      "kod_cast": "029173",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1072,
+      "kod_obec": "513415",
+      "kod_cast": "139688",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1069,
+      "kod_obec": "534439",
+      "kod_cast": "159085",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1070,
+      "kod_obec": "533297",
+      "kod_cast": "029165",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1075,
+      "kod_obec": "533467",
+      "kod_cast": "075523",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1076,
+      "kod_obec": "533483",
+      "kod_cast": "083097",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1077,
+      "kod_obec": "533505",
+      "kod_cast": "086851",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1078,
+      "kod_obec": "533262",
+      "kod_cast": "006319",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1079,
+      "kod_obec": "513148",
+      "kod_cast": "029181",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1080,
+      "kod_obec": "533831",
+      "kod_cast": "178047",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1081,
+      "kod_obec": "533513",
+      "kod_cast": "091189",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1082,
+      "kod_obec": "533726",
+      "kod_cast": "161241",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1083,
+      "kod_obec": "534374",
+      "kod_cast": "146013",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1084,
+      "kod_obec": "533629",
+      "kod_cast": "137782",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1085,
+      "kod_obec": "534498",
+      "kod_cast": "096245",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1068,
+      "kod_obec": "534439",
+      "kod_cast": "159077",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1073,
+      "kod_obec": "513415",
+      "kod_cast": "139696",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1074,
+      "kod_obec": "533467",
+      "kod_cast": "075515",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1090,
+      "kod_obec": "534277",
+      "kod_cast": "111325",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1091,
+      "kod_obec": "534340",
+      "kod_cast": "139521",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1092,
+      "kod_obec": "536016",
+      "kod_cast": "189758",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1093,
+      "kod_obec": "534340",
+      "kod_cast": "402338",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1094,
+      "kod_obec": "534439",
+      "kod_cast": "159051",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1095,
+      "kod_obec": "533173",
+      "kod_cast": "000922",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1096,
+      "kod_obec": "534510",
+      "kod_cast": "175803",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1097,
+      "kod_obec": "533262",
+      "kod_cast": "020940",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1098,
+      "kod_obec": "533327",
+      "kod_cast": "043231",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1099,
+      "kod_obec": "534510",
+      "kod_cast": "175790",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1100,
+      "kod_obec": "533327",
+      "kod_cast": "043192",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1101,
+      "kod_obec": "533327",
+      "kod_cast": "043206",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1102,
+      "kod_obec": "533327",
+      "kod_cast": "043222",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1103,
+      "kod_obec": "534510",
+      "kod_cast": "175811",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1087,
+      "kod_obec": "564681",
+      "kod_cast": "031640",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1088,
+      "kod_obec": "513202",
+      "kod_cast": "190608",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1089,
+      "kod_obec": "513202",
+      "kod_cast": "190616",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1109,
+      "kod_obec": "533521",
+      "kod_cast": "101818",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1110,
+      "kod_obec": "528196",
+      "kod_cast": "116904",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1111,
+      "kod_obec": "534528",
+      "kod_cast": "177202",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1112,
+      "kod_obec": "537641",
+      "kod_cast": "178845",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1113,
+      "kod_obec": "533505",
+      "kod_cast": "086860",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1114,
+      "kod_obec": "534374",
+      "kod_cast": "145980",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1115,
+      "kod_obec": "533220",
+      "kod_cast": "014958",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1116,
+      "kod_obec": "551465",
+      "kod_cast": "103411",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1117,
+      "kod_obec": "534277",
+      "kod_cast": "402311",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1118,
+      "kod_obec": "534340",
+      "kod_cast": "139530",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1119,
+      "kod_obec": "533921",
+      "kod_cast": "191060",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1120,
+      "kod_obec": "533181",
+      "kod_cast": "031666",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1121,
+      "kod_obec": "533327",
+      "kod_cast": "043214",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1122,
+      "kod_obec": "534528",
+      "kod_cast": "177211",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1466,
+      "kod_obec": "531430",
+      "kod_cast": "195758",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1105,
+      "kod_obec": "547336",
+      "kod_cast": "009423",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1106,
+      "kod_obec": "533343",
+      "kod_cast": "053490",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1107,
+      "kod_obec": "533921",
+      "kod_cast": "191094",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1127,
+      "kod_obec": "534609",
+      "kod_cast": "191515",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1128,
+      "kod_obec": "534340",
+      "kod_cast": "060291",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1129,
+      "kod_obec": "533637",
+      "kod_cast": "138746",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1130,
+      "kod_obec": "533467",
+      "kod_cast": "075507",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1131,
+      "kod_obec": "534510",
+      "kod_cast": "402354",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1132,
+      "kod_obec": "528196",
+      "kod_cast": "116955",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1133,
+      "kod_obec": "533921",
+      "kod_cast": "191086",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1134,
+      "kod_obec": "533921",
+      "kod_cast": "191108",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1135,
+      "kod_obec": "533262",
+      "kod_cast": "020923",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1136,
+      "kod_obec": "534439",
+      "kod_cast": "159093",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1137,
+      "kod_obec": "534536",
+      "kod_cast": "181579",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1139,
+      "kod_obec": "599476",
+      "kod_cast": "149187",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1140,
+      "kod_obec": "534293",
+      "kod_cast": "116939",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1141,
+      "kod_obec": "533386",
+      "kod_cast": "148598",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1142,
+      "kod_obec": "534358",
+      "kod_cast": "139653",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1124,
+      "kod_obec": "533726",
+      "kod_cast": "161292",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1125,
+      "kod_obec": "534510",
+      "kod_cast": "175862",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1126,
+      "kod_obec": "534412",
+      "kod_cast": "153591",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1147,
+      "kod_obec": "533581",
+      "kod_cast": "121371",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1148,
+      "kod_obec": "533459",
+      "kod_cast": "075248",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1149,
+      "kod_obec": "528196",
+      "kod_cast": "116921",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1150,
+      "kod_obec": "534498",
+      "kod_cast": "096237",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1151,
+      "kod_obec": "534498",
+      "kod_cast": "096270",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1152,
+      "kod_obec": "533971",
+      "kod_cast": "004090",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1153,
+      "kod_obec": "534552",
+      "kod_cast": "402362",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1154,
+      "kod_obec": "530875",
+      "kod_cast": "004111",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1155,
+      "kod_obec": "564991",
+      "kod_cast": "075817",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1156,
+      "kod_obec": "534854",
+      "kod_cast": "045004",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1157,
+      "kod_obec": "538167",
+      "kod_cast": "027642",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1159,
+      "kod_obec": "564907",
+      "kod_cast": "023451",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1160,
+      "kod_obec": "598267",
+      "kod_cast": "027685",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1161,
+      "kod_obec": "533564",
+      "kod_cast": "110183",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1162,
+      "kod_obec": "513628",
+      "kod_cast": "066460",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1144,
+      "kod_obec": "513261",
+      "kod_cast": "121398",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1145,
+      "kod_obec": "533564",
+      "kod_cast": "110175",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1146,
+      "kod_obec": "534536",
+      "kod_cast": "181617",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1167,
+      "kod_obec": "534609",
+      "kod_cast": "300071",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1168,
+      "kod_obec": "534609",
+      "kod_cast": "415227",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1169,
+      "kod_obec": "564761",
+      "kod_cast": "108090",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1170,
+      "kod_obec": "533564",
+      "kod_cast": "110159",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1171,
+      "kod_obec": "533564",
+      "kod_cast": "110167",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1172,
+      "kod_obec": "534609",
+      "kod_cast": "191566",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1173,
+      "kod_obec": "534609",
+      "kod_cast": "191540",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1174,
+      "kod_obec": "564249",
+      "kod_cast": "053767",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1175,
+      "kod_obec": "564486",
+      "kod_cast": "403679",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1176,
+      "kod_obec": "564508",
+      "kod_cast": "033685",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1177,
+      "kod_obec": "539503",
+      "kod_cast": "109355",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1178,
+      "kod_obec": "539881",
+      "kod_cast": "193216",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1179,
+      "kod_obec": "539627",
+      "kod_cast": "403199",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1180,
+      "kod_obec": "538728",
+      "kod_cast": "117200",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1181,
+      "kod_obec": "538787",
+      "kod_cast": "150801",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1164,
+      "kod_obec": "599301",
+      "kod_cast": "020222",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1165,
+      "kod_obec": "564915",
+      "kod_cast": "027669",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1166,
+      "kod_obec": "538141",
+      "kod_cast": "023442",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1186,
+      "kod_obec": "538698",
+      "kod_cast": "137481",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1187,
+      "kod_obec": "539325",
+      "kod_cast": "113271",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1188,
+      "kod_obec": "599221",
+      "kod_cast": "027677",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1189,
+      "kod_obec": "513571",
+      "kod_cast": "108529",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1190,
+      "kod_obec": "571679",
+      "kod_cast": "108111",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1191,
+      "kod_obec": "533718",
+      "kod_cast": "157660",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1192,
+      "kod_obec": "599221",
+      "kod_cast": "027707",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1193,
+      "kod_obec": "539325",
+      "kod_cast": "113280",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1194,
+      "kod_obec": "538728",
+      "kod_cast": "403075",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1195,
+      "kod_obec": "539325",
+      "kod_cast": "058611",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1196,
+      "kod_obec": "539210",
+      "kod_cast": "028801",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1197,
+      "kod_obec": "513458",
+      "kod_cast": "181021",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1199,
+      "kod_obec": "547336",
+      "kod_cast": "404268",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1200,
+      "kod_obec": "540188",
+      "kod_cast": "102415",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1201,
+      "kod_obec": "513504",
+      "kod_cast": "026395",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1183,
+      "kod_obec": "538728",
+      "kod_cast": "077640",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1184,
+      "kod_obec": "539571",
+      "kod_cast": "133981",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1185,
+      "kod_obec": "538698",
+      "kod_cast": "137472",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1206,
+      "kod_obec": "544779",
+      "kod_cast": "150720",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1207,
+      "kod_obec": "535206",
+      "kod_cast": "022322",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1208,
+      "kod_obec": "535796",
+      "kod_cast": "185680",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1209,
+      "kod_obec": "535800",
+      "kod_cast": "083038",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1210,
+      "kod_obec": "544779",
+      "kod_cast": "068462",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1211,
+      "kod_obec": "535494",
+      "kod_cast": "174734",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1212,
+      "kod_obec": "544779",
+      "kod_cast": "193925",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1213,
+      "kod_obec": "535800",
+      "kod_cast": "083020",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1214,
+      "kod_obec": "535788",
+      "kod_cast": "033537",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1215,
+      "kod_obec": "544779",
+      "kod_cast": "085162",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1216,
+      "kod_obec": "544426",
+      "kod_cast": "033146",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1217,
+      "kod_obec": "544485",
+      "kod_cast": "136794",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1218,
+      "kod_obec": "544892",
+      "kod_cast": "110477",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1219,
+      "kod_obec": "544892",
+      "kod_cast": "110485",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1220,
+      "kod_obec": "544892",
+      "kod_cast": "110493",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1221,
+      "kod_obec": "544485",
+      "kod_cast": "070068",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1203,
+      "kod_obec": "544485",
+      "kod_cast": "070084",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1204,
+      "kod_obec": "544485",
+      "kod_cast": "070076",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1205,
+      "kod_obec": "544485",
+      "kod_cast": "059455",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1226,
+      "kod_obec": "562416",
+      "kod_cast": "004383",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1227,
+      "kod_obec": "546127",
+      "kod_cast": "404152",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1228,
+      "kod_obec": "546127",
+      "kod_cast": "404187",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1229,
+      "kod_obec": "545881",
+      "kod_cast": "138681",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1230,
+      "kod_obec": "561029",
+      "kod_cast": "160326",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1231,
+      "kod_obec": "546143",
+      "kod_cast": "025682",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1232,
+      "kod_obec": "546127",
+      "kod_cast": "404144",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1233,
+      "kod_obec": "546666",
+      "kod_cast": "086363",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1234,
+      "kod_obec": "562840",
+      "kod_cast": "030589",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1235,
+      "kod_obec": "546968",
+      "kod_cast": "121495",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1236,
+      "kod_obec": "546500",
+      "kod_cast": "045624",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1237,
+      "kod_obec": "546500",
+      "kod_cast": "045641",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1238,
+      "kod_obec": "545881",
+      "kod_cast": "404101",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1239,
+      "kod_obec": "598631",
+      "kod_cast": "062855",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1240,
+      "kod_obec": "562548",
+      "kod_cast": "001341",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1241,
+      "kod_obec": "546127",
+      "kod_cast": "404161",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1223,
+      "kod_obec": "546712",
+      "kod_cast": "089907",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1224,
+      "kod_obec": "546542",
+      "kod_cast": "063207",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1246,
+      "kod_obec": "545881",
+      "kod_cast": "404128",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1247,
+      "kod_obec": "545881",
+      "kod_cast": "404110",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1248,
+      "kod_obec": "546127",
+      "kod_cast": "404179",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1249,
+      "kod_obec": "545881",
+      "kod_cast": "404080",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1250,
+      "kod_obec": "545881",
+      "kod_cast": "404098",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1251,
+      "kod_obec": "562696",
+      "kod_cast": "105309",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1252,
+      "kod_obec": "546666",
+      "kod_cast": "158470",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1253,
+      "kod_obec": "546127",
+      "kod_cast": "024457",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1254,
+      "kod_obec": "546968",
+      "kod_cast": "121941",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1255,
+      "kod_obec": "562599",
+      "kod_cast": "179701",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1256,
+      "kod_obec": "535079",
+      "kod_cast": "102784",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1257,
+      "kod_obec": "535079",
+      "kod_cast": "102792",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1258,
+      "kod_obec": "565989",
+      "kod_cast": "038962",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1259,
+      "kod_obec": "534781",
+      "kod_cast": "033111",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1260,
+      "kod_obec": "538566",
+      "kod_cast": "108031",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1261,
+      "kod_obec": "534960",
+      "kod_cast": "075809",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1243,
+      "kod_obec": "562475",
+      "kod_cast": "043931",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1244,
+      "kod_obec": "545881",
+      "kod_cast": "116505",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1245,
+      "kod_obec": "598640",
+      "kod_cast": "105333",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1266,
+      "kod_obec": "535362",
+      "kod_cast": "191001",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1267,
+      "kod_obec": "535117",
+      "kod_cast": "106577",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1268,
+      "kod_obec": "535273",
+      "kod_cast": "179876",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1269,
+      "kod_obec": "539201",
+      "kod_cast": "028312",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1270,
+      "kod_obec": "538086",
+      "kod_cast": "402991",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1271,
+      "kod_obec": "538230",
+      "kod_cast": "046388",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1272,
+      "kod_obec": "538311",
+      "kod_cast": "415758",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1273,
+      "kod_obec": "538311",
+      "kod_cast": "066028",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1274,
+      "kod_obec": "565008",
+      "kod_cast": "027316",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1275,
+      "kod_obec": "538264",
+      "kod_cast": "058483",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1276,
+      "kod_obec": "538311",
+      "kod_cast": "066036",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1277,
+      "kod_obec": "538086",
+      "kod_cast": "008079",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1278,
+      "kod_obec": "538272",
+      "kod_cast": "060925",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1279,
+      "kod_obec": "538540",
+      "kod_cast": "102407",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1280,
+      "kod_obec": "538256",
+      "kod_cast": "049671",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1263,
+      "kod_obec": "534684",
+      "kod_cast": "007510",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1264,
+      "kod_obec": "538094",
+      "kod_cast": "403016",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1265,
+      "kod_obec": "535362",
+      "kod_cast": "191019",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1285,
+      "kod_obec": "538221",
+      "kod_cast": "044792",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1286,
+      "kod_obec": "539040",
+      "kod_cast": "188492",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1287,
+      "kod_obec": "505781",
+      "kod_cast": "009229",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1288,
+      "kod_obec": "538761",
+      "kod_cast": "147788",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1289,
+      "kod_obec": "539066",
+      "kod_cast": "192783",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1290,
+      "kod_obec": "539058",
+      "kod_cast": "192414",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1291,
+      "kod_obec": "539058",
+      "kod_cast": "192406",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1292,
+      "kod_obec": "539066",
+      "kod_cast": "192767",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1293,
+      "kod_obec": "539058",
+      "kod_cast": "322105",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1294,
+      "kod_obec": "538761",
+      "kod_cast": "147761",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1295,
+      "kod_obec": "598305",
+      "kod_cast": "192775",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1296,
+      "kod_obec": "539040",
+      "kod_cast": "188506",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1297,
+      "kod_obec": "539058",
+      "kod_cast": "192392",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1298,
+      "kod_obec": "538876",
+      "kod_cast": "162388",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1299,
+      "kod_obec": "545201",
+      "kod_cast": "403814",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1282,
+      "kod_obec": "538540",
+      "kod_cast": "102393",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1283,
+      "kod_obec": "538221",
+      "kod_cast": "044806",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1284,
+      "kod_obec": "538272",
+      "kod_cast": "060933",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1304,
+      "kod_obec": "545384",
+      "kod_cast": "197050",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1305,
+      "kod_obec": "545201",
+      "kod_cast": "103900",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1306,
+      "kod_obec": "545201",
+      "kod_cast": "403806",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1307,
+      "kod_obec": "529753",
+      "kod_cast": "105295",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1308,
+      "kod_obec": "546127",
+      "kod_cast": "004375",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1309,
+      "kod_obec": "550418",
+      "kod_cast": "091235",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1311,
+      "kod_obec": "552861",
+      "kod_cast": "124974",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1312,
+      "kod_obec": "552861",
+      "kod_cast": "124982",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1313,
+      "kod_obec": "552861",
+      "kod_cast": "124991",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1314,
+      "kod_obec": "552917",
+      "kod_cast": "048275",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1315,
+      "kod_obec": "563722",
+      "kod_cast": "158852",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1316,
+      "kod_obec": "560448",
+      "kod_cast": "405124",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1317,
+      "kod_obec": "560448",
+      "kod_cast": "001899",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1337,
+      "kod_obec": "533858",
+      "kod_cast": "047562",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1301,
+      "kod_obec": "536156",
+      "kod_cast": "197017",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1302,
+      "kod_obec": "545287",
+      "kod_cast": "187178",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1303,
+      "kod_obec": "545287",
+      "kod_cast": "187194",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1322,
+      "kod_obec": "552241",
+      "kod_cast": "108588",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1323,
+      "kod_obec": "560529",
+      "kod_cast": "124729",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1324,
+      "kod_obec": "537021",
+      "kod_cast": "003115",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1325,
+      "kod_obec": "552241",
+      "kod_cast": "052817",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1326,
+      "kod_obec": "563145",
+      "kod_cast": "054127",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1327,
+      "kod_obec": "552241",
+      "kod_cast": "052825",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1328,
+      "kod_obec": "563030",
+      "kod_cast": "075159",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1329,
+      "kod_obec": "552917",
+      "kod_cast": "048259",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1330,
+      "kod_obec": "551139",
+      "kod_cast": "051110",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1331,
+      "kod_obec": "552496",
+      "kod_cast": "055476",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1332,
+      "kod_obec": "552241",
+      "kod_cast": "126080",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1333,
+      "kod_obec": "552852",
+      "kod_cast": "124737",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1334,
+      "kod_obec": "552712",
+      "kod_cast": "097381",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1335,
+      "kod_obec": "598992",
+      "kod_cast": "005177",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1336,
+      "kod_obec": "552054",
+      "kod_cast": "405086",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1319,
+      "kod_obec": "552828",
+      "kod_cast": "121339",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1320,
+      "kod_obec": "560553",
+      "kod_cast": "124702",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1321,
+      "kod_obec": "552496",
+      "kod_cast": "066575",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1342,
+      "kod_obec": "560481",
+      "kod_cast": "038831",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1343,
+      "kod_obec": "560481",
+      "kod_cast": "038857",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1344,
+      "kod_obec": "560481",
+      "kod_cast": "038865",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1345,
+      "kod_obec": "562963",
+      "kod_cast": "058050",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1346,
+      "kod_obec": "552127",
+      "kod_cast": "008966",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1347,
+      "kod_obec": "552127",
+      "kod_cast": "008974",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1348,
+      "kod_obec": "552496",
+      "kod_cast": "066583",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1349,
+      "kod_obec": "552241",
+      "kod_cast": "029122",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1350,
+      "kod_obec": "552241",
+      "kod_cast": "126098",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1351,
+      "kod_obec": "552747",
+      "kod_cast": "103349",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1352,
+      "kod_obec": "552861",
+      "kod_cast": "124966",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1353,
+      "kod_obec": "536083",
+      "kod_cast": "177768",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1354,
+      "kod_obec": "560529",
+      "kod_cast": "124699",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1355,
+      "kod_obec": "542113",
+      "kod_cast": "100242",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1356,
+      "kod_obec": "542016",
+      "kod_cast": "084921",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1357,
+      "kod_obec": "565261",
+      "kod_cast": "136042",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1339,
+      "kod_obec": "552917",
+      "kod_cast": "048267",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1340,
+      "kod_obec": "552224",
+      "kod_cast": "027375",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1341,
+      "kod_obec": "560481",
+      "kod_cast": "038822",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1363,
+      "kod_obec": "532070",
+      "kod_cast": "001996",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1364,
+      "kod_obec": "532622",
+      "kod_cast": "089940",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1365,
+      "kod_obec": "532851",
+      "kod_cast": "155446",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1366,
+      "kod_obec": "571598",
+      "kod_cast": "190390",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1367,
+      "kod_obec": "532584",
+      "kod_cast": "083704",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1368,
+      "kod_obec": "539384",
+      "kod_cast": "066851",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1369,
+      "kod_obec": "539708",
+      "kod_cast": "157384",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1370,
+      "kod_obec": "537039",
+      "kod_cast": "005843",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1371,
+      "kod_obec": "537616",
+      "kod_cast": "113166",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1372,
+      "kod_obec": "532053",
+      "kod_cast": "401994",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1373,
+      "kod_obec": "537080",
+      "kod_cast": "023922",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1374,
+      "kod_obec": "542334",
+      "kod_cast": "144673",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1375,
+      "kod_obec": "537675",
+      "kod_cast": "122785",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1376,
+      "kod_obec": "537675",
+      "kod_cast": "122793",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1377,
+      "kod_obec": "537675",
+      "kod_cast": "122777",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1378,
+      "kod_obec": "533840",
+      "kod_cast": "179680",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1359,
+      "kod_obec": "541877",
+      "kod_cast": "066869",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1360,
+      "kod_obec": "532576",
+      "kod_cast": "083585",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1361,
+      "kod_obec": "532169",
+      "kod_cast": "016390",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1383,
+      "kod_obec": "533700",
+      "kod_cast": "155055",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1384,
+      "kod_obec": "533858",
+      "kod_cast": "179868",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1385,
+      "kod_obec": "533769",
+      "kod_cast": "170801",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1386,
+      "kod_obec": "533823",
+      "kod_cast": "177920",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1387,
+      "kod_obec": "533645",
+      "kod_cast": "138771",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1388,
+      "kod_obec": "513181",
+      "kod_cast": "109193",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1389,
+      "kod_obec": "533441",
+      "kod_cast": "072354",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1390,
+      "kod_obec": "534196",
+      "kod_cast": "094099",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1391,
+      "kod_obec": "533441",
+      "kod_cast": "072346",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1392,
+      "kod_obec": "513270",
+      "kod_cast": "138762",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1393,
+      "kod_obec": "533645",
+      "kod_cast": "138789",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1394,
+      "kod_obec": "533947",
+      "kod_cast": "197441",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1395,
+      "kod_obec": "533947",
+      "kod_cast": "197475",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1396,
+      "kod_obec": "533165",
+      "kod_cast": "402087",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1397,
+      "kod_obec": "533971",
+      "kod_cast": "004065",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1398,
+      "kod_obec": "537811",
+      "kod_cast": "152170",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1399,
+      "kod_obec": "537497",
+      "kod_cast": "094536",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1400,
+      "kod_obec": "537179",
+      "kod_cast": "047511",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1380,
+      "kod_obec": "533530",
+      "kod_cast": "105724",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1381,
+      "kod_obec": "533530",
+      "kod_cast": "105716",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1382,
+      "kod_obec": "513237",
+      "kod_cast": "109215",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1405,
+      "kod_obec": "537772",
+      "kod_cast": "146129",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1406,
+      "kod_obec": "537586",
+      "kod_cast": "111996",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1407,
+      "kod_obec": "529630",
+      "kod_cast": "070611",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1408,
+      "kod_obec": "537004",
+      "kod_cast": "108383",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1409,
+      "kod_obec": "537276",
+      "kod_cast": "062821",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1410,
+      "kod_obec": "537233",
+      "kod_cast": "053741",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1411,
+      "kod_obec": "537110",
+      "kod_cast": "033910",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1412,
+      "kod_obec": "541699",
+      "kod_cast": "192350",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1413,
+      "kod_obec": "541699",
+      "kod_cast": "105422",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1415,
+      "kod_obec": "541834",
+      "kod_cast": "058718",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1416,
+      "kod_obec": "541699",
+      "kod_cast": "403717",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1417,
+      "kod_obec": "541699",
+      "kod_cast": "105449",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1418,
+      "kod_obec": "529699",
+      "kod_cast": "178349",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1419,
+      "kod_obec": "529711",
+      "kod_cast": "031976",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1420,
+      "kod_obec": "541699",
+      "kod_cast": "105431",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1421,
+      "kod_obec": "529699",
+      "kod_cast": "178357",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1465,
+      "kod_obec": "533882",
+      "kod_cast": "184675",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1402,
+      "kod_obec": "529630",
+      "kod_cast": "070602",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1403,
+      "kod_obec": "537683",
+      "kod_cast": "066672",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1404,
+      "kod_obec": "537683",
+      "kod_cast": "123544",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1426,
+      "kod_obec": "534943",
+      "kod_cast": "071269",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1427,
+      "kod_obec": "537021",
+      "kod_cast": "003107",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1428,
+      "kod_obec": "537021",
+      "kod_cast": "003166",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1429,
+      "kod_obec": "537314",
+      "kod_cast": "070521",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1430,
+      "kod_obec": "537667",
+      "kod_cast": "121029",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1431,
+      "kod_obec": "534862",
+      "kod_cast": "193836",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1432,
+      "kod_obec": "537152",
+      "kod_cast": "045021",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1433,
+      "kod_obec": "534871",
+      "kod_cast": "177784",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1434,
+      "kod_obec": "542067",
+      "kod_cast": "093319",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1435,
+      "kod_obec": "537578",
+      "kod_cast": "111929",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1436,
+      "kod_obec": "537551",
+      "kod_cast": "109177",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1437,
+      "kod_obec": "542466",
+      "kod_cast": "161730",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1438,
+      "kod_obec": "542610",
+      "kod_cast": "191370",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1439,
+      "kod_obec": "599760",
+      "kod_cast": "137316",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1440,
+      "kod_obec": "542610",
+      "kod_cast": "173797",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1441,
+      "kod_obec": "541982",
+      "kod_cast": "076392",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1442,
+      "kod_obec": "542563",
+      "kod_cast": "178241",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1423,
+      "kod_obec": "537039",
+      "kod_cast": "071358",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1424,
+      "kod_obec": "537055",
+      "kod_cast": "139548",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1425,
+      "kod_obec": "537055",
+      "kod_cast": "015407",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1447,
+      "kod_obec": "538035",
+      "kod_cast": "195731",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1448,
+      "kod_obec": "541672",
+      "kod_cast": "009458",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1450,
+      "kod_obec": "565288",
+      "kod_cast": "063312",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1451,
+      "kod_obec": "531430",
+      "kod_cast": "195766",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1452,
+      "kod_obec": "534595",
+      "kod_cast": "189324",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1453,
+      "kod_obec": "531430",
+      "kod_cast": "195782",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1454,
+      "kod_obec": "534595",
+      "kod_cast": "189341",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1455,
+      "kod_obec": "533165",
+      "kod_cast": "147397",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1456,
+      "kod_obec": "533165",
+      "kod_cast": "402125",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1457,
+      "kod_obec": "533556",
+      "kod_cast": "109207",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1458,
+      "kod_obec": "533947",
+      "kod_cast": "197467",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1459,
+      "kod_obec": "533394",
+      "kod_cast": "068951",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1460,
+      "kod_obec": "534196",
+      "kod_cast": "094081",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1461,
+      "kod_obec": "533947",
+      "kod_cast": "197432",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1462,
+      "kod_obec": "533807",
+      "kod_cast": "172332",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1463,
+      "kod_obec": "571636",
+      "kod_cast": "016454",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1464,
+      "kod_obec": "533572",
+      "kod_cast": "117099",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1444,
+      "kod_obec": "537683",
+      "kod_cast": "134384",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1445,
+      "kod_obec": "537438",
+      "kod_cast": "082694",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1446,
+      "kod_obec": "534994",
+      "kod_cast": "195723",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1472,
+      "kod_obec": "533751",
+      "kod_cast": "170518",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1473,
+      "kod_obec": "571687",
+      "kod_cast": "170488",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1474,
+      "kod_obec": "533661",
+      "kod_cast": "141445",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1475,
+      "kod_obec": "533661",
+      "kod_cast": "141437",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1476,
+      "kod_obec": "533751",
+      "kod_cast": "170496",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1477,
+      "kod_obec": "564826",
+      "kod_cast": "167185",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1478,
+      "kod_obec": "513288",
+      "kod_cast": "167169",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1479,
+      "kod_obec": "533742",
+      "kod_cast": "167860",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1480,
+      "kod_obec": "533351",
+      "kod_cast": "054003",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1481,
+      "kod_obec": "533386",
+      "kod_cast": "066656",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1482,
+      "kod_obec": "533351",
+      "kod_cast": "053988",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1483,
+      "kod_obec": "533751",
+      "kod_cast": "170470",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1484,
+      "kod_obec": "533866",
+      "kod_cast": "083950",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1485,
+      "kod_obec": "533734",
+      "kod_cast": "167151",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1486,
+      "kod_obec": "533777",
+      "kod_cast": "171387",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1469,
+      "kod_obec": "530859",
+      "kod_cast": "004103",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1470,
+      "kod_obec": "531405",
+      "kod_cast": "189332",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1471,
+      "kod_obec": "534196",
+      "kod_cast": "159549",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1491,
+      "kod_obec": "544418",
+      "kod_cast": "079448",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1492,
+      "kod_obec": "533726",
+      "kod_cast": "161276",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1493,
+      "kod_obec": "533866",
+      "kod_cast": "182788",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1494,
+      "kod_obec": "533271",
+      "kod_cast": "022829",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1495,
+      "kod_obec": "533734",
+      "kod_cast": "167177",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1496,
+      "kod_obec": "564885",
+      "kod_cast": "031038",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1497,
+      "kod_obec": "538892",
+      "kod_cast": "165301",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1498,
+      "kod_obec": "537586",
+      "kod_cast": "111970",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1499,
+      "kod_obec": "530310",
+      "kod_cast": "189642",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1500,
+      "kod_obec": "530115",
+      "kod_cast": "190144",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1501,
+      "kod_obec": "530310",
+      "kod_cast": "189618",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1502,
+      "kod_obec": "538710",
+      "kod_cast": "144932",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1503,
+      "kod_obec": "531251",
+      "kod_cast": "050598",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1504,
+      "kod_obec": "532193",
+      "kod_cast": "024368",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1505,
+      "kod_obec": "530841",
+      "kod_cast": "172405",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1506,
+      "kod_obec": "531243",
+      "kod_cast": "050474",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1488,
+      "kod_obec": "533742",
+      "kod_cast": "167878",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1489,
+      "kod_obec": "533271",
+      "kod_cast": "402141",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1490,
+      "kod_obec": "533271",
+      "kod_cast": "022811",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1511,
+      "kod_obec": "530921",
+      "kod_cast": "185353",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1512,
+      "kod_obec": "529516",
+      "kod_cast": "019682",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1513,
+      "kod_obec": "530441",
+      "kod_cast": "126039",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1514,
+      "kod_obec": "529567",
+      "kod_cast": "024333",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1515,
+      "kod_obec": "538710",
+      "kod_cast": "403067",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1516,
+      "kod_obec": "530841",
+      "kod_cast": "172391",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1517,
+      "kod_obec": "529516",
+      "kod_cast": "019666",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1518,
+      "kod_obec": "538710",
+      "kod_cast": "144991",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1519,
+      "kod_obec": "531162",
+      "kod_cast": "034461",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1520,
+      "kod_obec": "534421",
+      "kod_cast": "001210",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1521,
+      "kod_obec": "530638",
+      "kod_cast": "151530",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1522,
+      "kod_obec": "530841",
+      "kod_cast": "172383",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1523,
+      "kod_obec": "540404",
+      "kod_cast": "140040",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1524,
+      "kod_obec": "538710",
+      "kod_cast": "144983",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1525,
+      "kod_obec": "530638",
+      "kod_cast": "151548",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1526,
+      "kod_obec": "530638",
+      "kod_cast": "151556",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1508,
+      "kod_obec": "531219",
+      "kod_cast": "048933",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1509,
+      "kod_obec": "529796",
+      "kod_cast": "052078",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1510,
+      "kod_obec": "532193",
+      "kod_cast": "024350",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1531,
+      "kod_obec": "530051",
+      "kod_cast": "080373",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1532,
+      "kod_obec": "530051",
+      "kod_cast": "080381",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1533,
+      "kod_obec": "533459",
+      "kod_cast": "075221",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1534,
+      "kod_obec": "529303",
+      "kod_cast": "051306",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1535,
+      "kod_obec": "538710",
+      "kod_cast": "144941",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1536,
+      "kod_obec": "538710",
+      "kod_cast": "144967",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1537,
+      "kod_obec": "530841",
+      "kod_cast": "123641",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1538,
+      "kod_obec": "530310",
+      "kod_cast": "401340",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1540,
+      "kod_obec": "538710",
+      "kod_cast": "144975",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1541,
+      "kod_obec": "530841",
+      "kod_cast": "172375",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1542,
+      "kod_obec": "530841",
+      "kod_cast": "075400",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1543,
+      "kod_obec": "538809",
+      "kod_cast": "187097",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1544,
+      "kod_obec": "529303",
+      "kod_cast": "002321",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1545,
+      "kod_obec": "532045",
+      "kod_cast": "051284",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1670,
+      "kod_obec": "530522",
+      "kod_cast": "137235",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1528,
+      "kod_obec": "529567",
+      "kod_cast": "024341",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1529,
+      "kod_obec": "530051",
+      "kod_cast": "080390",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1530,
+      "kod_obec": "532045",
+      "kod_cast": "051314",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1550,
+      "kod_obec": "530841",
+      "kod_cast": "118664",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1551,
+      "kod_obec": "529303",
+      "kod_cast": "002291",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1552,
+      "kod_obec": "530310",
+      "kod_cast": "104281",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1553,
+      "kod_obec": "530921",
+      "kod_cast": "401722",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1554,
+      "kod_obec": "530921",
+      "kod_cast": "185361",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1555,
+      "kod_obec": "531995",
+      "kod_cast": "190373",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1556,
+      "kod_obec": "531995",
+      "kod_cast": "190381",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1557,
+      "kod_obec": "532011",
+      "kod_cast": "192449",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1558,
+      "kod_obec": "531880",
+      "kod_cast": "168971",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1559,
+      "kod_obec": "534463",
+      "kod_cast": "195707",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1560,
+      "kod_obec": "532029",
+      "kod_cast": "195715",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1561,
+      "kod_obec": "531472",
+      "kod_cast": "086461",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1562,
+      "kod_obec": "532011",
+      "kod_cast": "192431",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1563,
+      "kod_obec": "531472",
+      "kod_cast": "086487",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1564,
+      "kod_obec": "531294",
+      "kod_cast": "090531",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1565,
+      "kod_obec": "531308",
+      "kod_cast": "061263",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1693,
+      "kod_obec": "533106",
+      "kod_cast": "168963",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1547,
+      "kod_obec": "529303",
+      "kod_cast": "002313",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1548,
+      "kod_obec": "529303",
+      "kod_cast": "051292",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1549,
+      "kod_obec": "532045",
+      "kod_cast": "051276",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1570,
+      "kod_obec": "531596",
+      "kod_cast": "155781",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1571,
+      "kod_obec": "533203",
+      "kod_cast": "189847",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1572,
+      "kod_obec": "532029",
+      "kod_cast": "195693",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1573,
+      "kod_obec": "531472",
+      "kod_cast": "086452",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1574,
+      "kod_obec": "533416",
+      "kod_cast": "070165",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1575,
+      "kod_obec": "538426",
+      "kod_cast": "077232",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1684,
+      "kod_obec": "533793",
+      "kod_cast": "093009",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1576,
+      "kod_obec": "533416",
+      "kod_cast": "075230",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1577,
+      "kod_obec": "538426",
+      "kod_cast": "077241",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1578,
+      "kod_obec": "538493",
+      "kod_cast": "097543",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1579,
+      "kod_obec": "538582",
+      "kod_cast": "170615",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1580,
+      "kod_obec": "538370",
+      "kod_cast": "070301",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1581,
+      "kod_obec": "541567",
+      "kod_cast": "185507",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1582,
+      "kod_obec": "564524",
+      "kod_cast": "103446",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1583,
+      "kod_obec": "564478",
+      "kod_cast": "101621",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1584,
+      "kod_obec": "538612",
+      "kod_cast": "120421",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1585,
+      "kod_obec": "540111",
+      "kod_cast": "403342",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1586,
+      "kod_obec": "539252",
+      "kod_cast": "047554",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1567,
+      "kod_obec": "531961",
+      "kod_cast": "076945",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1568,
+      "kod_obec": "531766",
+      "kod_cast": "155314",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1569,
+      "kod_obec": "531537",
+      "kod_cast": "093866",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1591,
+      "kod_obec": "539163",
+      "kod_cast": "024813",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1592,
+      "kod_obec": "539848",
+      "kod_cast": "185311",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1593,
+      "kod_obec": "538841",
+      "kod_cast": "160393",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1594,
+      "kod_obec": "538981",
+      "kod_cast": "415138",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1595,
+      "kod_obec": "539988",
+      "kod_cast": "009601",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1596,
+      "kod_obec": "541273",
+      "kod_cast": "145831",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1812,
+      "kod_obec": "530310",
+      "kod_cast": "005533",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1597,
+      "kod_obec": "539031",
+      "kod_cast": "187381",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1598,
+      "kod_obec": "539856",
+      "kod_cast": "187275",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1599,
+      "kod_obec": "538809",
+      "kod_cast": "403105",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1600,
+      "kod_obec": "540242",
+      "kod_cast": "039683",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1601,
+      "kod_obec": "538728",
+      "kod_cast": "145530",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1602,
+      "kod_obec": "538809",
+      "kod_cast": "134236",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1603,
+      "kod_obec": "539988",
+      "kod_cast": "009598",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1604,
+      "kod_obec": "538809",
+      "kod_cast": "134228",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1605,
+      "kod_obec": "538809",
+      "kod_cast": "134210",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1606,
+      "kod_obec": "539759",
+      "kod_cast": "170399",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1607,
+      "kod_obec": "539091",
+      "kod_cast": "193798",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1588,
+      "kod_obec": "539422",
+      "kod_cast": "082562",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1589,
+      "kod_obec": "538981",
+      "kod_cast": "179329",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1590,
+      "kod_obec": "599735",
+      "kod_cast": "194042",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1612,
+      "kod_obec": "538981",
+      "kod_cast": "179281",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1613,
+      "kod_obec": "539163",
+      "kod_cast": "024830",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1614,
+      "kod_obec": "541052",
+      "kod_cast": "120553",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1615,
+      "kod_obec": "539210",
+      "kod_cast": "028819",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1616,
+      "kod_obec": "539511",
+      "kod_cast": "109711",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1617,
+      "kod_obec": "539546",
+      "kod_cast": "119750",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1618,
+      "kod_obec": "599735",
+      "kod_cast": "194026",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1619,
+      "kod_obec": "539546",
+      "kod_cast": "119741",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1620,
+      "kod_obec": "539252",
+      "kod_cast": "047546",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1621,
+      "kod_obec": "533874",
+      "kod_cast": "183938",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1622,
+      "kod_obec": "539996",
+      "kod_cast": "009814",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1623,
+      "kod_obec": "571318",
+      "kod_cast": "140180",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1624,
+      "kod_obec": "540242",
+      "kod_cast": "039691",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1625,
+      "kod_obec": "540145",
+      "kod_cast": "031607",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1626,
+      "kod_obec": "539872",
+      "kod_cast": "191965",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1627,
+      "kod_obec": "539210",
+      "kod_cast": "319252",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1628,
+      "kod_obec": "538981",
+      "kod_cast": "179311",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1609,
+      "kod_obec": "538981",
+      "kod_cast": "179337",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1610,
+      "kod_obec": "538833",
+      "kod_cast": "159425",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1611,
+      "kod_obec": "539830",
+      "kod_cast": "184985",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1637,
+      "kod_obec": "540170",
+      "kod_cast": "032387",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1638,
+      "kod_obec": "540170",
+      "kod_cast": "403377",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1639,
+      "kod_obec": "540170",
+      "kod_cast": "102423",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1640,
+      "kod_obec": "539180",
+      "kod_cast": "027766",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1641,
+      "kod_obec": "530832",
+      "kod_cast": "004073",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1642,
+      "kod_obec": "531481",
+      "kod_cast": "195774",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1643,
+      "kod_obec": "534196",
+      "kod_cast": "159557",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1644,
+      "kod_obec": "533815",
+      "kod_cast": "173185",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1648,
+      "kod_obec": "533807",
+      "kod_cast": "172367",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1839,
+      "kod_obec": "540323",
+      "kod_cast": "053287",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1630,
+      "kod_obec": "539562",
+      "kod_cast": "124907",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1631,
+      "kod_obec": "539562",
+      "kod_cast": "124915",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1632,
+      "kod_obec": "538981",
+      "kod_cast": "179345",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1633,
+      "kod_obec": "538612",
+      "kod_cast": "120413",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1635,
+      "kod_obec": "541371",
+      "kod_cast": "159191",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1636,
+      "kod_obec": "541371",
+      "kod_cast": "159204",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1653,
+      "kod_obec": "534447",
+      "kod_cast": "052116",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1654,
+      "kod_obec": "530298",
+      "kod_cast": "104124",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1655,
+      "kod_obec": "530310",
+      "kod_cast": "104272",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1656,
+      "kod_obec": "530310",
+      "kod_cast": "401323",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1657,
+      "kod_obec": "580481",
+      "kod_cast": "133809",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1658,
+      "kod_obec": "529974",
+      "kod_cast": "074519",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1659,
+      "kod_obec": "532886",
+      "kod_cast": "123633",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1660,
+      "kod_obec": "532878",
+      "kod_cast": "051161",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1661,
+      "kod_obec": "532037",
+      "kod_cast": "053953",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1662,
+      "kod_obec": "530310",
+      "kod_cast": "103888",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1663,
+      "kod_obec": "530310",
+      "kod_cast": "189626",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1664,
+      "kod_obec": "531812",
+      "kod_cast": "160776",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1665,
+      "kod_obec": "531464",
+      "kod_cast": "086321",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1666,
+      "kod_obec": "533203",
+      "kod_cast": "080799",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1667,
+      "kod_obec": "533203",
+      "kod_cast": "401978",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1668,
+      "kod_obec": "531642",
+      "kod_cast": "113336",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1669,
+      "kod_obec": "531979",
+      "kod_cast": "189596",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1650,
+      "kod_obec": "538728",
+      "kod_cast": "156230",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1651,
+      "kod_obec": "533360",
+      "kod_cast": "059013",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1652,
+      "kod_obec": "531073",
+      "kod_cast": "003361",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1675,
+      "kod_obec": "534285",
+      "kod_cast": "123366",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1676,
+      "kod_obec": "533335",
+      "kod_cast": "081302",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1677,
+      "kod_obec": "531812",
+      "kod_cast": "160784",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1678,
+      "kod_obec": "533203",
+      "kod_cast": "072974",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1679,
+      "kod_obec": "534048",
+      "kod_cast": "183202",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1680,
+      "kod_obec": "531740",
+      "kod_cast": "148997",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1681,
+      "kod_obec": "531758",
+      "kod_cast": "152986",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1682,
+      "kod_obec": "531812",
+      "kod_cast": "160792",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1683,
+      "kod_obec": "531642",
+      "kod_cast": "113328",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1685,
+      "kod_obec": "531995",
+      "kod_cast": "078085",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1686,
+      "kod_obec": "533319",
+      "kod_cast": "090417",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1687,
+      "kod_obec": "531910",
+      "kod_cast": "179582",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1688,
+      "kod_obec": "531839",
+      "kod_cast": "166910",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1689,
+      "kod_obec": "531839",
+      "kod_cast": "166898",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1690,
+      "kod_obec": "534218",
+      "kod_cast": "090999",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1691,
+      "kod_obec": "533203",
+      "kod_cast": "073041",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1692,
+      "kod_obec": "531961",
+      "kod_cast": "188441",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1672,
+      "kod_obec": "531740",
+      "kod_cast": "148989",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1673,
+      "kod_obec": "534404",
+      "kod_cast": "089249",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1674,
+      "kod_obec": "531910",
+      "kod_cast": "179591",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1698,
+      "kod_obec": "539953",
+      "kod_cast": "403318",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1699,
+      "kod_obec": "539953",
+      "kod_cast": "006696",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1700,
+      "kod_obec": "540170",
+      "kod_cast": "032379",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1701,
+      "kod_obec": "539104",
+      "kod_cast": "147427",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1702,
+      "kod_obec": "571211",
+      "kod_cast": "066346",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1703,
+      "kod_obec": "540021",
+      "kod_cast": "015814",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1704,
+      "kod_obec": "540901",
+      "kod_cast": "032131",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1705,
+      "kod_obec": "539562",
+      "kod_cast": "124893",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1706,
+      "kod_obec": "541389",
+      "kod_cast": "160059",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1707,
+      "kod_obec": "539457",
+      "kod_cast": "085057",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1708,
+      "kod_obec": "539643",
+      "kod_cast": "145378",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1709,
+      "kod_obec": "540901",
+      "kod_cast": "107620",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1710,
+      "kod_obec": "599727",
+      "kod_cast": "027821",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1711,
+      "kod_obec": "540072",
+      "kod_cast": "019453",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1712,
+      "kod_obec": "539406",
+      "kod_cast": "080764",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1713,
+      "kod_obec": "513431",
+      "kod_cast": "052990",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1714,
+      "kod_obec": "539198",
+      "kod_cast": "027812",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1695,
+      "kod_obec": "539953",
+      "kod_cast": "006700",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1696,
+      "kod_obec": "541583",
+      "kod_cast": "188204",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1697,
+      "kod_obec": "540323",
+      "kod_cast": "321125",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1720,
+      "kod_obec": "540111",
+      "kod_cast": "403351",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1721,
+      "kod_obec": "540901",
+      "kod_cast": "403521",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1722,
+      "kod_obec": "540765",
+      "kod_cast": "097624",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1723,
+      "kod_obec": "539651",
+      "kod_cast": "145807",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1724,
+      "kod_obec": "540781",
+      "kod_cast": "098205",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1725,
+      "kod_obec": "539104",
+      "kod_cast": "090107",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1726,
+      "kod_obec": "540781",
+      "kod_cast": "126624",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1727,
+      "kod_obec": "513539",
+      "kod_cast": "178497",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1728,
+      "kod_obec": "541338",
+      "kod_cast": "153753",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1729,
+      "kod_obec": "539392",
+      "kod_cast": "069973",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1730,
+      "kod_obec": "539546",
+      "kod_cast": "403172",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1731,
+      "kod_obec": "513555",
+      "kod_cast": "071048",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1732,
+      "kod_obec": "571261",
+      "kod_cast": "078751",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1733,
+      "kod_obec": "539287",
+      "kod_cast": "052981",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1734,
+      "kod_obec": "540323",
+      "kod_cast": "189251",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1735,
+      "kod_obec": "540323",
+      "kod_cast": "403385",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1716,
+      "kod_obec": "539121",
+      "kod_cast": "020354",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1718,
+      "kod_obec": "540901",
+      "kod_cast": "081809",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1719,
+      "kod_obec": "539511",
+      "kod_cast": "109720",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1740,
+      "kod_obec": "571717",
+      "kod_cast": "182818",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1741,
+      "kod_obec": "513393",
+      "kod_cast": "136271",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1742,
+      "kod_obec": "533866",
+      "kod_cast": "182796",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1743,
+      "kod_obec": "533866",
+      "kod_cast": "182834",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1744,
+      "kod_obec": "533581",
+      "kod_cast": "121380",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1745,
+      "kod_obec": "531103",
+      "kod_cast": "015130",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1746,
+      "kod_obec": "531464",
+      "kod_cast": "160245",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1747,
+      "kod_obec": "531545",
+      "kod_cast": "099309",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1748,
+      "kod_obec": "531316",
+      "kod_cast": "401943",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1813,
+      "kod_obec": "530310",
+      "kod_cast": "097349",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1749,
+      "kod_obec": "531545",
+      "kod_cast": "168327",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1750,
+      "kod_obec": "531804",
+      "kod_cast": "160261",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1751,
+      "kod_obec": "533912",
+      "kod_cast": "099325",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1752,
+      "kod_obec": "531545",
+      "kod_cast": "401951",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1753,
+      "kod_obec": "531944",
+      "kod_cast": "185710",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1754,
+      "kod_obec": "531961",
+      "kod_cast": "071960",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1755,
+      "kod_obec": "531804",
+      "kod_cast": "160253",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1756,
+      "kod_obec": "531804",
+      "kod_cast": "160270",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1737,
+      "kod_obec": "539953",
+      "kod_cast": "006688",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1738,
+      "kod_obec": "539368",
+      "kod_cast": "062871",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1739,
+      "kod_obec": "540323",
+      "kod_cast": "053295",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1761,
+      "kod_obec": "539759",
+      "kod_cast": "170372",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1762,
+      "kod_obec": "539422",
+      "kod_cast": "082554",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1763,
+      "kod_obec": "539881",
+      "kod_cast": "193224",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1764,
+      "kod_obec": "539210",
+      "kod_cast": "028797",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1765,
+      "kod_obec": "533424",
+      "kod_cast": "071218",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1766,
+      "kod_obec": "539341",
+      "kod_cast": "060178",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1767,
+      "kod_obec": "598313",
+      "kod_cast": "060186",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1768,
+      "kod_obec": "533378",
+      "kod_cast": "059315",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1769,
+      "kod_obec": "538850",
+      "kod_cast": "161179",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1770,
+      "kod_obec": "599719",
+      "kod_cast": "165310",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1771,
+      "kod_obec": "599484",
+      "kod_cast": "161268",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1772,
+      "kod_obec": "531201",
+      "kod_cast": "045896",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1773,
+      "kod_obec": "531201",
+      "kod_cast": "138690",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1774,
+      "kod_obec": "531201",
+      "kod_cast": "045870",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1775,
+      "kod_obec": "531201",
+      "kod_cast": "045888",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1776,
+      "kod_obec": "531740",
+      "kod_cast": "149004",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1777,
+      "kod_obec": "531740",
+      "kod_cast": "148971",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1758,
+      "kod_obec": "533238",
+      "kod_cast": "016446",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1759,
+      "kod_obec": "533301",
+      "kod_cast": "031208",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1760,
+      "kod_obec": "571644",
+      "kod_cast": "031224",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1782,
+      "kod_obec": "531529",
+      "kod_cast": "093025",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1783,
+      "kod_obec": "531529",
+      "kod_cast": "093017",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1784,
+      "kod_obec": "533939",
+      "kod_cast": "079570",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1785,
+      "kod_obec": "533939",
+      "kod_cast": "079588",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1786,
+      "kod_obec": "538809",
+      "kod_cast": "161462",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1787,
+      "kod_obec": "534455",
+      "kod_cast": "051861",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1788,
+      "kod_obec": "531952",
+      "kod_cast": "187291",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1789,
+      "kod_obec": "534234",
+      "kod_cast": "182249",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1790,
+      "kod_obec": "533181",
+      "kod_cast": "001317",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1791,
+      "kod_obec": "533408",
+      "kod_cast": "069710",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1792,
+      "kod_obec": "533408",
+      "kod_cast": "069736",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1793,
+      "kod_obec": "530310",
+      "kod_cast": "103870",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1794,
+      "kod_obec": "533653",
+      "kod_cast": "139718",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1795,
+      "kod_obec": "533408",
+      "kod_cast": "069728",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1796,
+      "kod_obec": "533653",
+      "kod_cast": "139726",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1797,
+      "kod_obec": "533262",
+      "kod_cast": "006297",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1798,
+      "kod_obec": "599581",
+      "kod_cast": "002071",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1779,
+      "kod_obec": "533963",
+      "kod_cast": "148911",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1780,
+      "kod_obec": "531588",
+      "kod_cast": "104205",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1781,
+      "kod_obec": "534269",
+      "kod_cast": "103845",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1803,
+      "kod_obec": "534889",
+      "kod_cast": "155233",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1804,
+      "kod_obec": "513644",
+      "kod_cast": "193011",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1805,
+      "kod_obec": "538884",
+      "kod_cast": "162736",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1806,
+      "kod_obec": "538884",
+      "kod_cast": "162744",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1807,
+      "kod_obec": "533181",
+      "kod_cast": "001309",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1808,
+      "kod_obec": "533262",
+      "kod_cast": "006301",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1809,
+      "kod_obec": "534439",
+      "kod_cast": "159069",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1810,
+      "kod_obec": "533653",
+      "kod_cast": "139734",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1811,
+      "kod_obec": "538493",
+      "kod_cast": "097551",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1814,
+      "kod_obec": "530298",
+      "kod_cast": "401234",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1815,
+      "kod_obec": "530298",
+      "kod_cast": "104132",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1816,
+      "kod_obec": "530310",
+      "kod_cast": "097322",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1817,
+      "kod_obec": "530310",
+      "kod_cast": "097365",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1818,
+      "kod_obec": "530310",
+      "kod_cast": "056162",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1800,
+      "kod_obec": "537837",
+      "kod_cast": "153800",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1801,
+      "kod_obec": "537454",
+      "kod_cast": "089613",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1802,
+      "kod_obec": "537721",
+      "kod_cast": "135038",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1823,
+      "kod_obec": "530298",
+      "kod_cast": "104141",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1824,
+      "kod_obec": "530310",
+      "kod_cast": "001953",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1825,
+      "kod_obec": "530522",
+      "kod_cast": "137243",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1826,
+      "kod_obec": "530298",
+      "kod_cast": "104116",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1827,
+      "kod_obec": "532037",
+      "kod_cast": "401781",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1828,
+      "kod_obec": "532037",
+      "kod_cast": "053961",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1829,
+      "kod_obec": "530298",
+      "kod_cast": "104108",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1830,
+      "kod_obec": "529974",
+      "kod_cast": "074527",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1831,
+      "kod_obec": "513482",
+      "kod_cast": "188425",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1832,
+      "kod_obec": "513482",
+      "kod_cast": "188433",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1833,
+      "kod_obec": "530310",
+      "kod_cast": "024511",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1834,
+      "kod_obec": "530310",
+      "kod_cast": "056154",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1835,
+      "kod_obec": "530522",
+      "kod_cast": "137219",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1836,
+      "kod_obec": "530522",
+      "kod_cast": "137227",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1837,
+      "kod_obec": "532037",
+      "kod_cast": "053970",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1838,
+      "kod_obec": "529974",
+      "kod_cast": "074535",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1820,
+      "kod_obec": "530298",
+      "kod_cast": "401226",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1821,
+      "kod_obec": "530522",
+      "kod_cast": "137260",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1822,
+      "kod_obec": "539368",
+      "kod_cast": "403164",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1844,
+      "kod_obec": "529842",
+      "kod_cast": "056731",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1845,
+      "kod_obec": "540323",
+      "kod_cast": "322431",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1846,
+      "kod_obec": "539333",
+      "kod_cast": "060101",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1847,
+      "kod_obec": "540323",
+      "kod_cast": "053309",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1848,
+      "kod_obec": "571288",
+      "kod_cast": "097659",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1849,
+      "kod_obec": "539104",
+      "kod_cast": "006866",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1850,
+      "kod_obec": "539333",
+      "kod_cast": "060119",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1851,
+      "kod_obec": "539155",
+      "kod_cast": "023949",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1852,
+      "kod_obec": "539333",
+      "kod_cast": "060071",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1853,
+      "kod_obec": "540323",
+      "kod_cast": "053325",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1854,
+      "kod_obec": "571199",
+      "kod_cast": "009725",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1855,
+      "kod_obec": "539333",
+      "kod_cast": "403156",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1856,
+      "kod_obec": "540048",
+      "kod_cast": "016250",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1857,
+      "kod_obec": "539732",
+      "kod_cast": "163261",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1858,
+      "kod_obec": "540323",
+      "kod_cast": "322423",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1859,
+      "kod_obec": "539732",
+      "kod_cast": "092207",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1860,
+      "kod_obec": "539732",
+      "kod_cast": "163252",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1841,
+      "kod_obec": "530310",
+      "kod_cast": "104299",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1842,
+      "kod_obec": "540323",
+      "kod_cast": "322440",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1843,
+      "kod_obec": "539155",
+      "kod_cast": "023931",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1865,
+      "kod_obec": "539163",
+      "kod_cast": "024848",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1866,
+      "kod_obec": "539660",
+      "kod_cast": "149616",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1867,
+      "kod_obec": "540323",
+      "kod_cast": "133779",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1868,
+      "kod_obec": "539333",
+      "kod_cast": "060127",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1869,
+      "kod_obec": "534145",
+      "kod_cast": "016497",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1870,
+      "kod_obec": "564761",
+      "kod_cast": "322296",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1871,
+      "kod_obec": "533548",
+      "kod_cast": "108103",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1872,
+      "kod_obec": "564796",
+      "kod_cast": "108138",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1873,
+      "kod_obec": "532568",
+      "kod_cast": "002658",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1874,
+      "kod_obec": "529648",
+      "kod_cast": "092126",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1875,
+      "kod_obec": "530174",
+      "kod_cast": "095851",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1876,
+      "kod_obec": "529931",
+      "kod_cast": "068969",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1877,
+      "kod_obec": "530816",
+      "kod_cast": "147095",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1878,
+      "kod_obec": "530115",
+      "kod_cast": "162108",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1879,
+      "kod_obec": "530867",
+      "kod_cast": "178101",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1880,
+      "kod_obec": "529486",
+      "kod_cast": "101435",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1862,
+      "kod_obec": "539261",
+      "kod_cast": "050326",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1863,
+      "kod_obec": "539333",
+      "kod_cast": "088757",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1864,
+      "kod_obec": "539333",
+      "kod_cast": "060097",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1886,
+      "kod_obec": "530301",
+      "kod_cast": "012840",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1887,
+      "kod_obec": "531049",
+      "kod_cast": "193844",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1888,
+      "kod_obec": "530476",
+      "kod_cast": "133043",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1889,
+      "kod_obec": "532550",
+      "kod_cast": "139921",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1890,
+      "kod_obec": "530913",
+      "kod_cast": "185191",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1891,
+      "kod_obec": "531049",
+      "kod_cast": "083461",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1892,
+      "kod_obec": "530476",
+      "kod_cast": "076597",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1893,
+      "kod_obec": "530301",
+      "kod_cast": "198234",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1894,
+      "kod_obec": "531049",
+      "kod_cast": "083437",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1895,
+      "kod_obec": "531049",
+      "kod_cast": "193879",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1896,
+      "kod_obec": "530476",
+      "kod_cast": "401455",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1897,
+      "kod_obec": "530867",
+      "kod_cast": "178098",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1898,
+      "kod_obec": "531049",
+      "kod_cast": "401757",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1899,
+      "kod_obec": "531049",
+      "kod_cast": "193852",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1900,
+      "kod_obec": "530476",
+      "kod_cast": "133035",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1883,
+      "kod_obec": "530883",
+      "kod_cast": "007200",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1884,
+      "kod_obec": "532266",
+      "kod_cast": "187046",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1885,
+      "kod_obec": "529842",
+      "kod_cast": "023370",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1905,
+      "kod_obec": "532550",
+      "kod_cast": "178063",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1906,
+      "kod_obec": "530867",
+      "kod_cast": "198277",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1907,
+      "kod_obec": "531049",
+      "kod_cast": "193861",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1908,
+      "kod_obec": "529788",
+      "kod_cast": "051888",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1909,
+      "kod_obec": "530913",
+      "kod_cast": "185183",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1910,
+      "kod_obec": "531022",
+      "kod_cast": "192571",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1911,
+      "kod_obec": "532380",
+      "kod_cast": "005517",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1912,
+      "kod_obec": "529486",
+      "kod_cast": "018881",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1913,
+      "kod_obec": "529486",
+      "kod_cast": "020176",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1914,
+      "kod_obec": "529486",
+      "kod_cast": "020184",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1915,
+      "kod_obec": "529486",
+      "kod_cast": "018902",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1916,
+      "kod_obec": "529648",
+      "kod_cast": "029335",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1917,
+      "kod_obec": "529648",
+      "kod_cast": "029360",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1918,
+      "kod_obec": "529648",
+      "kod_cast": "029378",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1919,
+      "kod_obec": "530093",
+      "kod_cast": "013498",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1920,
+      "kod_obec": "530093",
+      "kod_cast": "102938",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1921,
+      "kod_obec": "532509",
+      "kod_cast": "162418",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1902,
+      "kod_obec": "599387",
+      "kod_cast": "152561",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1903,
+      "kod_obec": "599387",
+      "kod_cast": "152579",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1904,
+      "kod_obec": "529842",
+      "kod_cast": "023361",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1926,
+      "kod_obec": "529907",
+      "kod_cast": "064700",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1927,
+      "kod_obec": "530026",
+      "kod_cast": "077330",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1928,
+      "kod_obec": "530301",
+      "kod_cast": "104230",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1929,
+      "kod_obec": "529486",
+      "kod_cast": "058319",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1930,
+      "kod_obec": "530301",
+      "kod_cast": "401307",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1931,
+      "kod_obec": "530301",
+      "kod_cast": "060968",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1932,
+      "kod_obec": "530301",
+      "kod_cast": "104248",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1933,
+      "kod_obec": "530301",
+      "kod_cast": "012866",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1934,
+      "kod_obec": "530778",
+      "kod_cast": "152544",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1935,
+      "kod_obec": "530816",
+      "kod_cast": "157414",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1936,
+      "kod_obec": "529842",
+      "kod_cast": "056707",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1937,
+      "kod_obec": "599395",
+      "kod_cast": "178080",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1938,
+      "kod_obec": "530816",
+      "kod_cast": "033341",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1939,
+      "kod_obec": "530778",
+      "kod_cast": "152536",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1940,
+      "kod_obec": "529842",
+      "kod_cast": "108952",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1941,
+      "kod_obec": "529931",
+      "kod_cast": "068985",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1942,
+      "kod_obec": "529770",
+      "kod_cast": "051420",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1923,
+      "kod_obec": "529907",
+      "kod_cast": "064718",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1924,
+      "kod_obec": "565776",
+      "kod_cast": "154083",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1925,
+      "kod_obec": "532096",
+      "kod_cast": "007803",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1948,
+      "kod_obec": "529303",
+      "kod_cast": "002275",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1949,
+      "kod_obec": "530514",
+      "kod_cast": "157406",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1950,
+      "kod_obec": "530514",
+      "kod_cast": "136433",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1951,
+      "kod_obec": "530778",
+      "kod_cast": "401625",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1952,
+      "kod_obec": "530778",
+      "kod_cast": "167029",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1953,
+      "kod_obec": "529303",
+      "kod_cast": "002259",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1954,
+      "kod_obec": "534056",
+      "kod_cast": "042021",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1955,
+      "kod_obec": "534056",
+      "kod_cast": "042030",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1956,
+      "kod_obec": "534056",
+      "kod_cast": "042056",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1957,
+      "kod_obec": "534561",
+      "kod_cast": "183369",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1958,
+      "kod_obec": "534307",
+      "kod_cast": "119440",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1959,
+      "kod_obec": "534307",
+      "kod_cast": "119482",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1960,
+      "kod_obec": "534200",
+      "kod_cast": "095991",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1961,
+      "kod_obec": "533262",
+      "kod_cast": "020966",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1962,
+      "kod_obec": "534242",
+      "kod_cast": "106071",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1963,
+      "kod_obec": "534242",
+      "kod_cast": "402303",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1944,
+      "kod_obec": "529303",
+      "kod_cast": "400947",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1945,
+      "kod_obec": "529541",
+      "kod_cast": "023159",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1946,
+      "kod_obec": "564427",
+      "kod_cast": "408484",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1973,
+      "kod_obec": "534013",
+      "kod_cast": "020273",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1974,
+      "kod_obec": "533998",
+      "kod_cast": "017752",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1975,
+      "kod_obec": "533955",
+      "kod_cast": "077801",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1976,
+      "kod_obec": "534013",
+      "kod_cast": "020265",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1977,
+      "kod_obec": "534137",
+      "kod_cast": "111040",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1978,
+      "kod_obec": "534005",
+      "kod_cast": "402222",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1979,
+      "kod_obec": "534510",
+      "kod_cast": "175846",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1980,
+      "kod_obec": "533955",
+      "kod_cast": "402192",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1981,
+      "kod_obec": "533955",
+      "kod_cast": "078018",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1982,
+      "kod_obec": "534331",
+      "kod_cast": "126411",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1965,
+      "kod_obec": "534587",
+      "kod_cast": "186228",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1966,
+      "kod_obec": "533998",
+      "kod_cast": "017761",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1970,
+      "kod_obec": "534587",
+      "kod_cast": "186236",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1987,
+      "kod_obec": "530956",
+      "kod_cast": "020885",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1988,
+      "kod_obec": "533955",
+      "kod_cast": "078026",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1989,
+      "kod_obec": "534544",
+      "kod_cast": "182214",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1990,
+      "kod_obec": "534170",
+      "kod_cast": "079766",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1991,
+      "kod_obec": "534374",
+      "kod_cast": "322393",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1992,
+      "kod_obec": "531341",
+      "kod_cast": "126390",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1993,
+      "kod_obec": "533955",
+      "kod_cast": "077909",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1994,
+      "kod_obec": "534510",
+      "kod_cast": "175838",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1995,
+      "kod_obec": "534188",
+      "kod_cast": "197858",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1996,
+      "kod_obec": "534226",
+      "kod_cast": "103438",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1997,
+      "kod_obec": "531367",
+      "kod_cast": "171476",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1998,
+      "kod_obec": "534099",
+      "kod_cast": "402273",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1999,
+      "kod_obec": "534501",
+      "kod_cast": "174246",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1984,
+      "kod_obec": "599450",
+      "kod_cast": "081973",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1985,
+      "kod_obec": "534501",
+      "kod_cast": "174262",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1986,
+      "kod_obec": "533475",
+      "kod_cast": "081981",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1003,
+      "kod_obec": "531031",
+      "kod_cast": "193101",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1024,
+      "kod_obec": "530778",
+      "kod_cast": "401617",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1045,
+      "kod_obec": "533581",
+      "kod_cast": "121363",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1067,
+      "kod_obec": "533181",
+      "kod_cast": "031658",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1086,
+      "kod_obec": "533297",
+      "kod_cast": "029157",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1104,
+      "kod_obec": "533181",
+      "kod_cast": "001295",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1108,
+      "kod_obec": "533921",
+      "kod_cast": "191078",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1143,
+      "kod_obec": "534587",
+      "kod_cast": "186244",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1158,
+      "kod_obec": "538418",
+      "kod_cast": "076546",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1163,
+      "kod_obec": "538418",
+      "kod_cast": "076554",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1182,
+      "kod_obec": "539571",
+      "kod_cast": "403181",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1202,
+      "kod_obec": "535591",
+      "kod_cast": "193933",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1222,
+      "kod_obec": "544736",
+      "kod_cast": "062227",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1242,
+      "kod_obec": "546445",
+      "kod_cast": "021075",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1262,
+      "kod_obec": "534986",
+      "kod_cast": "080934",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1050,
+      "kod_obec": "533386",
+      "kod_cast": "148580",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1300,
+      "kod_obec": "536199",
+      "kod_cast": "028070",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1318,
+      "kod_obec": "552917",
+      "kod_cast": "405167",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1338,
+      "kod_obec": "552241",
+      "kod_cast": "126071",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1358,
+      "kod_obec": "541893",
+      "kod_cast": "068128",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1379,
+      "kod_obec": "533700",
+      "kod_cast": "322121",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1401,
+      "kod_obec": "537896",
+      "kod_cast": "169641",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1414,
+      "kod_obec": "542202",
+      "kod_cast": "112062",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1422,
+      "kod_obec": "571326",
+      "kod_cast": "083798",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1443,
+      "kod_obec": "537659",
+      "kod_cast": "120979",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1467,
+      "kod_obec": "533190",
+      "kod_cast": "002020",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1468,
+      "kod_obec": "533807",
+      "kod_cast": "172359",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1487,
+      "kod_obec": "533751",
+      "kod_cast": "170500",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1507,
+      "kod_obec": "530310",
+      "kod_cast": "135810",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1527,
+      "kod_obec": "530841",
+      "kod_cast": "144959",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1539,
+      "kod_obec": "530441",
+      "kod_cast": "126021",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1546,
+      "kod_obec": "529303",
+      "kod_cast": "051268",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1566,
+      "kod_obec": "531626",
+      "kod_cast": "110191",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1587,
+      "kod_obec": "538809",
+      "kod_cast": "161471",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1629,
+      "kod_obec": "538833",
+      "kod_cast": "159441",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1649,
+      "kod_obec": "533254",
+      "kod_cast": "020087",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1671,
+      "kod_obec": "533203",
+      "kod_cast": "072966",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1694,
+      "kod_obec": "533203",
+      "kod_cast": "072958",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1715,
+      "kod_obec": "539759",
+      "kod_cast": "170381",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1717,
+      "kod_obec": "539368",
+      "kod_cast": "062863",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1736,
+      "kod_obec": "540323",
+      "kod_cast": "133787",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1757,
+      "kod_obec": "571318",
+      "kod_cast": "140198",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1778,
+      "kod_obec": "531740",
+      "kod_cast": "149012",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1799,
+      "kod_obec": "537454",
+      "kod_cast": "089648",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1819,
+      "kod_obec": "530310",
+      "kod_cast": "097331",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1840,
+      "kod_obec": "530310",
+      "kod_cast": "097357",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1861,
+      "kod_obec": "540323",
+      "kod_cast": "053317",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1881,
+      "kod_obec": "534382",
+      "kod_cast": "146170",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1882,
+      "kod_obec": "529486",
+      "kod_cast": "101427",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1901,
+      "kod_obec": "529737",
+      "kod_cast": "049298",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1922,
+      "kod_obec": "529931",
+      "kod_cast": "068977",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1943,
+      "kod_obec": "532568",
+      "kod_cast": "007935",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1947,
+      "kod_obec": "529737",
+      "kod_cast": "049280",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1634,
+      "kod_obec": "539368",
+      "kod_cast": "062880",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1983,
+      "kod_obec": "534137",
+      "kod_cast": "066681",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1362,
+      "kod_obec": "571598",
+      "kod_cast": "190403",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1449,
+      "kod_obec": "541761",
+      "kod_cast": "048909",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1123,
+      "kod_obec": "534293",
+      "kod_cast": "116912",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1138,
+      "kod_obec": "534277",
+      "kod_cast": "111309",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1281,
+      "kod_obec": "564982",
+      "kod_cast": "147753",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1608,
+      "kod_obec": "539520",
+      "kod_cast": "112607",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1964,
+      "kod_obec": "534005",
+      "kod_cast": "018490",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1645,
+      "kod_obec": "531111",
+      "kod_cast": "002640",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1646,
+      "kod_obec": "533815",
+      "kod_cast": "173177",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1647,
+      "kod_obec": "533947",
+      "kod_cast": "197459",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1310,
+      "kod_obec": "560529",
+      "kod_cast": "124681",
+      "radon": 2
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1198,
+      "kod_obec": "533874",
+      "kod_cast": "183946",
+      "radon": 3
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1967,
+      "kod_obec": "533955",
+      "kod_cast": "077925",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1968,
+      "kod_obec": "533955",
+      "kod_cast": "077976",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1969,
+      "kod_obec": "534587",
+      "kod_cast": "186210",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1971,
+      "kod_obec": "534137",
+      "kod_cast": "111058",
+      "radon": 1
+     }
+    },
+    {
+     "attributes": {
+      "objectid": 1972,
+      "kod_obec": "530981",
+      "kod_cast": "017779",
+      "radon": 1
+     }
+    }
+   ]
+  }
