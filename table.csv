@@ -506,7 +506,7 @@ kod_cast,radon,populace,okres,kraj
 054801,1.0,333.0,Mladá Boleslav,Středočeský kraj
 402885,1.0,4722.0,Mladá Boleslav,Středočeský kraj
 120961,1.0,872.0,Mladá Boleslav,Středočeský kraj
-030783,1.0,126.0,Rychnov nad Kněžnou,Královéhradecký kraj
+030783,1.0,126.0,Rychnov n.Kněžnou,
 402869,1.0,158.0,Mladá Boleslav,Středočeský kraj
 300110,1.0,16.0,Mladá Boleslav,Středočeský kraj
 136646,1.0,71.0,Mladá Boleslav,Středočeský kraj
@@ -998,7 +998,7 @@ kod_cast,radon,populace,okres,kraj
 179361,1.0,3821.0,Praha-západ,Středočeský kraj
 072745,2.0,2133.0,Mělník,Středočeský kraj
 401790,2.0,8.0,Benešov,Středočeský kraj
-027227,1.0,108.0,Rychnov nad Kněžnou,Královéhradecký kraj
+027227,1.0,108.0,Rychnov n.Kněžnou,
 083445,2.0,20.0,Benešov,Středočeský kraj
 087378,2.0,585.0,Benešov,Středočeský kraj
 087386,2.0,10.0,Benešov,Středočeský kraj
@@ -7209,11 +7209,11 @@ kod_cast,radon,populace,okres,kraj
 409731,1.0,221.0,Hradec Králové,Královéhradecký kraj
 074161,1.0,308.0,Hradec Králové,Královéhradecký kraj
 120910,1.0,261.0,Hradec Králové,Královéhradecký kraj
-111937,1.0,241.0,Rychnov nad Kněžnou,Královéhradecký kraj
-124931,1.0,658.0,Rychnov nad Kněžnou,Královéhradecký kraj
+111937,1.0,241.0,Rychnov n.Kněžnou,
+124931,1.0,658.0,Rychnov n.Kněžnou,
 142913,1.0,172.0,Náchod,Královéhradecký kraj
 192660,1.0,163.0,Náchod,Královéhradecký kraj
-022659,1.0,1793.0,Rychnov nad Kněžnou,Královéhradecký kraj
+022659,1.0,1793.0,Rychnov n.Kněžnou,
 155136,1.0,165.0,Náchod,Královéhradecký kraj
 055115,1.0,24.0,Náchod,Královéhradecký kraj
 021636,1.0,16.0,Náchod,Královéhradecký kraj
@@ -7222,8 +7222,8 @@ kod_cast,radon,populace,okres,kraj
 159336,1.0,329.0,Náchod,Královéhradecký kraj
 149764,1.0,312.0,Náchod,Královéhradecký kraj
 093271,1.0,212.0,Chrudim,Pardubický kraj
-027545,1.0,220.0,Rychnov nad Kněžnou,Královéhradecký kraj
-176141,1.0,77.0,Rychnov nad Kněžnou,Královéhradecký kraj
+027545,1.0,220.0,Rychnov n.Kněžnou,
+176141,1.0,77.0,Rychnov n.Kněžnou,
 184667,1.0,232.0,Jičín,Královéhradecký kraj
 142581,2.0,119.0,Semily,Liberecký kraj
 001601,2.0,260.0,Semily,Liberecký kraj
@@ -7233,21 +7233,21 @@ kod_cast,radon,populace,okres,kraj
 178420,1.0,35.0,Náchod,Královéhradecký kraj
 055158,1.0,105.0,Náchod,Královéhradecký kraj
 045314,1.0,25.0,Náchod,Královéhradecký kraj
-147079,2.0,10.0,Rychnov nad Kněžnou,Královéhradecký kraj
+147079,2.0,10.0,Rychnov n.Kněžnou,
 061441,2.0,246.0,Náchod,Královéhradecký kraj
 101371,2.0,246.0,Náchod,Královéhradecký kraj
 101354,2.0,3534.0,Náchod,Královéhradecký kraj
 083003,2.0,360.0,Trutnov,Královéhradecký kraj
-151416,2.0,136.0,Rychnov nad Kněžnou,Královéhradecký kraj
+151416,2.0,136.0,Rychnov n.Kněžnou,
 014672,2.0,105.0,Náchod,Královéhradecký kraj
-109266,2.0,471.0,Rychnov nad Kněžnou,Královéhradecký kraj
+109266,2.0,471.0,Rychnov n.Kněžnou,
 184071,1.0,374.0,Náchod,Královéhradecký kraj
-148661,1.0,114.0,Rychnov nad Kněžnou,Královéhradecký kraj
-148679,1.0,34.0,Rychnov nad Kněžnou,Královéhradecký kraj
+148661,1.0,114.0,Rychnov n.Kněžnou,
+148679,1.0,34.0,Rychnov n.Kněžnou,
 139416,1.0,600.0,Náchod,Královéhradecký kraj
 179272,1.0,50.0,Náchod,Královéhradecký kraj
 093629,1.0,15.0,Náchod,Královéhradecký kraj
-027197,1.0,548.0,Rychnov nad Kněžnou,Královéhradecký kraj
+027197,1.0,548.0,Rychnov n.Kněžnou,
 025631,1.0,373.0,Svitavy,Pardubický kraj
 045292,1.0,67.0,Náchod,Královéhradecký kraj
 093637,1.0,116.0,Náchod,Královéhradecký kraj
@@ -7256,46 +7256,46 @@ kod_cast,radon,populace,okres,kraj
 067709,1.0,263.0,Trutnov,Královéhradecký kraj
 183865,1.0,144.0,Trutnov,Královéhradecký kraj
 168611,1.0,91.0,Trutnov,Královéhradecký kraj
-149772,1.0,846.0,Rychnov nad Kněžnou,Královéhradecký kraj
+149772,1.0,846.0,Rychnov n.Kněžnou,
 031275,1.0,300.0,Trutnov,Královéhradecký kraj
-057819,1.0,971.0,Rychnov nad Kněžnou,Královéhradecký kraj
+057819,1.0,971.0,Rychnov n.Kněžnou,
 099791,1.0,785.0,Trutnov,Královéhradecký kraj
 101231,1.0,371.0,Náchod,Královéhradecký kraj
 101214,1.0,79.0,Náchod,Královéhradecký kraj
-147176,1.0,9.0,Rychnov nad Kněžnou,Královéhradecký kraj
+147176,1.0,9.0,Rychnov n.Kněžnou,
 003590,1.0,608.0,Náchod,Královéhradecký kraj
 125334,1.0,61.0,Náchod,Královéhradecký kraj
 159328,1.0,50.0,Náchod,Královéhradecký kraj
-070351,1.0,149.0,Rychnov nad Kněžnou,Královéhradecký kraj
-126497,1.0,143.0,Rychnov nad Kněžnou,Královéhradecký kraj
-083607,1.0,78.0,Rychnov nad Kněžnou,Královéhradecký kraj
-083933,1.0,52.0,Rychnov nad Kněžnou,Královéhradecký kraj
-083941,1.0,526.0,Rychnov nad Kněžnou,Královéhradecký kraj
-120138,1.0,218.0,Rychnov nad Kněžnou,Královéhradecký kraj
-051241,1.0,123.0,Rychnov nad Kněžnou,Královéhradecký kraj
+070351,1.0,149.0,Rychnov n.Kněžnou,
+126497,1.0,143.0,Rychnov n.Kněžnou,
+083607,1.0,78.0,Rychnov n.Kněžnou,
+083933,1.0,52.0,Rychnov n.Kněžnou,
+083941,1.0,526.0,Rychnov n.Kněžnou,
+120138,1.0,218.0,Rychnov n.Kněžnou,
+051241,1.0,123.0,Rychnov n.Kněžnou,
 004006,1.0,1133.0,Trutnov,Královéhradecký kraj
 106356,1.0,179.0,Trutnov,Královéhradecký kraj
-169668,1.0,159.0,Rychnov nad Kněžnou,Královéhradecký kraj
-076368,1.0,187.0,Rychnov nad Kněžnou,Královéhradecký kraj
-007838,1.0,130.0,Rychnov nad Kněžnou,Královéhradecký kraj
-020206,1.0,662.0,Rychnov nad Kněžnou,Královéhradecký kraj
-026581,1.0,548.0,Rychnov nad Kněžnou,Královéhradecký kraj
-169676,1.0,289.0,Rychnov nad Kněžnou,Královéhradecký kraj
+169668,1.0,159.0,Rychnov n.Kněžnou,
+076368,1.0,187.0,Rychnov n.Kněžnou,
+007838,1.0,130.0,Rychnov n.Kněžnou,
+020206,1.0,662.0,Rychnov n.Kněžnou,
+026581,1.0,548.0,Rychnov n.Kněžnou,
+169676,1.0,289.0,Rychnov n.Kněžnou,
 079146,1.0,37.0,Trutnov,Královéhradecký kraj
 079154,1.0,30.0,Trutnov,Královéhradecký kraj
 179833,1.0,254.0,Trutnov,Královéhradecký kraj
 169978,2.0,311.0,Trutnov,Královéhradecký kraj
 007854,2.0,342.0,Trutnov,Královéhradecký kraj
 059099,2.0,61.0,Náchod,Královéhradecký kraj
-083593,1.0,513.0,Rychnov nad Kněžnou,Královéhradecký kraj
-000744,1.0,316.0,Rychnov nad Kněžnou,Královéhradecký kraj
+083593,1.0,513.0,Rychnov n.Kněžnou,
+000744,1.0,316.0,Rychnov n.Kněžnou,
 021628,1.0,207.0,Náchod,Královéhradecký kraj
 179256,1.0,24.0,Náchod,Královéhradecký kraj
 031291,1.0,37.0,Trutnov,Královéhradecký kraj
-084743,1.0,110.0,Rychnov nad Kněžnou,Královéhradecký kraj
+084743,1.0,110.0,Rychnov n.Kněžnou,
 101206,1.0,32.0,Náchod,Královéhradecký kraj
 077038,1.0,57.0,Trutnov,Královéhradecký kraj
-082503,1.0,87.0,Rychnov nad Kněžnou,Královéhradecký kraj
+082503,1.0,87.0,Rychnov n.Kněžnou,
 158551,1.0,38.0,Náchod,Královéhradecký kraj
 001155,1.0,751.0,Trutnov,Královéhradecký kraj
 081043,1.0,14.0,Náchod,Královéhradecký kraj
@@ -7514,8 +7514,8 @@ kod_cast,radon,populace,okres,kraj
 196487,1.0,33.0,Jičín,Královéhradecký kraj
 028444,1.0,158.0,Náchod,Královéhradecký kraj
 055131,1.0,148.0,Náchod,Královéhradecký kraj
-056928,2.0,62.0,Rychnov nad Kněžnou,Královéhradecký kraj
-056936,2.0,36.0,Rychnov nad Kněžnou,Královéhradecký kraj
+056928,2.0,62.0,Rychnov n.Kněžnou,
+056936,2.0,36.0,Rychnov n.Kněžnou,
 092215,1.0,205.0,Hradec Králové,Královéhradecký kraj
 058521,1.0,21.0,Hradec Králové,Královéhradecký kraj
 190667,1.0,29.0,Náchod,Královéhradecký kraj
@@ -7530,9 +7530,9 @@ kod_cast,radon,populace,okres,kraj
 073695,2.0,79.0,Chrudim,Pardubický kraj
 041131,2.0,458.0,Chrudim,Pardubický kraj
 067555,1.0,43.0,Trutnov,Královéhradecký kraj
-082538,1.0,62.0,Rychnov nad Kněžnou,Královéhradecký kraj
+082538,1.0,62.0,Rychnov n.Kněžnou,
 133884,1.0,356.0,Náchod,Královéhradecký kraj
-142034,1.0,110.0,Rychnov nad Kněžnou,Královéhradecký kraj
+142034,1.0,110.0,Rychnov n.Kněžnou,
 017477,1.0,581.0,Jičín,Královéhradecký kraj
 051543,1.0,220.0,Hradec Králové,Královéhradecký kraj
 083925,1.0,160.0,Hradec Králové,Královéhradecký kraj
@@ -7541,27 +7541,27 @@ kod_cast,radon,populace,okres,kraj
 150029,1.0,257.0,Náchod,Královéhradecký kraj
 162922,1.0,591.0,Náchod,Královéhradecký kraj
 103209,1.0,417.0,Trutnov,Královéhradecký kraj
-081540,1.0,136.0,Rychnov nad Kněžnou,Královéhradecký kraj
-141054,1.0,1853.0,Rychnov nad Kněžnou,Královéhradecký kraj
+081540,1.0,136.0,Rychnov n.Kněžnou,
+141054,1.0,1853.0,Rychnov n.Kněžnou,
 042595,1.0,428.0,Trutnov,Královéhradecký kraj
 077011,1.0,187.0,Trutnov,Královéhradecký kraj
-161799,1.0,49.0,Rychnov nad Kněžnou,Královéhradecký kraj
+161799,1.0,49.0,Rychnov n.Kněžnou,
 059081,1.0,132.0,Náchod,Královéhradecký kraj
 079138,1.0,46.0,Trutnov,Královéhradecký kraj
 133906,1.0,76.0,Náchod,Královéhradecký kraj
 099813,1.0,211.0,Trutnov,Královéhradecký kraj
 099821,1.0,82.0,Trutnov,Královéhradecký kraj
-161802,1.0,155.0,Rychnov nad Kněžnou,Královéhradecký kraj
-057827,1.0,32.0,Rychnov nad Kněžnou,Královéhradecký kraj
+161802,1.0,155.0,Rychnov n.Kněžnou,
+057827,1.0,32.0,Rychnov n.Kněžnou,
 031283,1.0,28.0,Trutnov,Královéhradecký kraj
 103225,1.0,81.0,Trutnov,Královéhradecký kraj
 004138,1.0,162.0,Trutnov,Královéhradecký kraj
 150398,2.0,58.0,Náchod,Královéhradecký kraj
-082546,2.0,42.0,Rychnov nad Kněžnou,Královéhradecký kraj
+082546,2.0,42.0,Rychnov n.Kněžnou,
 150401,2.0,244.0,Náchod,Královéhradecký kraj
 135712,2.0,185.0,Náchod,Královéhradecký kraj
 042757,2.0,95.0,Trutnov,Královéhradecký kraj
-082520,2.0,193.0,Rychnov nad Kněžnou,Královéhradecký kraj
+082520,2.0,193.0,Rychnov n.Kněžnou,
 152447,1.0,864.0,Ústí nad Orlicí,Pardubický kraj
 112127,1.0,17.0,Ústí nad Orlicí,Pardubický kraj
 040011,2.0,786.0,Ústí nad Orlicí,Pardubický kraj
@@ -7606,7 +7606,7 @@ kod_cast,radon,populace,okres,kraj
 067644,1.0,222.0,Chrudim,Pardubický kraj
 071463,1.0,76.0,Chrudim,Pardubický kraj
 054267,1.0,692.0,Chrudim,Pardubický kraj
-110469,2.0,392.0,Rychnov nad Kněžnou,Královéhradecký kraj
+110469,2.0,392.0,Rychnov n.Kněžnou,
 083143,1.0,123.0,Chrudim,Pardubický kraj
 093106,1.0,43.0,Chrudim,Pardubický kraj
 411248,1.0,13475.0,Trutnov,Královéhradecký kraj
@@ -7773,50 +7773,50 @@ kod_cast,radon,populace,okres,kraj
 070921,2.0,43.0,Semily,Liberecký kraj
 057428,1.0,2443.0,Náchod,Královéhradecký kraj
 055123,1.0,22.0,Náchod,Královéhradecký kraj
-111953,1.0,2822.0,Rychnov nad Kněžnou,Královéhradecký kraj
-118818,1.0,447.0,Rychnov nad Kněžnou,Královéhradecký kraj
-020214,1.0,145.0,Rychnov nad Kněžnou,Královéhradecký kraj
+111953,1.0,2822.0,Rychnov n.Kněžnou,
+118818,1.0,447.0,Rychnov n.Kněžnou,
+020214,1.0,145.0,Rychnov n.Kněžnou,
 183873,1.0,214.0,Trutnov,Královéhradecký kraj
-321656,1.0,181.0,Rychnov nad Kněžnou,Královéhradecký kraj
-111945,1.0,42.0,Rychnov nad Kněžnou,Královéhradecký kraj
-176168,1.0,220.0,Rychnov nad Kněžnou,Královéhradecký kraj
+321656,1.0,181.0,Rychnov n.Kněžnou,
+111945,1.0,42.0,Rychnov n.Kněžnou,
+176168,1.0,220.0,Rychnov n.Kněžnou,
 013439,1.0,167.0,Náchod,Královéhradecký kraj
 154814,1.0,75.0,Náchod,Královéhradecký kraj
-108898,1.0,38.0,Rychnov nad Kněžnou,Královéhradecký kraj
-108901,1.0,179.0,Rychnov nad Kněžnou,Královéhradecký kraj
+108898,1.0,38.0,Rychnov n.Kněžnou,
+108901,1.0,179.0,Rychnov n.Kněžnou,
 125342,1.0,2244.0,Náchod,Královéhradecký kraj
 012939,1.0,98.0,Ústí nad Orlicí,Pardubický kraj
 089842,1.0,492.0,Náchod,Královéhradecký kraj
-147087,1.0,212.0,Rychnov nad Kněžnou,Královéhradecký kraj
-123374,1.0,50.0,Rychnov nad Kněžnou,Královéhradecký kraj
+147087,1.0,212.0,Rychnov n.Kněžnou,
+123374,1.0,50.0,Rychnov n.Kněžnou,
 162396,1.0,38.0,Náchod,Královéhradecký kraj
 162400,1.0,140.0,Náchod,Královéhradecký kraj
-022691,1.0,279.0,Rychnov nad Kněžnou,Královéhradecký kraj
-410756,1.0,176.0,Rychnov nad Kněžnou,Královéhradecký kraj
+022691,1.0,279.0,Rychnov n.Kněžnou,
+410756,1.0,176.0,Rychnov n.Kněžnou,
 055166,1.0,37.0,Náchod,Královéhradecký kraj
 179264,1.0,321.0,Náchod,Královéhradecký kraj
 045284,1.0,386.0,Náchod,Královéhradecký kraj
-109274,1.0,45.0,Rychnov nad Kněžnou,Královéhradecký kraj
+109274,1.0,45.0,Rychnov n.Kněžnou,
 178446,1.0,44.0,Náchod,Královéhradecký kraj
 189651,1.0,40.0,Ústí nad Orlicí,Pardubický kraj
-016641,1.0,258.0,Rychnov nad Kněžnou,Královéhradecký kraj
-030741,1.0,222.0,Rychnov nad Kněžnou,Královéhradecký kraj
+016641,1.0,258.0,Rychnov n.Kněžnou,
+030741,1.0,222.0,Rychnov n.Kněžnou,
 050130,1.0,131.0,Náchod,Královéhradecký kraj
-176150,1.0,80.0,Rychnov nad Kněžnou,Královéhradecký kraj
+176150,1.0,80.0,Rychnov n.Kněžnou,
 168912,1.0,752.0,Náchod,Královéhradecký kraj
 057673,1.0,736.0,Náchod,Královéhradecký kraj
 093611,1.0,60.0,Náchod,Královéhradecký kraj
 166332,1.0,110.0,Náchod,Královéhradecký kraj
-098213,1.0,172.0,Rychnov nad Kněžnou,Královéhradecký kraj
-321648,2.0,75.0,Rychnov nad Kněžnou,Královéhradecký kraj
+098213,1.0,172.0,Rychnov n.Kněžnou,
+321648,2.0,75.0,Rychnov n.Kněžnou,
 101346,2.0,257.0,Náchod,Královéhradecký kraj
 013463,2.0,4.0,Náchod,Královéhradecký kraj
 084034,2.0,402.0,Náchod,Královéhradecký kraj
 046132,2.0,26.0,Chrudim,Pardubický kraj
-006190,2.0,171.0,Rychnov nad Kněžnou,Královéhradecký kraj
-027243,2.0,36.0,Rychnov nad Kněžnou,Královéhradecký kraj
+006190,2.0,171.0,Rychnov n.Kněžnou,
+027243,2.0,36.0,Rychnov n.Kněžnou,
 091961,2.0,171.0,Trutnov,Královéhradecký kraj
-006203,2.0,22.0,Rychnov nad Kněžnou,Královéhradecký kraj
+006203,2.0,22.0,Rychnov n.Kněžnou,
 003239,1.0,407.0,Ústí nad Orlicí,Pardubický kraj
 410586,1.0,1471.0,Pardubice,Pardubický kraj
 020001,1.0,47.0,Pardubice,Pardubický kraj
@@ -7864,7 +7864,7 @@ kod_cast,radon,populace,okres,kraj
 137642,1.0,96.0,Ústí nad Orlicí,Pardubický kraj
 190951,1.0,434.0,Ústí nad Orlicí,Pardubický kraj
 077488,1.0,14.0,Ústí nad Orlicí,Pardubický kraj
-112836,1.0,15.0,Rychnov nad Kněžnou,Královéhradecký kraj
+112836,1.0,15.0,Rychnov n.Kněžnou,
 077470,1.0,70.0,Ústí nad Orlicí,Pardubický kraj
 137651,1.0,61.0,Ústí nad Orlicí,Pardubický kraj
 038211,1.0,14.0,Ústí nad Orlicí,Pardubický kraj
@@ -7924,11 +7924,11 @@ kod_cast,radon,populace,okres,kraj
 057410,1.0,624.0,Náchod,Královéhradecký kraj
 021261,2.0,465.0,Náchod,Královéhradecký kraj
 133892,1.0,29.0,Náchod,Královéhradecký kraj
-057801,1.0,63.0,Rychnov nad Kněžnou,Královéhradecký kraj
+057801,1.0,63.0,Rychnov n.Kněžnou,
 112135,1.0,27.0,Ústí nad Orlicí,Pardubický kraj
 079031,1.0,128.0,Ústí nad Orlicí,Pardubický kraj
 028754,1.0,389.0,Trutnov,Královéhradecký kraj
-071188,2.0,24.0,Rychnov nad Kněžnou,Královéhradecký kraj
+071188,2.0,24.0,Rychnov n.Kněžnou,
 133094,1.0,216.0,Hradec Králové,Královéhradecký kraj
 137855,1.0,1113.0,Svitavy,Pardubický kraj
 134309,1.0,21.0,Svitavy,Pardubický kraj
@@ -7954,7 +7954,7 @@ kod_cast,radon,populace,okres,kraj
 176125,2.0,78.0,Tábor,Jihočeský kraj
 197912,2.0,21.0,Klatovy,Plzeňský kraj
 139408,1.0,72.0,Náchod,Královéhradecký kraj
-027596,1.0,67.0,Rychnov nad Kněžnou,Královéhradecký kraj
+027596,1.0,67.0,Rychnov n.Kněžnou,
 321311,1.0,472.0,Pardubice,Pardubický kraj
 033120,1.0,588.0,Pardubice,Pardubický kraj
 077461,1.0,8.0,Ústí nad Orlicí,Pardubický kraj
@@ -8255,22 +8255,22 @@ kod_cast,radon,populace,okres,kraj
 181421,2.0,134.0,Jihlava,Kraj Vysočina
 019801,2.0,240.0,Žďár nad Sázavou,Kraj Vysočina
 134261,2.0,614.0,Třebíč,Kraj Vysočina
-171964,1.0,285.0,Rychnov nad Kněžnou,Královéhradecký kraj
-118877,1.0,364.0,Rychnov nad Kněžnou,Královéhradecký kraj
-190918,1.0,584.0,Rychnov nad Kněžnou,Královéhradecký kraj
-007820,1.0,11.0,Rychnov nad Kněžnou,Královéhradecký kraj
-007811,1.0,142.0,Rychnov nad Kněžnou,Královéhradecký kraj
+171964,1.0,285.0,Rychnov n.Kněžnou,
+118877,1.0,364.0,Rychnov n.Kněžnou,
+190918,1.0,584.0,Rychnov n.Kněžnou,
+007820,1.0,11.0,Rychnov n.Kněžnou,
+007811,1.0,142.0,Rychnov n.Kněžnou,
 025763,1.0,154.0,Blansko,Jihomoravský kraj
 134091,2.0,59.0,Pelhřimov,Kraj Vysočina
 175579,2.0,55.0,Pelhřimov,Kraj Vysočina
 175595,2.0,65.0,Pelhřimov,Kraj Vysočina
-081558,3.0,49.0,Rychnov nad Kněžnou,Královéhradecký kraj
-161811,1.0,216.0,Rychnov nad Kněžnou,Královéhradecký kraj
-007846,1.0,114.0,Rychnov nad Kněžnou,Královéhradecký kraj
-051233,1.0,42.0,Rychnov nad Kněžnou,Královéhradecký kraj
-410721,1.0,343.0,Rychnov nad Kněžnou,Královéhradecký kraj
-176788,1.0,3825.0,Rychnov nad Kněžnou,Královéhradecký kraj
-101770,2.0,73.0,Rychnov nad Kněžnou,Královéhradecký kraj
+081558,3.0,49.0,Rychnov n.Kněžnou,
+161811,1.0,216.0,Rychnov n.Kněžnou,
+007846,1.0,114.0,Rychnov n.Kněžnou,
+051233,1.0,42.0,Rychnov n.Kněžnou,
+410721,1.0,343.0,Rychnov n.Kněžnou,
+176788,1.0,3825.0,Rychnov n.Kněžnou,
+101770,2.0,73.0,Rychnov n.Kněžnou,
 029556,1.0,978.0,Ústí nad Orlicí,Pardubický kraj
 411485,1.0,1.0,Ústí nad Orlicí,Pardubický kraj
 175340,1.0,888.0,Ústí nad Orlicí,Pardubický kraj
@@ -8281,9 +8281,9 @@ kod_cast,radon,populace,okres,kraj
 058181,1.0,103.0,Ústí nad Orlicí,Pardubický kraj
 184233,1.0,206.0,Ústí nad Orlicí,Pardubický kraj
 066834,1.0,326.0,Ústí nad Orlicí,Pardubický kraj
-142042,1.0,310.0,Rychnov nad Kněžnou,Královéhradecký kraj
-093203,1.0,291.0,Rychnov nad Kněžnou,Královéhradecký kraj
-126501,1.0,831.0,Rychnov nad Kněžnou,Královéhradecký kraj
+142042,1.0,310.0,Rychnov n.Kněžnou,
+093203,1.0,291.0,Rychnov n.Kněžnou,
+126501,1.0,831.0,Rychnov n.Kněžnou,
 066818,1.0,52.0,Ústí nad Orlicí,Pardubický kraj
 066826,1.0,48.0,Ústí nad Orlicí,Pardubický kraj
 175331,1.0,3017.0,Ústí nad Orlicí,Pardubický kraj
@@ -8602,18 +8602,18 @@ kod_cast,radon,populace,okres,kraj
 145441,1.0,824.0,Brno-venkov,Jihomoravský kraj
 099066,1.0,552.0,Vyškov,Jihomoravský kraj
 027871,1.0,77.0,Ústí nad Orlicí,Pardubický kraj
-027553,1.0,84.0,Rychnov nad Kněžnou,Královéhradecký kraj
-410705,1.0,5222.0,Rychnov nad Kněžnou,Královéhradecký kraj
-134708,1.0,667.0,Rychnov nad Kněžnou,Královéhradecký kraj
-168335,1.0,272.0,Rychnov nad Kněžnou,Královéhradecký kraj
-027570,1.0,66.0,Rychnov nad Kněžnou,Královéhradecký kraj
+027553,1.0,84.0,Rychnov n.Kněžnou,
+410705,1.0,5222.0,Rychnov n.Kněžnou,
+134708,1.0,667.0,Rychnov n.Kněžnou,
+168335,1.0,272.0,Rychnov n.Kněžnou,
+027570,1.0,66.0,Rychnov n.Kněžnou,
 032522,1.0,1796.0,Břeclav,Jihomoravský kraj
 034151,1.0,377.0,Znojmo,Jihomoravský kraj
 196428,1.0,924.0,Hodonín,Jihomoravský kraj
 151254,1.0,141.0,Hradec Králové,Královéhradecký kraj
 107841,1.0,337.0,Náchod,Královéhradecký kraj
 072494,1.0,41.0,Hradec Králové,Královéhradecký kraj
-072613,1.0,260.0,Rychnov nad Kněžnou,Královéhradecký kraj
+072613,1.0,260.0,Rychnov n.Kněžnou,
 150673,1.0,491.0,Hradec Králové,Královéhradecký kraj
 188085,1.0,1794.0,Hradec Králové,Královéhradecký kraj
 126543,1.0,186.0,Hradec Králové,Královéhradecký kraj
@@ -8647,7 +8647,7 @@ kod_cast,radon,populace,okres,kraj
 019658,1.0,56.0,Pardubice,Pardubický kraj
 154172,1.0,1164.0,Pardubice,Pardubický kraj
 086401,1.0,276.0,Pardubice,Pardubický kraj
-000752,1.0,52.0,Rychnov nad Kněžnou,Královéhradecký kraj
+000752,1.0,52.0,Rychnov n.Kněžnou,
 490334,1.0,11779.0,Pardubice,Pardubický kraj
 410454,1.0,130.0,Pardubice,Pardubický kraj
 079090,1.0,827.0,Pardubice,Pardubický kraj
@@ -8684,17 +8684,17 @@ kod_cast,radon,populace,okres,kraj
 171573,2.0,47.0,Pardubice,Pardubický kraj
 084336,2.0,344.0,Pardubice,Pardubický kraj
 171581,2.0,31.0,Pardubice,Pardubický kraj
-027634,2.0,128.0,Rychnov nad Kněžnou,Královéhradecký kraj
-071161,2.0,26.0,Rychnov nad Kněžnou,Královéhradecký kraj
-410691,2.0,25.0,Rychnov nad Kněžnou,Královéhradecký kraj
-071196,2.0,19.0,Rychnov nad Kněžnou,Královéhradecký kraj
+027634,2.0,128.0,Rychnov n.Kněžnou,
+071161,2.0,26.0,Rychnov n.Kněžnou,
+410691,2.0,25.0,Rychnov n.Kněžnou,
+071196,2.0,19.0,Rychnov n.Kněžnou,
 102482,1.0,357.0,Hradec Králové,Královéhradecký kraj
 132861,1.0,263.0,Hradec Králové,Královéhradecký kraj
-027537,1.0,388.0,Rychnov nad Kněžnou,Královéhradecký kraj
+027537,1.0,388.0,Rychnov n.Kněžnou,
 009873,1.0,40.0,Pardubice,Pardubický kraj
 055689,1.0,207.0,Pardubice,Pardubický kraj
 030082,1.0,879.0,Pardubice,Pardubický kraj
-027219,1.0,12.0,Rychnov nad Kněžnou,Královéhradecký kraj
+027219,1.0,12.0,Rychnov n.Kněžnou,
 006092,2.0,194.0,Žďár nad Sázavou,Kraj Vysočina
 051608,2.0,34.0,Žďár nad Sázavou,Kraj Vysočina
 116611,2.0,52.0,Třebíč,Kraj Vysočina
@@ -8710,7 +8710,7 @@ kod_cast,radon,populace,okres,kraj
 173525,2.0,11.0,Žďár nad Sázavou,Kraj Vysočina
 069604,2.0,51.0,Žďár nad Sázavou,Kraj Vysočina
 106836,1.0,1295.0,Žďár nad Sázavou,Kraj Vysočina
-071170,1.0,74.0,Rychnov nad Kněžnou,Královéhradecký kraj
+071170,1.0,74.0,Rychnov n.Kněžnou,
 083054,1.0,28.0,Hradec Králové,Královéhradecký kraj
 083071,1.0,113.0,Hradec Králové,Královéhradecký kraj
 193402,2.0,206.0,Žďár nad Sázavou,Kraj Vysočina
@@ -8742,34 +8742,34 @@ kod_cast,radon,populace,okres,kraj
 159280,1.0,472.0,Hodonín,Jihomoravský kraj
 186635,1.0,137.0,Náchod,Královéhradecký kraj
 006467,1.0,984.0,Náchod,Královéhradecký kraj
-007048,1.0,381.0,Rychnov nad Kněžnou,Královéhradecký kraj
-059471,1.0,38.0,Rychnov nad Kněžnou,Královéhradecký kraj
-105627,1.0,87.0,Rychnov nad Kněžnou,Královéhradecký kraj
+007048,1.0,381.0,Rychnov n.Kněžnou,
+059471,1.0,38.0,Rychnov n.Kněžnou,
+105627,1.0,87.0,Rychnov n.Kněžnou,
 020061,1.0,445.0,Náchod,Královéhradecký kraj
-017264,1.0,220.0,Rychnov nad Kněžnou,Královéhradecký kraj
-007056,1.0,96.0,Rychnov nad Kněžnou,Královéhradecký kraj
+017264,1.0,220.0,Rychnov n.Kněžnou,
+007056,1.0,96.0,Rychnov n.Kněžnou,
 102903,1.0,800.0,Vyškov,Jihomoravský kraj
 184195,1.0,783.0,Hodonín,Jihomoravský kraj
 008591,1.0,1239.0,Vyškov,Jihomoravský kraj
-000205,1.0,256.0,Rychnov nad Kněžnou,Královéhradecký kraj
-195227,1.0,451.0,Rychnov nad Kněžnou,Královéhradecký kraj
-195219,1.0,33.0,Rychnov nad Kněžnou,Královéhradecký kraj
-018627,1.0,1671.0,Rychnov nad Kněžnou,Královéhradecký kraj
-000191,1.0,221.0,Rychnov nad Kněžnou,Královéhradecký kraj
-410748,2.0,183.0,Rychnov nad Kněžnou,Královéhradecký kraj
-078191,1.0,1653.0,Rychnov nad Kněžnou,Královéhradecký kraj
-084735,1.0,89.0,Rychnov nad Kněžnou,Královéhradecký kraj
-088854,2.0,613.0,Rychnov nad Kněžnou,Královéhradecký kraj
-123391,1.0,354.0,Rychnov nad Kněžnou,Královéhradecký kraj
-027201,1.0,106.0,Rychnov nad Kněžnou,Královéhradecký kraj
-168351,1.0,242.0,Rychnov nad Kněžnou,Královéhradecký kraj
-168360,1.0,57.0,Rychnov nad Kněžnou,Královéhradecký kraj
-147184,1.0,388.0,Rychnov nad Kněžnou,Královéhradecký kraj
-168378,1.0,165.0,Rychnov nad Kněžnou,Královéhradecký kraj
+000205,1.0,256.0,Rychnov n.Kněžnou,
+195227,1.0,451.0,Rychnov n.Kněžnou,
+195219,1.0,33.0,Rychnov n.Kněžnou,
+018627,1.0,1671.0,Rychnov n.Kněžnou,
+000191,1.0,221.0,Rychnov n.Kněžnou,
+410748,2.0,183.0,Rychnov n.Kněžnou,
+078191,1.0,1653.0,Rychnov n.Kněžnou,
+084735,1.0,89.0,Rychnov n.Kněžnou,
+088854,2.0,613.0,Rychnov n.Kněžnou,
+123391,1.0,354.0,Rychnov n.Kněžnou,
+027201,1.0,106.0,Rychnov n.Kněžnou,
+168351,1.0,242.0,Rychnov n.Kněžnou,
+168360,1.0,57.0,Rychnov n.Kněžnou,
+147184,1.0,388.0,Rychnov n.Kněžnou,
+168378,1.0,165.0,Rychnov n.Kněžnou,
 190748,1.0,167.0,Ústí nad Orlicí,Pardubický kraj
-000981,2.0,193.0,Rychnov nad Kněžnou,Královéhradecký kraj
-410730,2.0,143.0,Rychnov nad Kněžnou,Královéhradecký kraj
-000175,1.0,1044.0,Rychnov nad Kněžnou,Královéhradecký kraj
+000981,2.0,193.0,Rychnov n.Kněžnou,
+410730,2.0,143.0,Rychnov n.Kněžnou,
+000175,1.0,1044.0,Rychnov n.Kněžnou,
 040258,1.0,369.0,Pardubice,Pardubický kraj
 001945,1.0,261.0,Pardubice,Pardubický kraj
 054780,1.0,270.0,Hradec Králové,Královéhradecký kraj
@@ -8936,7 +8936,7 @@ kod_cast,radon,populace,okres,kraj
 178373,2.0,104.0,Pelhřimov,Kraj Vysočina
 175609,2.0,24.0,Pelhřimov,Kraj Vysočina
 030546,1.0,318.0,Třebíč,Kraj Vysočina
-051225,1.0,99.0,Rychnov nad Kněžnou,Královéhradecký kraj
+051225,1.0,99.0,Rychnov n.Kněžnou,
 020613,1.0,295.0,Ústí nad Orlicí,Pardubický kraj
 161233,2.0,43.0,Jihlava,Kraj Vysočina
 138037,2.0,137.0,Třebíč,Kraj Vysočina
@@ -8956,7 +8956,7 @@ kod_cast,radon,populace,okres,kraj
 092240,2.0,509.0,Znojmo,Jihomoravský kraj
 154881,1.0,876.0,Břeclav,Jihomoravský kraj
 123838,1.0,2887.0,Břeclav,Jihomoravský kraj
-410683,1.0,564.0,Rychnov nad Kněžnou,Královéhradecký kraj
+410683,1.0,564.0,Rychnov n.Kněžnou,
 154369,1.0,1173.0,Pardubice,Pardubický kraj
 079081,1.0,249.0,Pardubice,Pardubický kraj
 169013,1.0,15.0,Pardubice,Pardubický kraj
@@ -8964,7 +8964,7 @@ kod_cast,radon,populace,okres,kraj
 412881,1.0,5.0,Žďár nad Sázavou,Kraj Vysočina
 181048,2.0,35.0,Žďár nad Sázavou,Kraj Vysočina
 184209,1.0,2036.0,Hodonín,Jihomoravský kraj
-410675,1.0,120.0,Rychnov nad Kněžnou,Královéhradecký kraj
+410675,1.0,120.0,Rychnov n.Kněžnou,
 043869,1.0,117.0,Hradec Králové,Královéhradecký kraj
 056812,1.0,94.0,Pardubice,Pardubický kraj
 152030,2.0,226.0,Ústí nad Orlicí,Pardubický kraj
@@ -9235,44 +9235,44 @@ kod_cast,radon,populace,okres,kraj
 088986,1.0,376.0,Třebíč,Kraj Vysočina
 029441,1.0,190.0,Třebíč,Kraj Vysočina
 106771,2.0,120.0,Třebíč,Kraj Vysočina
-004723,1.0,259.0,Rychnov nad Kněžnou,Královéhradecký kraj
-152412,1.0,270.0,Rychnov nad Kněžnou,Královéhradecký kraj
-112810,1.0,152.0,Rychnov nad Kněžnou,Královéhradecký kraj
-112828,1.0,58.0,Rychnov nad Kněžnou,Královéhradecký kraj
-112801,2.0,69.0,Rychnov nad Kněžnou,Královéhradecký kraj
-184217,1.0,156.0,Rychnov nad Kněžnou,Královéhradecký kraj
-105635,1.0,77.0,Rychnov nad Kněžnou,Královéhradecký kraj
-184225,1.0,305.0,Rychnov nad Kněžnou,Královéhradecký kraj
-192643,2.0,156.0,Rychnov nad Kněžnou,Královéhradecký kraj
-084727,1.0,357.0,Rychnov nad Kněžnou,Královéhradecký kraj
-144193,1.0,126.0,Rychnov nad Kněžnou,Královéhradecký kraj
-152421,1.0,1918.0,Rychnov nad Kněžnou,Královéhradecký kraj
-187542,1.0,43.0,Rychnov nad Kněžnou,Královéhradecký kraj
-082511,2.0,159.0,Rychnov nad Kněžnou,Královéhradecký kraj
-018651,1.0,74.0,Rychnov nad Kněžnou,Královéhradecký kraj
-110370,1.0,89.0,Rychnov nad Kněžnou,Královéhradecký kraj
-004715,1.0,305.0,Rychnov nad Kněžnou,Královéhradecký kraj
-004740,1.0,68.0,Rychnov nad Kněžnou,Královéhradecký kraj
-004731,1.0,58.0,Rychnov nad Kněžnou,Královéhradecký kraj
-019798,1.0,294.0,Rychnov nad Kněžnou,Královéhradecký kraj
-018635,1.0,84.0,Rychnov nad Kněžnou,Královéhradecký kraj
-195201,1.0,25.0,Rychnov nad Kněžnou,Královéhradecký kraj
-007625,1.0,81.0,Rychnov nad Kněžnou,Královéhradecký kraj
-110388,1.0,381.0,Rychnov nad Kněžnou,Královéhradecký kraj
-026590,1.0,8.0,Rychnov nad Kněžnou,Královéhradecký kraj
-171956,1.0,63.0,Rychnov nad Kněžnou,Královéhradecký kraj
-089095,1.0,273.0,Rychnov nad Kněžnou,Královéhradecký kraj
-023345,1.0,16.0,Rychnov nad Kněžnou,Královéhradecký kraj
-192261,1.0,255.0,Rychnov nad Kněžnou,Královéhradecký kraj
-007617,1.0,1944.0,Rychnov nad Kněžnou,Královéhradecký kraj
-019771,1.0,24.0,Rychnov nad Kněžnou,Královéhradecký kraj
-019780,1.0,608.0,Rychnov nad Kněžnou,Královéhradecký kraj
-143871,1.0,414.0,Rychnov nad Kněžnou,Královéhradecký kraj
-051250,1.0,124.0,Rychnov nad Kněžnou,Královéhradecký kraj
-051209,1.0,195.0,Rychnov nad Kněžnou,Královéhradecký kraj
-023353,1.0,542.0,Rychnov nad Kněžnou,Královéhradecký kraj
-410781,1.0,200.0,Rychnov nad Kněžnou,Královéhradecký kraj
-023531,1.0,102.0,Rychnov nad Kněžnou,Královéhradecký kraj
+004723,1.0,259.0,Rychnov n.Kněžnou,
+152412,1.0,270.0,Rychnov n.Kněžnou,
+112810,1.0,152.0,Rychnov n.Kněžnou,
+112828,1.0,58.0,Rychnov n.Kněžnou,
+112801,2.0,69.0,Rychnov n.Kněžnou,
+184217,1.0,156.0,Rychnov n.Kněžnou,
+105635,1.0,77.0,Rychnov n.Kněžnou,
+184225,1.0,305.0,Rychnov n.Kněžnou,
+192643,2.0,156.0,Rychnov n.Kněžnou,
+084727,1.0,357.0,Rychnov n.Kněžnou,
+144193,1.0,126.0,Rychnov n.Kněžnou,
+152421,1.0,1918.0,Rychnov n.Kněžnou,
+187542,1.0,43.0,Rychnov n.Kněžnou,
+082511,2.0,159.0,Rychnov n.Kněžnou,
+018651,1.0,74.0,Rychnov n.Kněžnou,
+110370,1.0,89.0,Rychnov n.Kněžnou,
+004715,1.0,305.0,Rychnov n.Kněžnou,
+004740,1.0,68.0,Rychnov n.Kněžnou,
+004731,1.0,58.0,Rychnov n.Kněžnou,
+019798,1.0,294.0,Rychnov n.Kněžnou,
+018635,1.0,84.0,Rychnov n.Kněžnou,
+195201,1.0,25.0,Rychnov n.Kněžnou,
+007625,1.0,81.0,Rychnov n.Kněžnou,
+110388,1.0,381.0,Rychnov n.Kněžnou,
+026590,1.0,8.0,Rychnov n.Kněžnou,
+171956,1.0,63.0,Rychnov n.Kněžnou,
+089095,1.0,273.0,Rychnov n.Kněžnou,
+023345,1.0,16.0,Rychnov n.Kněžnou,
+192261,1.0,255.0,Rychnov n.Kněžnou,
+007617,1.0,1944.0,Rychnov n.Kněžnou,
+019771,1.0,24.0,Rychnov n.Kněžnou,
+019780,1.0,608.0,Rychnov n.Kněžnou,
+143871,1.0,414.0,Rychnov n.Kněžnou,
+051250,1.0,124.0,Rychnov n.Kněžnou,
+051209,1.0,195.0,Rychnov n.Kněžnou,
+023353,1.0,542.0,Rychnov n.Kněžnou,
+410781,1.0,200.0,Rychnov n.Kněžnou,
+023531,1.0,102.0,Rychnov n.Kněžnou,
 133434,2.0,54.0,Havlíčkův Brod,Kraj Vysočina
 133442,2.0,49.0,Havlíčkův Brod,Kraj Vysočina
 032662,2.0,171.0,Havlíčkův Brod,Kraj Vysočina
@@ -9687,10 +9687,10 @@ kod_cast,radon,populace,okres,kraj
 076121,2.0,7.0,Pelhřimov,Kraj Vysočina
 092142,2.0,34.0,Pelhřimov,Kraj Vysočina
 096768,2.0,156.0,Pelhřimov,Kraj Vysočina
-410667,1.0,9040.0,Rychnov nad Kněžnou,Královéhradecký kraj
-139556,1.0,152.0,Rychnov nad Kněžnou,Královéhradecký kraj
-172421,1.0,4918.0,Rychnov nad Kněžnou,Královéhradecký kraj
-051217,1.0,30.0,Rychnov nad Kněžnou,Královéhradecký kraj
+410667,1.0,9040.0,Rychnov n.Kněžnou,
+139556,1.0,152.0,Rychnov n.Kněžnou,
+172421,1.0,4918.0,Rychnov n.Kněžnou,
+051217,1.0,30.0,Rychnov n.Kněžnou,
 146277,2.0,109.0,Havlíčkův Brod,Kraj Vysočina
 160491,2.0,125.0,Havlíčkův Brod,Kraj Vysočina
 064904,2.0,190.0,Třebíč,Kraj Vysočina
@@ -9705,7 +9705,7 @@ kod_cast,radon,populace,okres,kraj
 016578,1.0,54.0,Chrudim,Pardubický kraj
 155063,1.0,318.0,Pardubice,Pardubický kraj
 097098,3.0,35.0,Chrudim,Pardubický kraj
-083615,1.0,43.0,Rychnov nad Kněžnou,Královéhradecký kraj
+083615,1.0,43.0,Rychnov n.Kněžnou,
 046141,2.0,117.0,Chrudim,Pardubický kraj
 190365,1.0,1006.0,Chrudim,Pardubický kraj
 006424,1.0,111.0,Svitavy,Pardubický kraj
@@ -10778,7 +10778,7 @@ kod_cast,radon,populace,okres,kraj
 182541,3.0,662.0,Příbram,Středočeský kraj
 403628,2.0,4.0,Příbram,Středočeský kraj
 184802,3.0,205.0,Příbram,Středočeský kraj
-490253,2.0,35228.0,Praha,
+490253,2.0,35228.0,Hlavní město Praha,Hlavní město Praha
 184829,1.0,112.0,Příbram,Středočeský kraj
 184811,3.0,32.0,Příbram,Středočeský kraj
 403636,1.0,102.0,Příbram,Středočeský kraj
@@ -11203,11 +11203,11 @@ kod_cast,radon,populace,okres,kraj
 174351,2.0,98.0,Domažlice,Plzeňský kraj
 180181,2.0,155.0,Cheb,Karlovarský kraj
 069256,2.0,123.0,Cheb,Karlovarský kraj
-490091,2.0,7556.0,Praha,
+490091,2.0,7556.0,Hlavní město Praha,Hlavní město Praha
 034550,2.0,108.0,Domažlice,Plzeňský kraj
 405507,2.0,11181.0,Cheb,Karlovarský kraj
 180165,2.0,58.0,Cheb,Karlovarský kraj
-400297,2.0,1952.0,Praha,
+400297,2.0,1952.0,Hlavní město Praha,Hlavní město Praha
 098272,2.0,527.0,Cheb,Karlovarský kraj
 098281,2.0,27.0,Cheb,Karlovarský kraj
 098299,2.0,32.0,Cheb,Karlovarský kraj
@@ -11223,45 +11223,45 @@ kod_cast,radon,populace,okres,kraj
 121622,3.0,1755.0,Cheb,Karlovarský kraj
 121657,2.0,8.0,Cheb,Karlovarský kraj
 180173,2.0,71.0,Cheb,Karlovarský kraj
-400777,1.0,7216.0,Praha,
-490211,1.0,651.0,Praha,
-400432,2.0,6614.0,Praha,
-400335,2.0,3973.0,Praha,
-400289,2.0,23461.0,Praha,
-490211,2.0,651.0,Praha,
-400408,2.0,4980.0,Praha,
-490172,2.0,60758.0,Praha,
-490270,2.0,4729.0,Praha,
-193259,2.0,677.0,Praha,
-490091,3.0,7556.0,Praha,
-400394,1.0,8188.0,Praha,
-490211,1.0,651.0,Praha,
-146137,1.0,2388.0,Praha,
-400351,1.0,7579.0,Praha,
-134376,1.0,628.0,Praha,
-182371,1.0,4528.0,Praha,
-400441,2.0,11083.0,Praha,
-131555,1.0,1786.0,Praha,
-400513,1.0,2734.0,Praha,
-490172,2.0,60758.0,Praha,
-400319,2.0,16145.0,Praha,
-173428,1.0,10992.0,Praha,
-072621,1.0,438.0,Praha,
-400424,1.0,6592.0,Praha,
-490199,1.0,15705.0,Praha,
-400670,1.0,3750.0,Praha,
-400661,1.0,5035.0,Praha,
-400718,1.0,16850.0,Praha,
-400751,1.0,8807.0,Praha,
-400807,1.0,21702.0,Praha,
-052400,1.0,870.0,Praha,
-400599,1.0,6586.0,Praha,
-014133,1.0,1821.0,Praha,
-490113,2.0,11237.0,Praha,
-400238,2.0,33574.0,Praha,
-400301,2.0,34987.0,Praha,
-490164,1.0,2208.0,Praha,
-490156,2.0,35150.0,Praha,
+400777,1.0,7216.0,Hlavní město Praha,Hlavní město Praha
+490211,1.0,651.0,Hlavní město Praha,Hlavní město Praha
+400432,2.0,6614.0,Hlavní město Praha,Hlavní město Praha
+400335,2.0,3973.0,Hlavní město Praha,Hlavní město Praha
+400289,2.0,23461.0,Hlavní město Praha,Hlavní město Praha
+490211,2.0,651.0,Hlavní město Praha,Hlavní město Praha
+400408,2.0,4980.0,Hlavní město Praha,Hlavní město Praha
+490172,2.0,60758.0,Hlavní město Praha,Hlavní město Praha
+490270,2.0,4729.0,Hlavní město Praha,Hlavní město Praha
+193259,2.0,677.0,Hlavní město Praha,Hlavní město Praha
+490091,3.0,7556.0,Hlavní město Praha,Hlavní město Praha
+400394,1.0,8188.0,Hlavní město Praha,Hlavní město Praha
+490211,1.0,651.0,Hlavní město Praha,Hlavní město Praha
+146137,1.0,2388.0,Hlavní město Praha,Hlavní město Praha
+400351,1.0,7579.0,Hlavní město Praha,Hlavní město Praha
+134376,1.0,628.0,Hlavní město Praha,Hlavní město Praha
+182371,1.0,4528.0,Hlavní město Praha,Hlavní město Praha
+400441,2.0,11083.0,Hlavní město Praha,Hlavní město Praha
+131555,1.0,1786.0,Hlavní město Praha,Hlavní město Praha
+400513,1.0,2734.0,Hlavní město Praha,Hlavní město Praha
+490172,2.0,60758.0,Hlavní město Praha,Hlavní město Praha
+400319,2.0,16145.0,Hlavní město Praha,Hlavní město Praha
+173428,1.0,10992.0,Hlavní město Praha,Hlavní město Praha
+072621,1.0,438.0,Hlavní město Praha,Hlavní město Praha
+400424,1.0,6592.0,Hlavní město Praha,Hlavní město Praha
+490199,1.0,15705.0,Hlavní město Praha,Hlavní město Praha
+400670,1.0,3750.0,Hlavní město Praha,Hlavní město Praha
+400661,1.0,5035.0,Hlavní město Praha,Hlavní město Praha
+400718,1.0,16850.0,Hlavní město Praha,Hlavní město Praha
+400751,1.0,8807.0,Hlavní město Praha,Hlavní město Praha
+400807,1.0,21702.0,Hlavní město Praha,Hlavní město Praha
+052400,1.0,870.0,Hlavní město Praha,Hlavní město Praha
+400599,1.0,6586.0,Hlavní město Praha,Hlavní město Praha
+014133,1.0,1821.0,Hlavní město Praha,Hlavní město Praha
+490113,2.0,11237.0,Hlavní město Praha,Hlavní město Praha
+400238,2.0,33574.0,Hlavní město Praha,Hlavní město Praha
+400301,2.0,34987.0,Hlavní město Praha,Hlavní město Praha
+490164,1.0,2208.0,Hlavní město Praha,Hlavní město Praha
+490156,2.0,35150.0,Hlavní město Praha,Hlavní město Praha
 406392,2.0,1621.0,Plzeň-město,Plzeňský kraj
 406317,2.0,18875.0,Plzeň-město,Plzeňský kraj
 405744,1.0,6796.0,Karlovy Vary,Karlovarský kraj
@@ -11704,8 +11704,8 @@ kod_cast,radon,populace,okres,kraj
 160873,2.0,235.0,Havlíčkův Brod,Kraj Vysočina
 038296,2.0,646.0,Havlíčkův Brod,Kraj Vysočina
 038318,3.0,66.0,Havlíčkův Brod,Kraj Vysočina
-400483,2.0,22461.0,Praha,
-400866,2.0,19161.0,Praha,
+400483,2.0,22461.0,Hlavní město Praha,Hlavní město Praha
+400866,2.0,19161.0,Hlavní město Praha,Hlavní město Praha
 002518,2.0,122.0,Prachatice,Jihočeský kraj
 167193,3.0,51.0,Strakonice,Jihočeský kraj
 101176,2.0,90.0,Strakonice,Jihočeský kraj
@@ -11721,13 +11721,13 @@ kod_cast,radon,populace,okres,kraj
 034568,2.0,202.0,Domažlice,Plzeňský kraj
 030406,2.0,61.0,Cheb,Karlovarský kraj
 121631,2.0,6.0,Cheb,Karlovarský kraj
-400581,1.0,16444.0,Praha,
-490105,2.0,36151.0,Praha,
-490059,2.0,14074.0,Praha,
-490121,2.0,4584.0,Praha,
-400262,1.0,10091.0,Praha,
-400220,2.0,22059.0,Praha,
-145271,1.0,123.0,Praha,
+400581,1.0,16444.0,Hlavní město Praha,Hlavní město Praha
+490105,2.0,36151.0,Hlavní město Praha,Hlavní město Praha
+490059,2.0,14074.0,Hlavní město Praha,Hlavní město Praha
+490121,2.0,4584.0,Hlavní město Praha,Hlavní město Praha
+400262,1.0,10091.0,Hlavní město Praha,Hlavní město Praha
+400220,2.0,22059.0,Hlavní město Praha,Hlavní město Praha
+145271,1.0,123.0,Hlavní město Praha,Hlavní město Praha
 406368,2.0,30858.0,Plzeň-město,Plzeňský kraj
 122122,2.0,29697.0,Plzeň-město,Plzeňský kraj
 063584,3.0,2317.0,Karlovy Vary,Karlovarský kraj
@@ -11765,102 +11765,102 @@ kod_cast,radon,populace,okres,kraj
 095761,2.0,420.0,Havlíčkův Brod,Kraj Vysočina
 192601,2.0,64.0,Havlíčkův Brod,Kraj Vysočina
 408239,3.0,3771.0,Jablonec nad Nisou,Liberecký kraj
-490181,2.0,37665.0,Praha,
-490130,2.0,21402.0,Praha,
+490181,2.0,37665.0,Hlavní město Praha,Hlavní město Praha
+490130,2.0,21402.0,Hlavní město Praha,Hlavní město Praha
 194581,2.0,96.0,Prachatice,Jihočeský kraj
-400769,1.0,1391.0,Praha,
-068608,1.0,301.0,Praha,
-052396,1.0,1133.0,Praha,
-173398,1.0,703.0,Praha,
-002585,1.0,729.0,Praha,
-400611,1.0,27030.0,Praha,
-400505,1.0,895.0,Praha,
-102326,1.0,366.0,Praha,
-490202,1.0,14304.0,Praha,
-400254,1.0,5540.0,Praha,
-490229,2.0,48805.0,Praha,
-128091,2.0,3956.0,Praha,
-129241,2.0,381.0,Praha,
-490041,2.0,4132.0,Praha,
-400246,2.0,1885.0,Praha,
-490067,2.0,37664.0,Praha,
-490059,2.0,14074.0,Praha,
-490261,2.0,58267.0,Praha,
-490121,2.0,4584.0,Praha,
-490113,2.0,11237.0,Praha,
-490083,2.0,2912.0,Praha,
-490024,2.0,21989.0,Praha,
-490075,2.0,1774.0,Praha,
+400769,1.0,1391.0,Hlavní město Praha,Hlavní město Praha
+068608,1.0,301.0,Hlavní město Praha,Hlavní město Praha
+052396,1.0,1133.0,Hlavní město Praha,Hlavní město Praha
+173398,1.0,703.0,Hlavní město Praha,Hlavní město Praha
+002585,1.0,729.0,Hlavní město Praha,Hlavní město Praha
+400611,1.0,27030.0,Hlavní město Praha,Hlavní město Praha
+400505,1.0,895.0,Hlavní město Praha,Hlavní město Praha
+102326,1.0,366.0,Hlavní město Praha,Hlavní město Praha
+490202,1.0,14304.0,Hlavní město Praha,Hlavní město Praha
+400254,1.0,5540.0,Hlavní město Praha,Hlavní město Praha
+490229,2.0,48805.0,Hlavní město Praha,Hlavní město Praha
+128091,2.0,3956.0,Hlavní město Praha,Hlavní město Praha
+129241,2.0,381.0,Hlavní město Praha,Hlavní město Praha
+490041,2.0,4132.0,Hlavní město Praha,Hlavní město Praha
+400246,2.0,1885.0,Hlavní město Praha,Hlavní město Praha
+490067,2.0,37664.0,Hlavní město Praha,Hlavní město Praha
+490059,2.0,14074.0,Hlavní město Praha,Hlavní město Praha
+490261,2.0,58267.0,Hlavní město Praha,Hlavní město Praha
+490121,2.0,4584.0,Hlavní město Praha,Hlavní město Praha
+490113,2.0,11237.0,Hlavní město Praha,Hlavní město Praha
+490083,2.0,2912.0,Hlavní město Praha,Hlavní město Praha
+490024,2.0,21989.0,Hlavní město Praha,Hlavní město Praha
+490075,2.0,1774.0,Hlavní město Praha,Hlavní město Praha
 406422,1.0,2670.0,Plzeň-město,Plzeňský kraj
-400921,2.0,2464.0,Praha,
-400190,2.0,13611.0,Praha,
-400459,2.0,23401.0,Praha,
-400211,2.0,50043.0,Praha,
-400742,2.0,22466.0,Praha,
-400637,2.0,12261.0,Praha,
-490261,2.0,58267.0,Praha,
-490067,2.0,37664.0,Praha,
-490105,2.0,36151.0,Praha,
-127001,2.0,977.0,Praha,
-490148,2.0,21941.0,Praha,
-400017,2.0,6272.0,Praha,
-490229,2.0,48805.0,Praha,
-490237,2.0,36836.0,Praha,
-490105,2.0,36151.0,Praha,
-490148,2.0,21941.0,Praha,
-490024,2.0,21989.0,Praha,
-490229,2.0,48805.0,Praha,
-490181,2.0,37665.0,Praha,
-490229,2.0,48805.0,Praha,
-400203,3.0,17777.0,Praha,
-129186,3.0,289.0,Praha,
-490032,1.0,25756.0,Praha,
-490199,1.0,15705.0,Praha,
-400912,1.0,5753.0,Praha,
-162132,1.0,3179.0,Praha,
-173991,1.0,3829.0,Praha,
-400521,1.0,1484.0,Praha,
-068594,1.0,3643.0,Praha,
-400505,1.0,895.0,Praha,
-400491,1.0,6270.0,Praha,
-043770,1.0,15303.0,Praha,
-120987,1.0,4497.0,Praha,
+400921,2.0,2464.0,Hlavní město Praha,Hlavní město Praha
+400190,2.0,13611.0,Hlavní město Praha,Hlavní město Praha
+400459,2.0,23401.0,Hlavní město Praha,Hlavní město Praha
+400211,2.0,50043.0,Hlavní město Praha,Hlavní město Praha
+400742,2.0,22466.0,Hlavní město Praha,Hlavní město Praha
+400637,2.0,12261.0,Hlavní město Praha,Hlavní město Praha
+490261,2.0,58267.0,Hlavní město Praha,Hlavní město Praha
+490067,2.0,37664.0,Hlavní město Praha,Hlavní město Praha
+490105,2.0,36151.0,Hlavní město Praha,Hlavní město Praha
+127001,2.0,977.0,Hlavní město Praha,Hlavní město Praha
+490148,2.0,21941.0,Hlavní město Praha,Hlavní město Praha
+400017,2.0,6272.0,Hlavní město Praha,Hlavní město Praha
+490229,2.0,48805.0,Hlavní město Praha,Hlavní město Praha
+490237,2.0,36836.0,Hlavní město Praha,Hlavní město Praha
+490105,2.0,36151.0,Hlavní město Praha,Hlavní město Praha
+490148,2.0,21941.0,Hlavní město Praha,Hlavní město Praha
+490024,2.0,21989.0,Hlavní město Praha,Hlavní město Praha
+490229,2.0,48805.0,Hlavní město Praha,Hlavní město Praha
+490181,2.0,37665.0,Hlavní město Praha,Hlavní město Praha
+490229,2.0,48805.0,Hlavní město Praha,Hlavní město Praha
+400203,3.0,17777.0,Hlavní město Praha,Hlavní město Praha
+129186,3.0,289.0,Hlavní město Praha,Hlavní město Praha
+490032,1.0,25756.0,Hlavní město Praha,Hlavní město Praha
+490199,1.0,15705.0,Hlavní město Praha,Hlavní město Praha
+400912,1.0,5753.0,Hlavní město Praha,Hlavní město Praha
+162132,1.0,3179.0,Hlavní město Praha,Hlavní město Praha
+173991,1.0,3829.0,Hlavní město Praha,Hlavní město Praha
+400521,1.0,1484.0,Hlavní město Praha,Hlavní město Praha
+068594,1.0,3643.0,Hlavní město Praha,Hlavní město Praha
+400505,1.0,895.0,Hlavní město Praha,Hlavní město Praha
+400491,1.0,6270.0,Hlavní město Praha,Hlavní město Praha
+043770,1.0,15303.0,Hlavní město Praha,Hlavní město Praha
+120987,1.0,4497.0,Hlavní město Praha,Hlavní město Praha
 073253,2.0,88.0,Sokolov,Karlovarský kraj
-490041,1.0,4132.0,Praha,
-086428,2.0,874.0,Praha,
-033332,2.0,4175.0,Praha,
-490059,2.0,14074.0,Praha,
-490229,2.0,48805.0,Praha,
+490041,1.0,4132.0,Hlavní město Praha,Hlavní město Praha
+086428,2.0,874.0,Hlavní město Praha,Hlavní město Praha
+033332,2.0,4175.0,Hlavní město Praha,Hlavní město Praha
+490059,2.0,14074.0,Hlavní město Praha,Hlavní město Praha
+490229,2.0,48805.0,Hlavní město Praha,Hlavní město Praha
 151858,2.0,100.0,Plzeň-jih,Plzeňský kraj
-490148,2.0,21941.0,Praha,
-490075,2.0,1774.0,Praha,
-400785,2.0,10031.0,Praha,
-400157,2.0,5692.0,Praha,
-490032,2.0,25756.0,Praha,
-490245,2.0,17465.0,Praha,
-490083,2.0,2912.0,Praha,
-029955,2.0,2802.0,Praha,
-490253,2.0,35228.0,Praha,
-400360,2.0,2538.0,Praha,
-490130,2.0,21402.0,Praha,
+490148,2.0,21941.0,Hlavní město Praha,Hlavní město Praha
+490075,2.0,1774.0,Hlavní město Praha,Hlavní město Praha
+400785,2.0,10031.0,Hlavní město Praha,Hlavní město Praha
+400157,2.0,5692.0,Hlavní město Praha,Hlavní město Praha
+490032,2.0,25756.0,Hlavní město Praha,Hlavní město Praha
+490245,2.0,17465.0,Hlavní město Praha,Hlavní město Praha
+490083,2.0,2912.0,Hlavní město Praha,Hlavní město Praha
+029955,2.0,2802.0,Hlavní město Praha,Hlavní město Praha
+490253,2.0,35228.0,Hlavní město Praha,Hlavní město Praha
+400360,2.0,2538.0,Hlavní město Praha,Hlavní město Praha
+490130,2.0,21402.0,Hlavní město Praha,Hlavní město Praha
 095150,1.0,1771.0,Hodonín,Jihomoravský kraj
-400904,2.0,16006.0,Praha,
-490245,2.0,17465.0,Praha,
-490237,2.0,36836.0,Praha,
-400793,2.0,3800.0,Praha,
-128457,2.0,19129.0,Praha,
-490202,2.0,14304.0,Praha,
-001520,2.0,2414.0,Praha,
-068501,2.0,1626.0,Praha,
-065447,1.0,3511.0,Praha,
-173771,2.0,10429.0,Praha,
-400165,2.0,27344.0,Praha,
-150592,1.0,3536.0,Praha,
-306169,2.0,8462.0,Praha,
-400343,2.0,9759.0,Praha,
-083976,2.0,2970.0,Praha,
-490270,3.0,4729.0,Praha,
-150576,2.0,463.0,Praha,
+400904,2.0,16006.0,Hlavní město Praha,Hlavní město Praha
+490245,2.0,17465.0,Hlavní město Praha,Hlavní město Praha
+490237,2.0,36836.0,Hlavní město Praha,Hlavní město Praha
+400793,2.0,3800.0,Hlavní město Praha,Hlavní město Praha
+128457,2.0,19129.0,Hlavní město Praha,Hlavní město Praha
+490202,2.0,14304.0,Hlavní město Praha,Hlavní město Praha
+001520,2.0,2414.0,Hlavní město Praha,Hlavní město Praha
+068501,2.0,1626.0,Hlavní město Praha,Hlavní město Praha
+065447,1.0,3511.0,Hlavní město Praha,Hlavní město Praha
+173771,2.0,10429.0,Hlavní město Praha,Hlavní město Praha
+400165,2.0,27344.0,Hlavní město Praha,Hlavní město Praha
+150592,1.0,3536.0,Hlavní město Praha,Hlavní město Praha
+306169,2.0,8462.0,Hlavní město Praha,Hlavní město Praha
+400343,2.0,9759.0,Hlavní město Praha,Hlavní město Praha
+083976,2.0,2970.0,Hlavní město Praha,Hlavní město Praha
+490270,3.0,4729.0,Hlavní město Praha,Hlavní město Praha
+150576,2.0,463.0,Hlavní město Praha,Hlavní město Praha
 076198,2.0,2429.0,Plzeň-město,Plzeňský kraj
 490318,2.0,24773.0,Plzeň-město,Plzeňský kraj
 080942,2.0,1692.0,Plzeň-město,Plzeňský kraj
@@ -11976,10 +11976,10 @@ kod_cast,radon,populace,okres,kraj
 405132,2.0,0.0,Tábor,Jihočeský kraj
 405833,2.0,9.0,Klatovy,Plzeňský kraj
 179761,2.0,1308.0,Děčín,Ústecký kraj
-127302,2.0,1651.0,Praha,
-490156,2.0,35150.0,Praha,
-076074,1.0,1173.0,Praha,
-490261,2.0,58267.0,Praha,
+127302,2.0,1651.0,Hlavní město Praha,Hlavní město Praha
+490156,2.0,35150.0,Hlavní město Praha,Hlavní město Praha
+076074,1.0,1173.0,Hlavní město Praha,Hlavní město Praha
+490261,2.0,58267.0,Hlavní město Praha,Hlavní město Praha
 490318,2.0,24773.0,Plzeň-město,Plzeňský kraj
 490326,2.0,4350.0,Plzeň-město,Plzeňský kraj
 048518,1.0,1439.0,Karlovy Vary,Karlovarský kraj
@@ -12261,24 +12261,24 @@ kod_cast,radon,populace,okres,kraj
 140023,3.0,63.0,Havlíčkův Brod,Kraj Vysočina
 029751,3.0,6.0,Havlíčkův Brod,Kraj Vysočina
 140015,3.0,32.0,Havlíčkův Brod,Kraj Vysočina
-031445,1.0,177.0,Rychnov nad Kněžnou,Královéhradecký kraj
-070190,1.0,5675.0,Rychnov nad Kněžnou,Královéhradecký kraj
-070335,1.0,282.0,Rychnov nad Kněžnou,Královéhradecký kraj
-070343,1.0,66.0,Rychnov nad Kněžnou,Královéhradecký kraj
-145556,2.0,102.0,Rychnov nad Kněžnou,Královéhradecký kraj
-149055,1.0,79.0,Rychnov nad Kněžnou,Královéhradecký kraj
-149101,1.0,552.0,Rychnov nad Kněžnou,Královéhradecký kraj
-149098,1.0,28.0,Rychnov nad Kněžnou,Královéhradecký kraj
-149063,1.0,86.0,Rychnov nad Kněžnou,Královéhradecký kraj
-012629,1.0,105.0,Rychnov nad Kněžnou,Královéhradecký kraj
-149071,1.0,29.0,Rychnov nad Kněžnou,Královéhradecký kraj
-012602,1.0,202.0,Rychnov nad Kněžnou,Královéhradecký kraj
+031445,1.0,177.0,Rychnov n.Kněžnou,
+070190,1.0,5675.0,Rychnov n.Kněžnou,
+070335,1.0,282.0,Rychnov n.Kněžnou,
+070343,1.0,66.0,Rychnov n.Kněžnou,
+145556,2.0,102.0,Rychnov n.Kněžnou,
+149055,1.0,79.0,Rychnov n.Kněžnou,
+149101,1.0,552.0,Rychnov n.Kněžnou,
+149098,1.0,28.0,Rychnov n.Kněžnou,
+149063,1.0,86.0,Rychnov n.Kněžnou,
+012629,1.0,105.0,Rychnov n.Kněžnou,
+149071,1.0,29.0,Rychnov n.Kněžnou,
+012602,1.0,202.0,Rychnov n.Kněžnou,
 033375,1.0,648.0,Trutnov,Královéhradecký kraj
 411329,1.0,24.0,Trutnov,Královéhradecký kraj
 182761,1.0,247.0,Trutnov,Královéhradecký kraj
 182737,1.0,37.0,Trutnov,Královéhradecký kraj
 182745,1.0,529.0,Trutnov,Královéhradecký kraj
-070327,1.0,84.0,Rychnov nad Kněžnou,Královéhradecký kraj
+070327,1.0,84.0,Rychnov n.Kněžnou,
 182770,2.0,31.0,Trutnov,Královéhradecký kraj
 158291,2.0,570.0,Třebíč,Kraj Vysočina
 190217,3.0,53.0,Třebíč,Kraj Vysočina
@@ -12977,7 +12977,7 @@ kod_cast,radon,populace,okres,kraj
 106488,1.0,235.0,Náchod,Královéhradecký kraj
 410420,2.0,6716.0,Náchod,Královéhradecký kraj
 106437,1.0,1477.0,Náchod,Královéhradecký kraj
-031429,1.0,1522.0,Rychnov nad Kněžnou,Královéhradecký kraj
+031429,1.0,1522.0,Rychnov n.Kněžnou,
 038385,2.0,113.0,Třebíč,Kraj Vysočina
 096806,2.0,1756.0,Trutnov,Královéhradecký kraj
 153443,2.0,167.0,Jihlava,Kraj Vysočina
